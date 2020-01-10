@@ -1,0 +1,10 @@
+baseURL = "http://lucamailhol.com"
+languageCode = "fr"
+title = "Luca Mailhol"
+sectionPagesMenu = "main"
+
+[params]
+  dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+  tag = "tags"
