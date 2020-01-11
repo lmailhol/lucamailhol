@@ -1,10 +1,22 @@
-baseURL = "http://lucamailhol.com"
+baseURL = "https://lucamailhol.com"
 languageCode = "fr"
 title = "Luca Mailhol"
 sectionPagesMenu = "main"
 
 [params]
   dateFormat = "Jan 2, 2006"
+
+  [menu]
+    [[menu.main]]
+      name = "Portfolio"
+      url = "/portfolio/"
+      identifier = "portfolio"
+      weight = 1
+    [[menu.main]]
+      name = "Blog"
+      url = "/blog/"
+      identifier = "blog"
+      weight = 2
 
 [taxonomies]
   tag = "tags"
