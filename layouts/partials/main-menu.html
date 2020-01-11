@@ -1,6 +1,8 @@
-<ul class="master-menu">
-{{ $currentPage := . }}
-{{ range .Site.Menus.main }}
-  <li><a href="{{ .URL }}" class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}">{{ .Name }}</a></li>
-{{ end }}
-</ul>
+<nav class="mainMenu">
+  <ul>
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+    <li><a href="{{ .URL }}" class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}">{{ .Name }}</a></li>
+  {{ end }}
+  </ul>
+</nav>
