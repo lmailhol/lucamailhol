@@ -1,14 +1,25 @@
 {{ define "main" }}
 
-<article class="blogs">
-  <section>
-    En construction...
-    <ul>
-      {{ range .Pages.ByPublishDate.Reverse }}
-      <li>{{ partial "date.html" . }}-&nbsp;<a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;{{ partial "tags.html" . }}</li>
-      {{ end }}
-    </ul>
-  </section>
-</article>
+<div class="container">
+  <div class="row">
+    <div class="two columns">
+      {{ partial "main-menu.html" . }}
+      <nav class="portfolioMenu">
+        <ul>
+          {{ range .Pages.ByPublishDate.Reverse }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+    </div>
+    <div class="ten columns">
+      <article class="portfolios">
+        <section>
+          {{ .Content }}
+        </section>
+      </article>
+    </div>
+  </div>
+</div>
 
 {{ end }}

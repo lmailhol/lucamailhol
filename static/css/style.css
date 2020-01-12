@@ -26,7 +26,7 @@ body a:hover {
   margin-bottom: 30px;
 }
 
-.headBar a { color: #f5f5f5; }
+.headBar a { color: #f5f5f5; text-transform: uppercase; }
 .headBar a:hover { color: #633058; }
 
 img {
@@ -39,9 +39,7 @@ img {
  */
 
 .mainMenu {
-  position: sticky;
-  position: -webkit-sticky;
-  border-right: 1px solid #963e82;;
+  border-right: 1px solid #963e82;
 }
 
 .mainMenu ul { list-style-type: none; text-align: right; padding-right: 10px; }
@@ -58,6 +56,26 @@ img {
 }
 
 .mainMenu li a.active:hover { background-color: transparent; }
+
+/*
+ * PORTFOLIO MENU (LIST.HTML - PORTFOLIO)
+ */
+
+ .portfolioMenu  { position: sticky; position: -webkit-sticky; }
+
+ .portfolioMenu ul { list-style-type: none; text-align: right; }
+
+ .portfolioMenu li a { font-family: 'Roboto Condensed', sans-serif; color: #f5f5f5; }
+
+ .portfolioMenu li a:hover { color: #963e82; }
+
+ .portfolioMenu li a.active::before{
+   content: "X";
+   color: #963e82;
+   margin-right: 0.4rem;
+ }
+
+
 
 /*
  * BLOGS (LIST.HTML)
@@ -102,29 +120,29 @@ img {
 }
 
 /*
- * BLOG (SINGLE.HTML)
+ * BLOG (SINGLE.HTML) / PORTFOLIO (SINGLE.HTML)
  */
 
- .blog {
+ .blog, .portfolio {
    margin-bottom: 80px;
  }
 
-.blog header { border-bottom : 1px solid #4C4C4C; margin-bottom: 1rem; }
+.blog header, .portfolio header { border-bottom : 1px solid #4C4C4C; margin-bottom: 1rem; }
 
-.blogContent h3 {
+.blogContent h3, .portfolioContent h3 {
   text-transform: uppercase;
   color: #963e82;
 }
 
-.blogContent blockquote {
+.blogContent blockquote, .portfolioContent blockquote {
   border-left: 1px solid #963e82;
   padding-left: 1rem;
   margin-left: 0;
 }
 
-.blogContent { border-bottom : 1px solid #4C4C4C; margin-bottom: 1rem; }
+.blogContent, .portfolioContent { border-bottom : 1px solid #4C4C4C; margin-bottom: 1rem; }
 
-.blog footer p a {
+.blog footer p a, .portfolio footer p a {
   border: 1px solid #963e82;
   background-color: transparent;
   border-radius: 5px;
@@ -132,7 +150,7 @@ img {
   padding: 1px 7px 1px 7px;
 }
 
-.blog footer p a:hover {
+.blog footer p a:hover, .portfolio footer p a:hover {
   background-color: #963e82;
   text-decoration: none;
   color: #f5f5f5;

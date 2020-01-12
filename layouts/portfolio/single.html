@@ -1,22 +1,39 @@
 {{ define "main" }}
-<article class="blog">
-  <header>
-    {{ partial "date.html" . }} par Luca Mailhol
-    <h2>{{ .Title }}</h2>
-  </header>
-  <section class="blogContent">
-    {{ .Content }}
-  </section>
-  <footer>
-    <p>
-    {{ with .PrevInSection }}
-      <a class="previous" href="{{.Permalink}}"><< {{.Title}}</a>
-    {{ end }}
-    &nbsp;
-    {{ with .NextInSection }}
-      <span style="float:right;"><a class="next" href="{{.Permalink}}">{{.Title}} >></a></span>
-    {{ end }}
-    </p>
-  </footer>
-</article>
+{{ $currentPage := . }}
+<div class="container">
+  <div class="row">
+    <div class="two columns">
+      {{ partial "main-menu.html" . }}
+      <nav class="portfolioMenu">
+        <ul>
+          {{ range .Site.Menus.portfolio }}
+            <li><a href="{{ .URL }}" class="{{ if $currentPage.IsMenuCurrent "portfolio" . }}active{{ end }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+    </div>
+    <div class="ten columns">
+      <article class="portfolio">
+        <header>
+          <h2>{{ .Title }}</h2>
+        </header>
+        <section class="portfolioContent">
+          {{ .Content }}
+        </section>
+        <footer>
+          <p>
+          {{ with .PrevInSection }}
+            <a class="previous" href="{{.Permalink}}"><< {{.Title}}</a>
+          {{ end }}
+          &nbsp;
+          {{ with .NextInSection }}
+            <span style="float:right;"><a class="next" href="{{.Permalink}}">{{.Title}} >></a></span>
+          {{ end }}
+          </p>
+        </footer>
+      </article>
+    </div>
+  </div>
+</div>
+
 {{ end }}
