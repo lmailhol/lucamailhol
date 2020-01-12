@@ -2,7 +2,6 @@
 
 <article class="blogs">
   <section>
-    En construction...
     <ul>
       {{ range .Pages.ByPublishDate.Reverse }}
       <li>{{ partial "date.html" . }}-&nbsp;<a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;{{ partial "tags.html" . }}</li>

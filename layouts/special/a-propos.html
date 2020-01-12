@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<div class="container">
+  <div class="row">
+    <div class="two columns">
+      {{ partial "main-menu.html" . }}
+    </div>
+    <div class="seven columns">
+      <article class="blog">
+        <section class="aboutContent">
+          {{ .Content }}
+        </section>
+      </article>
+    </div>
+    <div class="three columns">
+      {{ $avatar := "img/luca.jpg" | absURL }}
+      <img src="{{ $avatar }}" alt="Luca">
+    </div>
+  </div>
+</div>
+
+{{ end }}

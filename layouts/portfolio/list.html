@@ -6,8 +6,8 @@
       {{ partial "main-menu.html" . }}
       <nav class="portfolioMenu">
         <ul>
-          {{ range .Pages.ByPublishDate.Reverse }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ range .Site.Menus.portfolio }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
           {{ end }}
         </ul>
       </nav>

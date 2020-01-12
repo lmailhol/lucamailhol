@@ -120,7 +120,7 @@ img {
 }
 
 /*
- * BLOG (SINGLE.HTML) / PORTFOLIO (SINGLE.HTML)
+ * BLOG (SINGLE.HTML) / PORTFOLIO (SINGLE.HTML) / ABOUT (a-propos.html)
  */
 
  .blog, .portfolio {
@@ -129,12 +129,12 @@ img {
 
 .blog header, .portfolio header { border-bottom : 1px solid #4C4C4C; margin-bottom: 1rem; }
 
-.blogContent h3, .portfolioContent h3 {
+.blogContent h3, .portfolioContent h3, .aboutContent h3 {
   text-transform: uppercase;
   color: #963e82;
 }
 
-.blogContent blockquote, .portfolioContent blockquote {
+.blogContent blockquote, .portfolioContent blockquote, .aboutContent blockquote {
   border-left: 1px solid #963e82;
   padding-left: 1rem;
   margin-left: 0;

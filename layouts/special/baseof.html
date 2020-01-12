@@ -2,20 +2,10 @@
 <html lang="fr">
   {{ partial "head.html" . }}
   <body>
-  <div class="container">
-    <div class="row">
-      <div class="three columns">
-        <p class="logo">{{ .Site.Title }}</p>
-        <nav class="menu">
-          {{ partial "main-menu.html" . }}
-        </nav>
-      </div>
-      <div class="nine columns">
-        <article>
-          {{ block "main" . }}{{ end }}
-        </article>
-      </div>
+    {{ partial "header.html" . }}
+    {{ block "main" . }}{{ end }}
+    <div class="mainFooter">
+      {{ partial "main-footer.html" . }}
     </div>
-  </div>
-</body>
+  </body>
 </html>
