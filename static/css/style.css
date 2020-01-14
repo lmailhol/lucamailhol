@@ -1,6 +1,6 @@
 html {
   height:100%;
-  background-color: #1c1c1c;
+  background-color: #121212;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 }
 
 body a, .purple {
-  color: #963e82;
+  color: #963e81;
   text-decoration: none;
 }
 
@@ -20,9 +20,9 @@ body a:hover {
 
 .headBar {
   text-align: center;
-  background-color: #963e82;
+  background-color: #963e81;
   padding: 5px;
-  border-bottom: 2px solid #633058;
+  border-bottom: 2px solid #6c2d6a;
   margin-bottom: 30px;
 }
 

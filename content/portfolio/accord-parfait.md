@@ -17,7 +17,11 @@ Chef-opérateur : Luca Mailhol
 ![riap 05](/portfolio/accord-parfait/riap-004.jpg)
 ![riap 04](/portfolio/accord-parfait/riap-005.jpg)
 
-**Équipe :**
+### Photos de tournage :
+
+{{< gallery dir="/portfolio/accord-parfait/bts" />}} {{< load-photoswipe >}}
+
+### Équipe :
 
 * **Avec :** Charlotte Bizjak, Xavier Inbona, Gabin Henry, Olivier Nagarra, Delphine Poudou, Marion Jadot, Michel Derville, Cécile Dominjon, Axel Ducret, Christine Gaillard, Agathe Vidal...
 * **Production :** Les Films 13
@@ -44,9 +48,7 @@ Chef-opérateur : Luca Mailhol
 * **Étalonnage et graphisme :** Luca Mailhol
 * **Montage son et mixage :** Mathilde Martouzet
 
-
-
-**Fiche technique :**
+### Fiche technique :
 
 * **Durée :** 14'59"
 * **Ratio :** 2.35:1

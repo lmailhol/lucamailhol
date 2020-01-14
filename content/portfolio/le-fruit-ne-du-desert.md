@@ -16,7 +16,11 @@ Un court-métrage documentaire écrit et réalisé par Luca Mailhol
 ![ningxia 05](/portfolio/le-fruit-ne-du-desert/lfndd-0005.jpg)
 ![ningxia 04](/portfolio/le-fruit-ne-du-desert/lfndd-0004.jpg)
 
-**Équipe :**
+### Photos de tournage :
+
+{{< gallery dir="/portfolio/le-fruit-ne-du-desert/bts" />}} {{< load-photoswipe >}}
+
+### Équipe :
 
 * **Production :** GCN France & Les Ateliers du Cinéma
 * **Directeur de production :** Rémi Bergman
@@ -28,7 +32,7 @@ Un court-métrage documentaire écrit et réalisé par Luca Mailhol
 * **Montage image / son et étalonnage :** Luca Mailhol
 * **Mixage son :** Mathilde Marthouzet
 
-**Fiche technique :**
+### Fiche technique :
 
 * **Durée :** 19'05"
 * **Ratio :** 2.00:1

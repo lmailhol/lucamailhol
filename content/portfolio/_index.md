@@ -2,4 +2,4 @@
 title: À l'image
 ---
 
-En construction...
+![ningxia 02](/portfolio/le-fruit-ne-du-desert/lfndd-0002.jpg)

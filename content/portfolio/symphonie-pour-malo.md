@@ -16,7 +16,11 @@ Directeur de la photographie : Luca Mailhol
 ![spm 03](/portfolio/symphonie-pour-malo/spm-03.jpg)
 ![spm 04](/portfolio/symphonie-pour-malo/spm-04.jpg)
 
-**Équipe :**
+### Photos de tournage :
+
+{{< gallery dir="/portfolio/symphonie-pour-malo/bts" />}} {{< load-photoswipe >}}
+
+### Équipe :
 
 * **Avec :** Léo Derre, Madeleine Pougatch, Jérôme Derre, Frédéric Valentin, Delphine Baril, Grégoire Fallas, Pierre Demossier, Matthew Lemaitre, Xavier Inbona...
 * **Production :** Les Ateliers du Cinéma
@@ -36,7 +40,7 @@ Directeur de la photographie : Luca Mailhol
 * **Étalonnage :** Luca Mailhol
 * **Montage son et mixage :** Florian Polet
 
-**Fiche technique :**
+### Fiche technique :
 
 * **Durée :** 33'40"
 * **Ratio :** 1.33:1
