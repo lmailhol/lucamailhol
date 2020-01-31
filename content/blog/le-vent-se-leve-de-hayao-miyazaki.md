@@ -1,7 +1,7 @@
 ---
 title: "Le Vent Se Lève de Hayao Miyazaki"
 date: 2015-06-01T14:09:32+01:00
-tags: ["article"]
+tags: ["article", "cinéma"]
 draft: false
 ---
 

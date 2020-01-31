@@ -1,7 +1,7 @@
 ---
 title: "Nouvelles histoires de fantômes de Georges Didi-Huberman et Arno Gisinger"
 date: 2014-09-01T14:09:32+01:00
-tags: ["article"]
+tags: ["article", "art"]
 draft: false
 ---
 

@@ -12,10 +12,17 @@
         </ul>
       </nav>
     </div>
+    <div class="eight columns">
+      <h2>{{ .Title }}</h2>
+      {{ .Params.projectReal }}
+    </div>
+    <div class="two columns">
+      <img src="/portfolio/accord-parfait/cover.jpg" />
+    </div>
     <div class="ten columns">
       <article class="portfolio">
         <header>
-          <h2>{{ .Title }}</h2>
+
         </header>
         <section class="portfolioContent">
           {{ .Content }}

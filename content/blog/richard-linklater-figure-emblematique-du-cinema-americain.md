@@ -1,7 +1,7 @@
 ---
 title: "Richard Linklater, figure emblématique du cinéma américain"
 date: 2014-11-01T14:09:32+01:00
-tags: ["article"]
+tags: ["article", "cinéma"]
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Art Farm, quand la provocation cache une réalité artistique complexe"
 date: 2015-03-01T14:09:32+01:00
-tags: ["article"]
+tags: ["article", "art"]
 draft: false
 ---
 
