@@ -6,12 +6,16 @@ menu: portfolio
 ---
 
 **Regards**  
-Un court-métrage écrit et réalisé par Xiaoton Mu
+Un court-métrage écrit et réalisé par Xiaoton Mu  
 Chef-opérateur : Luca Mailhol
 
 > Un vieil homme, aveugle, se souvient d'un accident de voiture qu'il a causé de nombreuses années auparavant.
 
-![reg 01](/portfolio/regards/reg-001.png)
+![reg 01](/portfolio/regards/reg-001.jpg)
+![reg 03](/portfolio/regards/reg-003.jpg)
+![reg 04](/portfolio/regards/reg-004.jpg)
+![reg 02](/portfolio/regards/reg-002.jpg)
+
 
 ### Photos de tournage :
 
