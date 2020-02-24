@@ -6,11 +6,11 @@
     <div class="two columns">
       {{ partial "main-menu.html" . }}
       <nav class="portfolioMenu">
-        <!--<ul>
+        <ul>
           {{ range .Site.Taxonomies.tags }}
               <li><a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a></li>
             {{ end }}
-        </ul>-->
+        </ul>
       </nav>
     </div>
     <div class="ten columns">
@@ -23,15 +23,15 @@
           {{ .Content }}
         </section>
         <footer>
-          <p>
+          <!--<p>
           {{ with .PrevInSection }}
-            <a class="previous" href="{{.RelPermalink}}"><< {{.Title}}</a>
+            <a class="previous" href="{{.Permalink}}"><< {{.Title}}</a>
           {{ end }}
           &nbsp;
           {{ with .NextInSection }}
-            <span style="float:right;"><a class="next" href="{{.RelPermalink}}">{{.Title}} >></a></span>
+            <span style="float:right;"><a class="next" href="{{.Permalink}}">{{.Title}} >></a></span>
           {{ end }}
-          </p>
+          </p>-->
         </footer>
       </article>
     </div>
