@@ -23,11 +23,11 @@
         <footer>
           <p>
           {{ with .PrevInSection }}
-            <a class="previous" href="{{.Permalink}}"><< {{.Title}}</a>
+            <a class="previous" href="{{.RelPermalink}}"><< {{.Title}}</a>
           {{ end }}
           &nbsp;
           {{ with .NextInSection }}
-            <span style="float:right;"><a class="next" href="{{.Permalink}}">{{.Title}} >></a></span>
+            <span style="float:right;"><a class="next" href="{{.RelPermalink}}">{{.Title}} >></a></span>
           {{ end }}
           </p>
         </footer>
