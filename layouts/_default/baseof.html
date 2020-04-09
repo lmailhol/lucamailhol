@@ -2,11 +2,10 @@
 <html lang="fr">
   {{ partial "head.html" . }}
   <body>
-    {{ partial "header.html" . }}
     <div class="container">
       <div class="row">
         <div class="two columns">
-          {{ partial "main-menu.html" . }}
+          {{ partial "mainMenu.html" . }}
         </div>
         <div class="ten columns">
             {{ block "main" . }}{{ end }}
@@ -14,7 +13,7 @@
       </div>
     </div>
     <div class="mainFooter">
-      {{ partial "main-footer.html" . }}
+      {{ partial "mainFooter.html" . }}
     </div>
   </body>
 </html>
