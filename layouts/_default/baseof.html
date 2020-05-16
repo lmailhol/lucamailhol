@@ -4,16 +4,14 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="two columns">
+        <div class="twelves columns">
           {{ partial "mainMenu.html" . }}
-        </div>
-        <div class="ten columns">
-            {{ block "main" . }}{{ end }}
+
+          {{ block "main" . }}{{ end }}
         </div>
       </div>
     </div>
     <div class="mainFooter">
-      {{ partial "mainFooter.html" . }}
     </div>
   </body>
 </html>

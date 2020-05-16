@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<section class="portfolioElement">
+  <div class="portfolioElementCover">
+    <img src="{{ .Params.cover }}" alt="Card image">
+  </div>
+  <div class="portfolioElementContent">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <h3>{{ .Params.genre }} <span>{{ .Params.time }} • {{ partial "year.html" . }}</span></h3>
+    <p>{{ .Params.synopsis }}</p>
+
+    <ul>
+      {{ with .Params.tags }}
+        {{ range . }}
+          {{ $href := print (absURL "tags/") (urlize .) }}
+          <li><a href="{{ $href }}">{{ . }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+</section>
+
+<article class="portfolioContent">
+    {{ .Content }}
+</article>
+
+{{ end }}

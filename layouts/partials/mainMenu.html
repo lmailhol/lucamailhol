@@ -1,6 +1,7 @@
 <nav class="mainMenu">
   <ul>
   {{ $currentPage := . }}
+    <li><a href="{{ $.Site.BaseURL }}" class="firstLink">LUCA MAILHOL</a></li>
   {{ range .Site.Menus.main }}
     <li><a href="{{ .URL }}" class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}">{{ .Name }}</a></li>
   {{ end }}

@@ -2,12 +2,12 @@
 
 <article class="blog">
   <header>
-    <h1>{{ .Title }}</h1>
-    {{ partial "date.html" . }} / {{ partial "tags.html" . }}
+    <h2>{{ .Title }}</h2>
   </header>
   <section class="blogContent">
     {{ .Content }}
   </section>
 </article>
+
 
 {{ end }}
