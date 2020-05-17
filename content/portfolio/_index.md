@@ -2,4 +2,4 @@
 title: Portfolio
 ---
 
-**Màj du 16/05 :** Le contenu du portfolio est en cours de mise à jour.
+En cours de mise à jour. En attendant, vous pouvez visiter le site dédié à mon dernier projet, [Demain d'Argile](https://demaindargile.com).

@@ -1,10 +1,11 @@
 {{ define "main" }}
 
-<article class="blog">
+
+<article class="articleElement">
   <header>
-    <h2>{{ .Title }}</h2>
+    <h2>{{ partial "date.html" . }}&nbsp;{{ .Title }} &nbsp;<span class="articleElementTags">{{ partial "tags.html" . }}</span></h2>
   </header>
-  <section class="blogContent">
+  <section class="articleElementContent">
     {{ .Content }}
   </section>
 </article>

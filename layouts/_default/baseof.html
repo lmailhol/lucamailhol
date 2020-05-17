@@ -5,13 +5,17 @@
     <div class="container">
       <div class="row">
         <div class="twelves columns">
-          {{ partial "mainMenu.html" . }}
+          <nav class="mainMenu">
+            {{ partial "mainMenu.html" . }}
+          </nav>
 
           {{ block "main" . }}{{ end }}
+
         </div>
       </div>
     </div>
-    <div class="mainFooter">
-    </div>
+    <footer class="mainFooter">
+      {{ partial "mainFooter.html" . }}
+    </footer>
   </body>
 </html>

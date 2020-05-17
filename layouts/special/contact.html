@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<section class="portfolioElement">
+  <div class="portfolioElementCover">
+    <img src="{{ .Params.avatar }}" alt="Card image">
+  </div>
+  <div class="portfolioElementContent">
+    <h2><a href="#">À propos</a></h2>
+    <h3>{{ .Params.name }} <span>{{ .Params.where }}</span></h3>
+    <p>{{ .Params.bio }}</p>
+    <p class="mail">{{ .Params.mail }}</p>
+    <ul>
+      <li class="lastLink"><a href="https://www.aparr.org/resources/person/cv-luca-mailhol.pdf">CV</a></li>
+      <li><a href="https://vimeo.com/lmailhol">Viméo</a></li>
+      <li><a href="https://instagram.com/lmailhol">Instagram</a></li>
+      <li><a href="https://github.com/lmailhol">GitHub</a></li>
+      <li><a href="https://www.vodkaster.com/radek411">VodKaster</a></li>
+    </ul>
+  </div>
+</section>
+
+{{ end }}

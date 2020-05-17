@@ -2,4 +2,4 @@
 title: Blog
 ---
 
-**Màj du 16/05 :** Le contenu du blog est en cours de mise à jour.
+Le contenu du blog est assez ancien et actuellement en cours de mise à jour.
