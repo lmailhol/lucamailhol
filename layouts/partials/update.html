@@ -1,0 +1,3 @@
+{{ $dateTime := .Lastmod.Format "2006-01" }}
+{{ $dateFormat := "2006-01" | default "2006-01" }}
+<time datetime="{{ $dateTime }}">{{ .Lastmod.Format $dateFormat }}</time>

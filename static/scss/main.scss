@@ -35,23 +35,8 @@ a {
   text-decoration: none; }
 a:hover { color: rgb(92, 43, 77); }
 
-h1 {
-  font-size: 18px;
-  font-weight: 400;
-  text-transform: uppercase;
-  color: rgba(255,255,255,0.87);}
-
-  h1:before {
-    content: "# ";
-    color: rgb(145, 71, 123); }
-
-  h1:after {
-    content: " __";
-    color: rgb(145, 71, 123); }
-
 h2 {
-  font-size: 17px;
-  color: rgba(255,255,255,0.87);
+  font-size: 18px;
   font-weight: 400;
   margin: 0; }
 
@@ -59,12 +44,6 @@ h3 {
   font-size: 17px;
   font-weight: 300;
   color: rgb(145, 71, 123);
-  margin: 0; }
-
-h6 {
-  color: rgba(255, 255, 255, 0.38);
-  font-weight: 400;
-  font-size: 12px;
   margin: 0; }
 
 ul {
@@ -88,8 +67,6 @@ ul {
 nav.mainMenu {
   margin-top: 20px;
   margin-bottom: 20px;
-  padding-bottom: 5px;
-  border-bottom : 1px solid rgba(255,255,255,0.1);
 }
 
 nav.mainMenu ul li {
@@ -106,8 +83,7 @@ nav.mainMenu ul li {
       transition: 0.2s; }
 
     nav.mainMenu ul li a.active {
-      border-bottom: 1px solid rgb(145, 71, 123);
-      padding-bottom: 9px;}
+      border-bottom: 1px solid rgb(145, 71, 123); }
 
       nav.mainMenu ul li a.firstLink {
         color: rgba(255,255,255,0.87);
@@ -263,20 +239,6 @@ nav.mainMenu ul li {
   .articleElementContent img {
     max-width: 100%;
     box-sizing: border-box; }
-
-  .articleElementContent ul {
-    list-style-type: circle;
-    padding-left: 15px; }
-
-    .articleElementContent ul li a {
-      color: rgba(255, 255, 255, 0.87);
-    }
-
-      .articleElementContent ul li a:hover {
-        color: rgba(255, 255, 255, 0.6);
-        transition: 0.2s;
-      }
-
 
 /* FOOTER
 –––––––––––––––––––––––––––––––––––––––––––––––––– */

@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+
+<article class="articleElement">
+  <header>
+    <h2>{{ partial "date.html" . }}&nbsp;{{ .Title }}</h2>
+    <h6>Dernière mise à jour de l'article : {{ partial "update.html" . }}</h6>
+  </header>
+  <section class="articleElementContent">
+    {{ .Content }}
+  </section>
+</article>
+
+
+{{ end }}

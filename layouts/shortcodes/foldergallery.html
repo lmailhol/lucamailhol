@@ -22,10 +22,14 @@
 <div class="gallery">
     {{ $path := print "content/" .Page.Dir (.Get "src") }}
     {{ $url  := print .Page.Dir (.Get "src") }}
-    {{ range (readDir $path)  }}
-        {{ $src := print $url "/" .Name }}
-        <a data-fancybox="gallery" href="../../{{ $src }}">
-            <img src="../../{{ $src }}">  <br/>
-        </a>
-    {{ end }}
+
+      {{ range (readDir $path)  }}
+          {{ $src := print $url "/" .Name }}
+          {{- $isimg := lower $src | findRE "\\.(gif|jpg|jpeg|tiff|png|bmp)" }}
+            {{- if and $isimg }}
+              <a data-fancybox="gallery" href="../../../{{ $src }}">
+                <img src="../../../{{ $src }}">  <br/>
+              </a>
+            {{ end }}
+          {{ end }}
 </div>
