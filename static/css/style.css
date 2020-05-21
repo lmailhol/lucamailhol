@@ -61,6 +61,11 @@ h3 {
   color: rgb(145, 71, 123);
   margin: 0; }
 
+h5 {
+  font-size: 14px;
+  margin: 0;
+  font-weight: 400; }
+
 h6 {
   color: rgba(255, 255, 255, 0.38);
   font-weight: 400;
@@ -277,6 +282,28 @@ nav.mainMenu ul li {
         transition: 0.2s;
       }
 
+/* LEGALS
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.legalsElement {
+  font-size: 14px;
+  font-weight: 300;
+  color: rgba(255,255,255,0.38);
+}
+  .legalsElement p { margin-bottom: 3px; }
+  .legalsElement h5 {
+    margin-bottom: 5px;
+    color: rgba(255,255,255,0.6); }
+  .legalsElement h5:before {
+    content: "> ";
+    color: rgb(145, 71, 123); }
+  .legalsElement strong { font-weight: 400; }
+  .legalsElement a {
+    color: rgba(255,255,255,0.38);
+    text-decoration:underline; }
+    .legalsElement a:hover {
+      color: rgba(255,255,255,0.6);
+      transition: 0.2s }
 
 /* FOOTER
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
