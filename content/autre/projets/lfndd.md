@@ -1,5 +1,5 @@
 ---
-title: "Tournage à Ningxia, derrière les rideaux..."
+title: "Un voyage en Chine : tournage à Ningxia"
 date: 2020-05-20T14:09:32+01:00
 lastmod: 2020-05-20T14:09:32+01:00
 draft: false
