@@ -2,7 +2,6 @@
 title: "Regards de Xiatong Mu et son \"poor's man car rig\""
 date: 2020-05-20T14:09:32+01:00
 lastmod: 2020-05-20T14:09:32+01:00
-tags: ["article", "art"]
 draft: false
 ---
 
