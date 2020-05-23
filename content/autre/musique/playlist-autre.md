@@ -35,7 +35,7 @@ draft: false
 
 # "Musique du soir"
 
-Il fut un moment où j'écoutais de la musique pour m'endormir. **Voici une petite liste tirée de la playlist (de 12h30) correspondante**. Beaucoup de sons que j'écoutais gosse (Dire Straits, Police, Deep Purple...) ou adolescent (Neil Young, Clapton, les Floyd...) et qui ont, pour certains, vraiment influencés ma culture musicale. **Quand j'écoute ça, c'est des frissons, des larmes ou une banane jusqu'aux oreilles**. Une liste marquée aussi par ma découverte, à cette période, du Grateful Dead que je considère toujours comme une des meilleurs groupes de tous les temps (rien que ça).
+Il fut un moment où j'écoutais de la musique pour m'endormir. **Voici une petite liste tirée de la playlist (de 12h30) correspondante**. Beaucoup de sons que j'écoutais gosse (Dire Straits, Police, Deep Purple...) ou adolescent (Neil Young, Clapton, les Floyd...) et qui ont, pour certains, vraiment influencés ma culture musicale. **Quand j'écoute ça, c'est des frissons, des larmes ou une banane jusqu'aux oreilles**. Une liste marquée aussi par ma découverte, à cette période, du Grateful Dead que je considère toujours comme un des meilleurs groupes de tous les temps (rien que ça).
 
 * [(1959) *So What* - Miles Davis](https://www.youtube.com/watch?v=zqNTltOGh5c)
 * [(1962) *Les Biches* - Jacques Brel](https://www.youtube.com/watch?v=qD4MVAcfny0)
@@ -65,13 +65,13 @@ Découvert avec l'immanquable [documentaire](https://fr.wikipedia.org/wiki/Sugar
 Little Wing, ici par le supergroupe de Clapton et Allman. Chez Clapton, il *faut* voir [ce live](https://www.youtube.com/watch?v=iEuVH_16vRg) avec Sheryl Crow et David Sanborn. J'adore les regards que se lancent Clapton et Sanborn à la fin du solo de ce dernier.
 * [(1970) *Summer '68* - Pink Floyd](https://www.youtube.com/watch?v=a0XCQhZfGVo)
 * [(1970) *Alan's Psychedelic Breakfast* - Pink Floyd](https://www.youtube.com/watch?v=_7pkOZ5n6PQ)  
-Pink Floyd ou sans doute le groupe que j'ai le plus écouté il y a quelques années. Je suis tout particulièrement fan de *Atom Heart Mother*, de *Meddle*, de *Animals* et de *Wish You Where Here*. Et du [film](https://fr.wikipedia.org/wiki/The_Wall_(film)) d'Alan Parker.
+Pink Floyd ou sans doute le groupe que j'ai le plus écouté il y a quelques années. Je suis tout particulièrement fan de *Atom Heart Mother*, *Meddle*, *Animals* et *Wish You Where Here*. Et [du film](https://fr.wikipedia.org/wiki/The_Wall_(film)) d'Alan Parker.
 * [(1970) *Late Night* - Syd Barrett](https://www.youtube.com/watch?v=b9gM-blNvdM)
 * [(1970) *And It Stoned Me* - Van Morrison](https://www.youtube.com/watch?v=AYqJtqyeilE)
 * [(1970) *After the Gold Rush* - Neil Young](https://www.youtube.com/watch?v=d6Zf4D1tHdw)
 * [(1970) *Southern Man* - Neil Young](https://www.youtube.com/watch?v=m5FCcDEA6mY)  
-* [(1970) *Ripple* - Grateful Dead](https://www.youtube.com/watch?v=671AgW9xSiA)
-J'en profite pour placer l'excellente série [Freaks and Geeks](https://fr.wikipedia.org/wiki/Freaks_and_Geeks) que je me suis mis à aimer encore plus, une fois qu'elle s'est mise à citer [American Beauty](https://fr.wikipedia.org/wiki/American_Beauty_(album).
+* [(1970) *Ripple* - Grateful Dead](https://www.youtube.com/watch?v=671AgW9xSiA)  
+J'en profite pour placer l'excellente série [Freaks and Geeks](https://fr.wikipedia.org/wiki/Freaks_and_Geeks) que je me suis mis à aimer encore plus, une fois qu'elle s'est mise à citer [American Beauty](https://fr.wikipedia.org/wiki/American_Beauty_%28album%29).
 * [(1970) *Box of Rain - Live at the Civic Center (March 90)* - Grateful Dead](https://archive.org/details/gd90-03-19.prefm-sbd.sacks.1526.sbeok.shnf/gd90-03-19d2t02.shn)  
 Je trouve cette version démente grâce à une petite intonation à la fin, à 04:52.
 * [(1972) *China Cat Sunflower - Live at Veneta, Oregon* - Grateful Dead](https://www.youtube.com/watch?v=3xvh0ercSOk)  
@@ -100,8 +100,8 @@ Attention, s'écoute religieusement.
 * [(1983) *Lenny* - Stevie Ray Vaughan](https://www.youtube.com/watch?v=i5sqJNFFwqc)
 * [(1983) *Little Wing* - Stevie Ray Vaughan](https://www.youtube.com/watch?v=An4uDegHB8s)  
 J'aime aussi la reprise de SRV, surtout dans [ce live](https://www.youtube.com/watch?v=-pO6yg9KBGU) au Rockpalast en 84. Pourquoi ? Parce qu'il se plante au début (00:34) mais continue pendant 15 minutes et c'est excellent. J'aime aussi beaucoup [cette vidéo](https://www.dailymotion.com/video/xrt73), peut-être un montage promo de chez Fender, mais que j'ai regardé un paquet de fois.
-* [(1983) *Going Home - Live At Hammersmith Odeon (Album Alchemy)* - Dire Straits](https://www.youtube.com/watch?v=gPA0gJG22I4)
-* [(1983) *Telegraph Road - Live At Hammersmith Odeon* - Dire Straits](https://www.youtube.com/watch?v=Q1Wp2ASqyxI)
+* [(1983) *Going Home - Live At Hammersmith Odeon (Alchemy)* - Dire Straits](https://www.youtube.com/watch?v=gPA0gJG22I4)
+* [(1983) *Telegraph Road - Live At Hammersmith Odeon (Alchemy)* - Dire Straits](https://www.youtube.com/watch?v=Q1Wp2ASqyxI)
 * [(1991) *On Every Street - On the Night Live (92)* - Dire Straits](https://www.youtube.com/watch?v=_atRLSxfg_0)
 * [(1983) *Déserteur* - Renaud](https://www.youtube.com/watch?v=vvolGwaMOUs)
 * [(1994) *Le petit chat est mort* - Renaud](https://www.youtube.com/watch?v=L7EhGkLsKs8)
@@ -116,4 +116,4 @@ J'aime aussi la reprise de SRV, surtout dans [ce live](https://www.youtube.com/w
 * [(2010) *Primary Colours at the Back of My Mind* - Solar Bears](https://www.youtube.com/watch?v=Lso2yyOXjS0)
 * [(2010) *Never Alone* - Jeff Beck](https://www.youtube.com/watch?v=swTGeHNDIjo)
 
-Mention spéciale à l'album *Without A Net* des Dead (surtout le titre *Looks like Rain*, sans doute mon préféré du groupe grâce à la guitare qui me fait chavirer à cinq minutes). Il n'apparait pas dans la playlist, pour la simple raison que je l'écoutais en boucle dans son coin.
+Mention spéciale à l'album *Without A Net* des Dead (surtout le titre *Looks like Rain*, sans doute mon préféré du groupe grâce à un riff de guitare qui me fait chavirer, à cinq minutes). Il n'apparait pas dans la playlist, pour la simple raison que je l'écoutais en boucle dans son coin.

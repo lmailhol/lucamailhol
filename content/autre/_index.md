@@ -19,8 +19,11 @@ title: Autre
 
 ### Playlists annuelles
 
-Pendant un certains temps, je me créait des playlists tous les mois contenant mes écoutes et découvertes du moment. Je le fais beaucoup moins systématiquement aujourd’hui, mais j’ai quand même une petite base de son. En voici les “highlights” !
+Pendant un certains temps, je me créait des playlists plus ou moins tous les mois contenant mes écoutes et découvertes du moment. Je le fais beaucoup moins systématiquement aujourd’hui, mais j’ai quand même une petite base de son. En voici les “highlights” !
 
+* [\[2020\] Playlist annuelle]({{< ref "autre/musique/playlist-2020.md" >}})
+* [\[2019\] Playlist annuelle]({{< ref "autre/musique/playlist-2019.md" >}})
+* [\[2018\] Playlist annuelle]({{< ref "autre/musique/playlist-2018.md" >}})
 * [\[2017\] Playlist annuelle]({{< ref "autre/musique/playlist-2017.md" >}})
 * [\[2016\] Playlist annuelle]({{< ref "autre/musique/playlist-2016.md" >}})
 * [Autres playlists]({{< ref "autre/musique/playlist-autre.md" >}})
