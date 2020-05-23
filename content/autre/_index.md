@@ -13,6 +13,18 @@ title: Autre
 * [*Symphonie pour Malo* de Léo Derre, filmé à l'iPhone"]({{< ref "autre/projets/spm.md" >}})
 * [*Mon Frère*, un premier court avec des moyens]({{< ref "autre/projets/rimf.md" >}})
 
+# Musique
+
+* [*Morning Drops*, suivre un groupe de musique pendant un an]({{< ref "autre/musique/md.md" >}})
+
+### Playlists annuelles
+
+Pendant un certains temps, je me créait des playlists tous les mois contenant mes écoutes et découvertes du moment. Je le fais beaucoup moins systématiquement aujourd’hui, mais j’ai quand même une petite base de son. En voici les “highlights” !
+
+* [\[2017\] Playlist annuelle]({{< ref "autre/musique/playlist-2017.md" >}})
+* [\[2016\] Playlist annuelle]({{< ref "autre/musique/playlist-2016.md" >}})
+* [Autres playlists]({{< ref "autre/musique/playlist-autre.md" >}})
+
 # Web
 
 * Ça arrive.

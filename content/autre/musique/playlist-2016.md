@@ -1,0 +1,59 @@
+---
+title: "[2016] Playlist annuelle"
+date: 2020-05-23T10:13:32+01:00
+lastmod: 2020-05-23T10:13:32+01:00
+draft: false
+---
+
+# 2016
+
+### Octobre
+
+Un mois bercé de sonoritées plutôt jazzy, dans l'ensemble. Une belle découverte, celle de Charlie Hunter. Je vous invite à aller voir [cette vidéo](https://www.youtube.com/watch?v=0HJQJzUwRMk) qui me fout la banane à chaque fois. Petit détour shœgaze avec Yo La Tengo.
+
+* [(1968) *Gold and Silver* - Quicksilver Messenger Service](https://www.youtube.com/watch?v=KhraiPTORhI)
+* [(1976) *Come Dancing* - Jeff Beck](https://www.youtube.com/watch?v=xtbUcCe7rM0)
+* [(1984) *Aurora Borealis* - Meat Puppets](https://www.youtube.com/watch?v=YmAnzLxI-cA)
+* [(1993) *All Wrong* - Morphine](https://www.youtube.com/watch?v=BlAWsVXKzq8)
+* [(1996) *Anemone* - The Brian Jonestone Massacre](https://www.youtube.com/watch?v=StV9lElcvAY)
+* [(1996) *Jam Man* - Chet Atkins](https://www.youtube.com/watch?v=pxPCMvE2bJg)
+* [(1999) *Balek* - Marc Moulin](https://www.youtube.com/watch?v=Gb2O1eFTT18)
+* [(2000) *Cherry Chapstick* - Yo La Tengo](https://www.youtube.com/watch?v=V0WRaVVf3E4)
+* [(2004) *Everything in Its Right Place* - Brad Mehldau Trio](https://www.youtube.com/watch?v=omF16-qbmeM)
+* [(2008) *Fine Corinthian Leather* - Charlie Hunter](https://www.youtube.com/watch?v=SRzFVlPLrLo)
+
+### Novembre
+
+Sauf exception, retour aux son plus classique psyché-seventies. Mention spéciale pour *Sketches of China* (et tout l'album) que je trouve magnifique et pour *Time Was*. C'est aussi à cette période que je découvre Manfred Mann's Earth Band, que je retiens plus pour la basse que le clavier d'ailleurs.
+
+* [(1971) *Un soir chez Norris* - Pierre Cavalli](https://www.youtube.com/watch?v=RuknYtbzR9M)
+* [(1971) *Wicked Man* - Smog](https://www.youtube.com/watch?v=Xs4s94J_4Cc)
+* [(1972) *Time Was* - Wishbone Ash](https://www.youtube.com/watch?v=SjIvjmJQJYE)
+* [(1973) *Sketches of China* - Paul Kantner, Grace Slick, David Freiberg](https://www.youtube.com/watch?v=47a_vjNiYKg)
+* [(1975) *Spirits In The Night* - Manfred Mann's Earth Band](https://www.youtube.com/watch?v=gvJ6o1PC4pA)
+* [(1977) *California Dreamin'* - Eddie Hazel](https://www.youtube.com/watch?v=CqDGTT2OtsQ)
+* [(1978) *Heavy Horses* - Jethro Tull](https://www.youtube.com/watch?v=vRHATZzMh-g)
+* [(1982) *Suzie Q* - Creedence Clearwater Revival](https://www.youtube.com/watch?v=1mxaA-bJ35s)
+* [(2005) *Cocaine Man* - Baxter Dury](https://www.youtube.com/watch?v=3DB9n8vjIi4)
+* [(2012) *I Follow You* - Melody's Echo Chamber](https://www.youtube.com/watch?v=v29I0srhPwg)
+* [(2012) *Why Won't They Talk To Me ?* - Tame Impala](https://www.youtube.com/watch?v=GwKYErIF3VE)
+* [(2013) *Giant Tortoise* - Pond](https://www.youtube.com/watch?v=jvZ9tEb67HE)
+
+### Décembre
+
+Un peu plus de styles, ce mois-ci. J'aime beaucoup l'interprétation jazzy d'*Also sprach Zarathustra* ou celle de *White Rabbit*. Belle découverte du côté d'Holydrug Couple. Et un titre de CAN qui s'est caché là on reparlera Krautrock plus tard !
+
+* [(1968) *Get Thy Bearings* - Donovan](https://www.youtube.com/watch?v=XyxfCQG1t4w)
+* [(1970) *Soul Desert* - CAN](https://www.youtube.com/watch?v=TECyopdL4fI)
+* [(1972) *Also sprach Zarathustra* - Deodato](https://www.youtube.com/watch?v=RJKsp9_L24Q)
+* [(1972) *White Rabbit* - George Benson](https://www.youtube.com/watch?v=F4KluQT0ZAo)
+* [(1973) *Can You Understand* - Rennaissance](https://www.youtube.com/watch?v=JwAPFbQVMgs)
+* [(1996) *Fat City* - Alex Chilton, Ben Vaughn, Alan Vega](https://www.youtube.com/watch?v=gBy55Z0F2z0)
+* [(1998) *La femme d'argent* - Air](https://www.youtube.com/watch?v=U4U19zwFENs)
+* [(1998) *Whitewash* - Buckethead](https://www.youtube.com/watch?v=bHQmDqlv5Rc)
+* [(2000) *Storm* - Godspeed You! Black Emperor](https://www.youtube.com/watch?v=5eZ_TgE3x_A)
+* [(2011) *Dead Roots Stirring* - Elder](https://www.youtube.com/watch?v=FMhm7ZtWy3M)
+* [(2012) *Dandelion* - Baby Woodrose](https://www.youtube.com/watch?v=7RVthVrwauA)
+* [(2013) *Fine Flow* - The Entrance Band](https://www.youtube.com/watch?v=7XuQ2XwSUsw)
+* [(2013) *These Shadows* - Wooden Shjips](https://www.youtube.com/watch?v=-ng_dBhjt0s)
+* [(2015) *Light or Night* - The Holydrug Couple](https://www.youtube.com/watch?v=6OSYwYk5EGg)
