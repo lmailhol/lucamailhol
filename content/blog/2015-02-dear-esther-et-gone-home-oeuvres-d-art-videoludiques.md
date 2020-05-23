@@ -1,6 +1,7 @@
 ---
 title: "Dear Esther et Gone Home, œuvres d'art vidéoludiques"
 date: 2015-02-01T14:09:32+01:00
+slug: "dear-esther-et-gone-home-oeuvres-d-art-videoludiques"
 tags: ["article"]
 draft: false
 ---

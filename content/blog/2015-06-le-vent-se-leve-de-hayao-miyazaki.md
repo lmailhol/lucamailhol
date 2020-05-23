@@ -2,6 +2,7 @@
 title: "Le Vent Se Lève de Hayao Miyazaki"
 date: 2015-06-01T14:09:32+01:00
 tags: ["article", "cinéma"]
+slug: "le-vent-se-leve-de-hayao-miyazaki"
 draft: false
 ---
 

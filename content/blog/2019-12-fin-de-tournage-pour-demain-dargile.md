@@ -2,6 +2,7 @@
 title: "Fin de tournage pour Demain d'Argile"
 date: 2019-12-07T16:00:00+02:00
 tags: ["actu"]
+slug: "fin-de-tournage-pour-demain-dargile"
 draft: true
 ---
 

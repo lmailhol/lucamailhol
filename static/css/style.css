@@ -303,6 +303,22 @@ nav.mainMenu ul li {
 .gallery {
   margin: 10px 0 10px 0; }
 
+/* FOOTNOTES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.footnotes {
+  margin-top: 40px; }
+
+.footnotes hr {
+  border:none;
+  border-top: 1px solid rgba(255,255,255,0.1); }
+
+.footnotes ol li {
+  color: rgba(255,255,255,0.38);
+  font-size: 13px;
+  font-weight: 300;
+  font-size: 13px; }
+
 /* LEGALS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -325,6 +341,7 @@ nav.mainMenu ul li {
     .legalsElement a:hover {
       color: rgba(255,255,255,0.6);
       transition: 0.2s }
+
 
 /* FOOTER
 –––––––––––––––––––––––––––––––––––––––––––––––––– */

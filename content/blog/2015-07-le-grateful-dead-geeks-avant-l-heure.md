@@ -2,6 +2,7 @@
 title: "Le Grateful Dead, geeks avant l'heure"
 date: 2015-07-01T14:09:32+01:00
 tags: ["article", "musique"]
+slug: "le-grateful-dead-geeks-avant-l-heure"
 draft: false
 ---
 

@@ -2,12 +2,13 @@
 title: "Étalonnage du court-métrage Les Chrysalides"
 date: 2020-01-06T14:09:32+01:00
 tags: ["travail", "étalonnage"]
+slug: "etalonnage-les-chrysalides"
 draft: false
 ---
 
 **L'été dernier, j'ai travaillé comme deuxième assistant caméra sur le film *Les Chrysalides* de Lucie Mouquet, produit par le GREC.** J'ai pu, par la suite, suivre une partie de la post-production et surtout réaliser l'étalonnage du film en compagnie de Lucie et de Manon Clavelier, la chef-opératrice.
 
-![chry 01](/blog/etalonnage-les-chrysalides/chry_01.jpg)
+![chry 01](/blog/2020-01-etalonnage-les-chrysalides/chry_01.jpg)
 
 **Un étalonnage assez compliqué mais enrichissant : la palette de couleur très monochrome du film nous a demandé d'être très fin dans les réglages appliqués pour éviter toute dégradation d'image et assurer la continuité.** Néanmoins, nous avons pu incorporer au film des éléments qui n'avaient pas pu être entièrement gérés lors du tournage, comme plusieurs légères variations de couleurs et d'intensité lumineuse au fur et à mesure du dialogue principal.
 

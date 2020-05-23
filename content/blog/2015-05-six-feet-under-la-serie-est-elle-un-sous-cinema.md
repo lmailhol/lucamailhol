@@ -2,6 +2,7 @@
 title: "Six Feet Under : la série est-elle un sous-cinéma ?"
 date: 2015-05-01T14:09:32+01:00
 tags: ["article", "cinéma"]
+slug: "six-feet-under-la-serie-est-elle-un-sous-cinema"
 draft: false
 ---
 
