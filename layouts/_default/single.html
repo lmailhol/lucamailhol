@@ -6,6 +6,9 @@
     <h2>{{ partial "date.html" . }}&nbsp;{{ .Title }} &nbsp;<span class="articleElementTags">{{ partial "tags.html" . }}</span></h2>
   </header>
   <section class="articleElementContent">
+    {{ if isset .Params "disclaimer" }} 
+      <div class="disclaimer">{{ .Params.disclaimer }}</div>
+    {{ end }}
     {{ .Content }}
   </section>
 </article>
