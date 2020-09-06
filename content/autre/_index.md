@@ -6,7 +6,8 @@ title: Autre
 
 À propos des différents tournages auxquels j'ai participé. Quelques dossiers, ressources, photographies...
 
-* [*Demain d'Argile*, dernier projet en date]({{< ref "autre/projets/dda.md" >}})
+* [*Les Chairs Froissées*, tournage en extérieur dans le Morvan]({{< ref "autre/projets/lcf.md" >}})
+* [*Demain d'Argile*, dernière réalisation en date]({{< ref "autre/projets/dda.md" >}})
 * [Un voyage en Chine : tournage à *Ningxia*]({{< ref "autre/projets/lfndd.md" >}})
 * [*Accord Parfait*, nouveau saut du côté de la radiologie interventionnelle]({{< ref "autre/projets/riap.md" >}})
 * [*Regards* de Xiatong Mu et son "poor's man car rig"]({{< ref "autre/projets/reg.md" >}})
