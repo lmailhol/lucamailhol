@@ -59,7 +59,7 @@ h3 {
   font-size: 17px;
   font-weight: 300;
   color: rgb(145, 71, 123);
-  margin: 10px 0px 0px 0px; }
+  margin: 0px 0px 0px 0px; }
 
   h3:before {
     content: "> ";
@@ -272,9 +272,15 @@ nav.mainMenu ul li {
 .articleElement header {
     margin-bottom: 20px; }
 
-.articleElementContent {
-
+.articleElementContent h3 {
+  margin-top: 10px;
   }
+
+  .articleElementContent blockquote {
+    border-left: 1px solid rgba(255,255,255,0.1);
+    margin-left: 0;
+    padding-left: 30px;
+    }
 
   .articleElementContent p {
     padding: 8px 0 8px 0; }
