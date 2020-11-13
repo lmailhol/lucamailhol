@@ -1,11 +1,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  {{ $skeleton := "css/skeleton.css" | absURL }}
-  {{ $normalize := "css/normalize.css" | absURL }}
   {{ $style := "css/style.css" | absURL }}
-  <link rel="stylesheet" href="{{ $skeleton }}">
-  <link rel="stylesheet" href="{{ $normalize }}">
+  {{ $rocssti := "css/rocssti.css" | absURL }}
+  <link rel="stylesheet" href="{{ $rocssti }}">
   <link rel="stylesheet" href="{{ $style }}">
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}

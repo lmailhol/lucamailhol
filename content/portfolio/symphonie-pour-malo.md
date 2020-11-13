@@ -1,7 +1,7 @@
 ---
 title: "Symphonie Pour Malo"
 date: 2019-04-20T20:28:00+02:00
-draft: false
+draft: true
 genre: "Fiction"
 synopsis: "L'histoire de Malo, un jeune en prise à de nombreuses péripéties..."
 thumbnail: "spm/spm-thumb.jpg"

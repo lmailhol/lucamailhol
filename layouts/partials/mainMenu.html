@@ -1,8 +1,8 @@
 
-  <ul>
+  <ul class="pl0 mb3">
   {{ $currentPage := . }}
-    <li><a href="{{ $.Site.BaseURL }}" class="firstLink">LUCA MAILHOL</a></li>
+    <li><a href="{{ $.Site.BaseURL }}" class="color-gray-300 uppercase">Luca Mailhol</a></li>
   {{ range .Site.Menus.main }}
-    <li><a href="{{ .URL }}" class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}">{{ .Name }}</a></li>
+    <li><a href="{{ .URL }}" class="color-gray-500 {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}">{{ .Name }}</a></li>
   {{ end }}
   </ul>

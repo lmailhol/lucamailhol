@@ -1,27 +1,17 @@
 {{ define "main" }}
 
-<section class="portfolioElement">
-  <div class="portfolioElementCover">
-    <img src="{{ .Params.cover }}" alt="Card image">
+<div class="row w100 mb2">
+  <div class="col-noalign w20 automobile">
+    <img class="mb1" src="{{ .Params.cover }}" alt="Card image">
+    <h3 class="mb0 p0"><a class="color-gray-300 uppercase" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <h6 class="mb0-5 color-gray-700 p0"><span class="color-gray-500">{{ .Params.realisation }}</span><br />{{ .Params.genre }} • {{ .Params.time }} • {{ partial "year.html" . }}</h6>
+    <p class="mt0 mb1 pl1 border-left">{{ .Params.synopsis }}</p>
   </div>
-  <div class="portfolioElementContent">
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <h3>{{ .Params.genre }} <span>{{ .Params.time }} • {{ partial "year.html" . }}</span></h3>
-    <p>{{ .Params.synopsis }}</p>
-
-    <ul>
-      {{ with .Params.tags }}
-        {{ range . }}
-          {{ $href := print (absURL "tags/") (urlize .) }}
-          <li><a href="{{ $href }}">{{ . }}</a></li>
-        {{ end }}
-      {{ end }}
-    </ul>
-  </div>
-</section>
-
-<article class="portfolioContent">
+  <div class="col w2 gut nomobile"> </div>
+  <div class="col w80 automobile">
     {{ .Content }}
-</article>
+
+  </div>
+</div>
 
 {{ end }}

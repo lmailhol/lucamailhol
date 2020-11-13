@@ -9,10 +9,6 @@ mail: "moc (tniop) lohliamacul (ta) tcatnoc"
 name: "Luca Mailhol"
 ---
 
-##### Contact
-
-Clé GPG
-
 ##### Mentions légales
 
 Ce site web est généré avec [Hugo](https://gohugo.io) et hébergé grâce à [Netlify](https://www.netlify.com). Vous pouvez trouver les sources sur [GitHub](https://github.com/lmailhol/lucamailhol).

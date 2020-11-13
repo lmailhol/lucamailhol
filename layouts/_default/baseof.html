@@ -2,20 +2,16 @@
 <html lang="fr">
   {{ partial "head.html" . }}
   <body>
-    <div class="container">
-      <div class="row">
-        <div class="twelves columns">
-          <nav class="mainMenu">
-            {{ partial "mainMenu.html" . }}
-          </nav>
+    <div class="container w66 onmobile-w90 ontablet-w85 center" role="main">
+      <nav class="mainMenu aligncenter">
+        {{ partial "mainMenu.html" . }}
+      </nav>
 
-          {{ block "main" . }}{{ end }}
+      {{ block "main" . }}{{ end }}
 
-        </div>
-      </div>
+      <footer class="bl aligncenter alignbottom">
+        {{ partial "mainFooter.html" . }}
+      </footer>
     </div>
-    <footer class="mainFooter">
-      {{ partial "mainFooter.html" . }}
-    </footer>
   </body>
 </html>

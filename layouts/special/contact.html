@@ -1,23 +1,20 @@
 {{ define "main" }}
 
-<section class="portfolioElement">
-  <div class="portfolioElementCover">
-    <img src="{{ .Params.avatar }}" alt="Card image">
-  </div>
-  <div class="portfolioElementContent">
-    <h2><a href="#">À propos</a></h2>
-    <h3>{{ .Params.name }} <span>{{ .Params.where }}</span></h3>
-    <p>{{ .Params.bio }}</p>
+<div class="row w100">
+  <div class="col w20 automobile"><img class="onmobile-mb1" src="{{ .Params.avatar }}" alt="Card image"></div>
+  <div class="col w2 gut nomobile"> </div>
+  <div class="col w80 automobile">
+    <h3 class="mb0 p0 color-gray-300 uppercase">{{ .Params.name }}</h3>
+    <h6 class="mb0-5 color-gray-700 p0">{{ .Params.where }}</h6>
+    <p class="mt0-5 pl1 border-left">{{ .Params.bio }}</p>
     <p class="mail">{{ .Params.mail }}</p>
-    <ul>
-      <li class="lastLink"><a href="https://www.aparr.org/resources/person/cv-luca-mailhol_1.pdf">CV</a></li>
-      <li><a href="https://www.imdb.com/name/nm9356201">IMDB</a></li>
-      <li><a href="https://vimeo.com/lmailhol">Viméo</a></li>
-      <li><a href="https://instagram.com/lmailhol">Instagram</a></li>
-      <li><a href="https://www.vodkaster.com/radek411">VodKaster</a></li>
-    </ul>
+      <a class="button small uppercase color-gray-300" href="https://www.aparr.org/resources/person/cv-luca-mailhol_1.pdf">CV</a>
+      <a class="tag small uppercase color-gray-500" href="https://www.imdb.com/name/nm9356201">IMDB</a>
+      <a class="tag small uppercase color-gray-500" href="https://vimeo.com/lmailhol">Viméo</a>
+      <a class="tag small uppercase color-gray-500" href="https://instagram.com/lmailhol">Instagram</a>
+      <a class="tag small uppercase color-gray-500" href="https://www.vodkaster.com/radek411">VodKaster</a>
   </div>
-</section>
+</div>
 
 <section class="legalsElement">
   {{ .Content }}

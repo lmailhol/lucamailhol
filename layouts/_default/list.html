@@ -1,11 +1,9 @@
 {{ define "main" }}
 
-<div class="disclaimer">{{ .Content }}</div>
-
 {{ range .Pages.ByPublishDate.Reverse }}
-<section class="articleElement">
-    <h2>{{ partial "date.html" . }}&nbsp;<a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;<span class="articleElementTags">{{ partial "tags.html" . }}</span></h2>
-</section>
+
+    <h3 class="mb0">{{ partial "date.html" . }}&nbsp;<a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;</h3>{{ partial "tags.html" . }}
+
 {{ end }}
 
 

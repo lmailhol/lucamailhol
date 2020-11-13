@@ -1,6 +1,6 @@
 {{ with .Params.tags }}
   {{ range . }}
   {{ $href := print (absURL "tags/") (urlize .) }}
-    <a href="{{ $href }}">#{{ . }}</a>
+    <a class="tag smaller uppercase color-gray-700" href="{{ $href }}">#{{ . }}</a>
   {{ end }}
 {{ end }}
