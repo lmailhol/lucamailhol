@@ -9,6 +9,15 @@ thumbnail: "da/da-thumb.jpg"
 cover: "../da/da-cover.jpg"
 tags: ["réalisateur", "chef-opérateur"]
 time: "35\""
+render: "list"
 ---
 
-{{< foldergallery src="da/img" >}}
+{{< vimeo 464270526 >}}
+
+{{< image-grid src="da/img/001.jpg" w="w100" row="1" >}}
+{{< image-grid src="da/img/002.jpg" w="w40" gut="1" >}}
+{{< image-grid src="da/img/003.jpg" w="w40" >}}
+{{< image-grid row="1" >}}
+{{< image-grid src="da/img/004.jpg" w="w30" gut="1" >}}
+{{< image-grid src="da/img/005.jpg" w="w30" gut="1" >}}
+{{< image-grid src="da/img/006.jpg" w="w30" >}}

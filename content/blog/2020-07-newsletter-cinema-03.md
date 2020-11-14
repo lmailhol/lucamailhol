@@ -28,7 +28,7 @@ On pourra aussi citer l'excellent [Tango (1980)](https://www.youtube.com/watch?v
 
 ### Retour au cinéma :
 
-![01](/blog/2020-07-newsletter-cinema-03/01.png)
+{{< image-grid src="2020-07-newsletter-cinema-03/01.png" >}}
 
 **On retourne aux USA, plus récemment, chez Richard Linklater.** Dans deux de ses films, [Waking Life](https://fr.wikipedia.org/wiki/Waking_Life) et [A Scanner Darkly](https://fr.wikipedia.org/wiki/A_Scanner_Darkly), il utilise la technique de la rotoscopie. Grossièrement, elle consiste à redessiner par-dessus des images vidéos. On rentre dans une forme d'animation à **mi-chemin entre la prise de vue réelle et l'animation pure** qui incite à une réflexion très intéressante sur la représentation au cinéma ([voir ici](https://hal-univ-paris3.archives-ouvertes.fr/hal-01852807/document), par exemple). Linklater explore ces questions en plaçant ses histoires dans des contextes plus ou moins liés aux rêves.
 
@@ -46,7 +46,7 @@ On trouve aussi un exemple de rotoscopie dans [Five Obstuctions (2003)](https://
 
 ### Détour par l'animation japonaise :
 
-![02](/blog/2020-07-newsletter-cinema-03/02.jpg)
+{{< image-grid src="2020-07-newsletter-cinema-03/02.jpg" >}}
 
 **Enfin, je vous conseille très fortement un film d'animation japonais qu'on m'a fait découvrir l'an dernier :** [La Belladone de la tristesse (1973)](https://fr.wikipedia.org/wiki/La_Belladone_de_la_tristesse). Il a été un peu oublié avant sa restauration (voir [Arbelos Films](http://arbelosfilms.com/distribution/films/belladonna-of-sadness/), qui par ailleurs possèdent un catalogue assez alléchant). **C'est un monument psychédélique, une expérience dont l'image va puiser son inspiration chez de grands artistes (Klimt, Mucha, Schiele...) et la musique dans une sorte de jazz-progressif sous acide** (c'est dément). L'animation passe par différents stades graphiques, le film est passionnant à regarder. Il se trouve relativement facilement en [VOD](https://vod.cnc.fr/title/591141ff-6834-421b-b8e2-066a7767850e?t=Belladonna) ou sur diverses plateformes de téléchargement.
 

@@ -5,8 +5,6 @@ lastmod: 2020-05-21T08:09:32+01:00
 draft: false
 ---
 
-### Phographies de tournage
+À venir !
 
---
-
-{{< foldergallery src="spm" >}}
+{{< foldergallerysquare src="spm" >}}

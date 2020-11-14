@@ -9,6 +9,14 @@ thumbnail: "riap/riap-thumb.jpg"
 cover: "../riap/riap-cover.jpg"
 tags: ["chef-opérateur"]
 time: "15\""
+render: "list"
 ---
 
 {{< vimeo 365246596 >}}
+
+{{< image-grid src="riap/img/riap-001.jpg" w="w100" row="1" >}}
+{{< image-grid src="riap/img/riap-002.jpg" w="w30" gut="1" >}}
+{{< image-grid src="riap/img/riap-003.jpg" w="w30" >}}
+{{< image-grid row="1" >}}
+{{< image-grid src="riap/img/riap-004.jpg" w="w30" gut="1" >}}
+{{< image-grid src="riap/img/riap-005.jpg" w="w30" >}}

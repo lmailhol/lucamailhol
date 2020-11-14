@@ -1,0 +1,24 @@
+{{ if isset .Params "row" }}
+  <div class="row w100">
+{{ end }}
+
+{{ if isset .Params "src" }}
+
+{{ $w := print (.Get "w") }}
+{{ $src  := print (.Get "src") }}
+
+<div class="col {{ $w }} automobile">
+  <a data-fancybox="gallery" href="../{{ $src }}">
+    <img class="mb10p" src="../{{ $src }}">
+  </a>
+</div>
+
+{{ if isset .Params "gut" }}
+  <div class="col w1 gut"> </div>
+{{ end }}
+
+{{ end }}
+
+{{ if isset .Params "row" }}
+  </div>
+{{ end }}

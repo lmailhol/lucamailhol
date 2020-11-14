@@ -5,8 +5,6 @@ lastmod: 2020-05-23T10:13:32+01:00
 draft: false
 ---
 
-# 2017
-
 ### Janvier
 
 Une mention pour *Cat Black* du chanteur de T.Rex. Je ne sais pas vraiment pourquoi, mais je trouve cette chanson magnifique. Une autre pour Clara Clara, un groupe de Lyon que j'aime beaucoup (et leur passage à Dijon fut l'un de mes meilleurs concerts).

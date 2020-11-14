@@ -7,6 +7,4 @@ draft: false
 
 Pour ce projet, toutes les informations se trouvent pour le moment sur [demaindargile.com](https://www.demaindargile.com/) ! Néanmoins, voici quelques petites photos inédites.
 
---
-
-{{< foldergallery src="dda" >}}
+{{< foldergallerysquare src="dda" >}}

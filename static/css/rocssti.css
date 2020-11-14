@@ -137,6 +137,7 @@ h3,
 .h3 {
   display: block;
   font-weight: 300;
+  color: #dee2e6;
   font-size: 1.42857em; /* equiv 20px */
   line-height: 1.05;
   font-weight: 400;
@@ -305,7 +306,10 @@ sub {
 
 .uppercase { text-transform: uppercase; }
 
-
+blockquote {
+  border-left: 1px solid #333;
+  padding-left: 1em;
+}
 
 /* éviter marges supplémentaires sur éléments imbriqués */
 li p,
@@ -622,10 +626,10 @@ svg {
 /*.w960e { width: 60em; }*/
 
 /* ici ajouter les largeurs en pixels */
-/*.w500p { width: 500px; }*/
+.w5p { width: 5px; }
 
 /* ici ajouter les largeurs max en em */
-/*.mw1600e { max-width: 100em; }*/
+.mw20e { max-width: 20em; }
 
 /* ici ajouter les largeurs max en pixels */
 /*.mw960p { max-width: 960px; }*/
@@ -652,6 +656,9 @@ svg {
 .m0-5 { margin: .5em; }
 .m1 { margin: 1em; }
 .m2 { margin: 2em; }
+
+.mb10p { margin-bottom: 10px; }
+.pr10p { padding-right: 10px; }
 
 .mtauto { margin-top: auto; }
 .mrauto { margin-right: auto; }
@@ -779,8 +786,6 @@ body::before {
 .footer {
 
 }
-
-
 
 
 /*

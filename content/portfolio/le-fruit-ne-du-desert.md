@@ -9,6 +9,18 @@ thumbnail: "lfndd/lfndd-thumb.jpg"
 cover: "../lfndd/lfndd-cover.jpg"
 tags: ["réalisateur", "chef-opérateur"]
 time: "19\""
+render: "list"
 ---
 
-{{< foldergallery src="lfndd/img" >}}
+{{< vimeo 381419598 >}}
+
+{{< image-grid src="lfndd/img/001.jpg" w="w100" row="1" >}}
+{{< image-grid src="lfndd/img/002.jpg" w="w40" gut="1" >}}
+{{< image-grid src="lfndd/img/003.jpg" w="w40" >}}
+{{< image-grid src="lfndd/img/004.jpg" w="w100" row="1" >}}
+{{< image-grid src="lfndd/img/005.jpg" w="w30" gut="1" >}}
+{{< image-grid src="lfndd/img/006.jpg" w="w30" gut="1" >}}
+{{< image-grid src="lfndd/img/007.jpg" w="w30" >}}
+{{< image-grid row="1" >}}
+{{< image-grid src="lfndd/img/008.jpg" w="w40" gut="1" >}}
+{{< image-grid src="lfndd/img/009.jpg" w="w40" >}}

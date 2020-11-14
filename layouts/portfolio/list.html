@@ -1,28 +1,39 @@
 {{ define "main" }}
 
-  {{ range .Pages.ByPublishDate.Reverse }}
+  {{ range where .RegularPages.ByPublishDate.Reverse "Params.render" "list"}}
 
-  <div class="row w100 mb2">
-    <div class="col-noalign w20 automobile">
-      <a href="{{ .RelPermalink }}"><img class="onmobile-mb1" src="{{ .Params.thumbnail }}" alt="Card image"></a>
-    </div>
-    <div class="col w2 gut nomobile"> </div>
-    <div class="col w80 automobile">
-      <h3 class="mb0 p0"><a class="color-gray-300 uppercase" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      <h6 class="mb0-5 color-gray-700 p0"><span class="color-gray-500">{{ .Params.realisation }}</span> • {{ .Params.genre }} • {{ .Params.time }} • {{ partial "year.html" . }}</h6>
-      <p class="mt0-5 mb1 pl1 border-left">{{ .Params.synopsis }}</p>
-      <p class="mt0 mb0-5">
-      {{ with .Params.tags }}
-        {{ range . }}
-          {{ $href := print (absURL "tags/") (urlize .) }}
-          <a class="tag small uppercase color-gray-500" href="{{ $href }}">{{ . }}</a>
-        {{ end }}
-      {{ end }}
-      <a class="button small uppercase color-gray-300" href="{{ .RelPermalink }}">Lire plus</a>
-      </p>
-    </div>
-  </div>
+      <div class="row w100 mb2">
+        <div class="col-noalign w20 automobile">
+          <a href="{{ .RelPermalink }}"><img class="onmobile-mb1" src="{{ .Params.thumbnail }}" alt="Card image"></a>
+        </div>
+        <div class="col w2 gut nomobile"> </div>
+        <div class="col w80 automobile">
+          <h3 class="mb0 p0"><a class="color-gray-300 uppercase" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <h6 class="mb0-5 color-gray-700 p0"><span class="color-gray-500">{{ .Params.realisation }}</span> • {{ .Params.genre }} • {{ .Params.time }} • {{ partial "year.html" . }}</h6>
+          <p class="mt0-5 mb1 pl1 border-left">{{ .Params.synopsis }}</p>
+          <p class="mt0 mb0-5">
+          {{ with .Params.tags }}
+            {{ range . }}
+              {{ $href := print (absURL "tags/") (urlize .) }}
+              <a class="tag small uppercase color-gray-500" href="{{ $href }}">{{ . }}</a>
+            {{ end }}
+          {{ end }}
+          <a class="button small uppercase color-gray-300" href="{{ .RelPermalink }}">Lire plus</a>
+          </p>
+        </div>
+      </div>
 
   {{ end }}
+
+  <div class="row w100 mb2">
+
+  {{ range where .Pages.ByPublishDate.Reverse "Params.render" "grid" }}
+      <div class="col-noalign w25 pr0-5 automobile">
+        <a href="{{ .RelPermalink }}"><img class="onmobile-mb1" src="{{ .Params.thumbnail }}" alt="Card image"></a>
+      </div>
+  {{ end }}
+
+  </div>
+
 
 {{ end }}

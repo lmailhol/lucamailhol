@@ -1,11 +1,9 @@
 ---
 title: "[2020] Playlist annuelle"
 date: 2020-05-23T10:13:32+01:00
-lastmod: 2020-05-23T10:13:32+01:00
+lastmod: 2020-11-12T10:13:32+01:00
 draft: false
 ---
-
-# 2020
 
 ### Mars
 
@@ -24,3 +22,15 @@ draft: false
 * *Everybody's Gotta Live* - Love
 * *Round And Round* - Ariel Pink
 * *Daydreams* - Martin Rev
+
+### Plusieurs mois...
+
+* *God Out West* - Link Wray
+* *The Bronx* - Booker T. Jones & Lou Reed
+* *Making Plans For Nigel* - XTC
+* *Masenqo* - The Heliocentrics, Mulatu Astatke
+* *Watch Out* - Wells Fargo
+* *Yellow Grass* - The Monks
+* *Living On A Thin Line* - The Kinks
+* *Diary of a Man Who Vanished* - Steve Howe
+* *Air Born* - Camel

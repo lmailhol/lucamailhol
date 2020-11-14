@@ -1,15 +1,9 @@
 {{ define "main" }}
 
-
-<article class="articleElement">
-  <header>
-    <h2>{{ partial "date.html" . }}&nbsp;{{ .Title }}</h2>
-    <h6>Dernière mise à jour de l'article : {{ partial "update.html" . }}</h6>
-  </header>
-  <section class="articleElementContent">
-    {{ .Content }}
-  </section>
+<h1 class="h4 mb0">{{ partial "date.html" . }}&nbsp;<span class="color-gray-300">{{ .Title }}</span></h1>
+<h6 class="mb0-5 color-gray-700 p0">Dernière mise à jour de l'article : {{ partial "update.html" . }}</h6>
+<article>
+  {{ .Content }}
 </article>
-
 
 {{ end }}

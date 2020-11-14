@@ -9,10 +9,7 @@ mail: "moc (tniop) lohliamacul (ta) tcatnoc"
 name: "Luca Mailhol"
 ---
 
-##### Mentions légales
+### Mentions légales
 
-Ce site web est généré avec [Hugo](https://gohugo.io) et hébergé grâce à [Netlify](https://www.netlify.com). Vous pouvez trouver les sources sur [GitHub](https://github.com/lmailhol/lucamailhol).
-
-Tout le **contenu écrit** et **mes photographies** sont utilisables dans les conditions de la licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr), sauf mention contraire.
-
-Enfin, sauf mention contraire, tous droits réservés sur l'intégralité du contenu vidéo.
+Ce site web est généré avec [Hugo](https://gohugo.io), utilise [Rocssti](https://rocssti.net) et hébergé grâce à [Netlify](https://www.netlify.com). Vous pouvez trouver les sources sur [GitHub](https://github.com/lmailhol/lucamailhol).  
+Tout le **contenu écrit** et **mes photographies** sont utilisables dans les conditions de la licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr), sauf mention contraire. Enfin, sauf mention contraire, tous droits réservés sur l'intégralité du contenu vidéo.

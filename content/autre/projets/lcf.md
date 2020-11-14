@@ -7,6 +7,4 @@ draft: false
 
 Les Chair Froissées de Paul-Guy Rabiet. Un beau projet sur lequel j'officiais comme chef-opérateur, tourné en août dernier dans le Morvan. Avant une mise à jour avec d'autres informations et les premières images du film... quelques photographies de tournage de Yuntian Guan !
 
---
-
-{{< foldergallery src="lcf" >}}
+{{< foldergallerysquare src="lcf" >}}

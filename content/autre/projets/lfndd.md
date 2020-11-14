@@ -5,8 +5,6 @@ lastmod: 2020-05-20T14:09:32+01:00
 draft: false
 ---
 
-### Le Fruit né du Désert
-
 C'était en été 2018, un voyage en Chine au cœur de la province de Ningxia.
 
 **[Bientôt en ligne] :** Mon dossier de production, deux-trois textes, blablabla.
@@ -25,6 +23,4 @@ Au niveau du son, c'était en roue libre. Nous n'étions pas assez bien équipé
 
 Quelques photographies de ma belle équipe ! **Paul-Guy Rabiet avec sa caméra sur monopode, Olivier Binder à la prise son et nos traductrices et amies Rongqi Long et Shunan Zhang.** Vous vous doutez bien que j'ai pas mal d'autres photographies que je garde pour moi. À chaque fois que je les regarde, j'ai un petit pincement au cœur de nostalgie qui me rappelle à quel point j'ai aimé ce voyage et le travail que nous avons fait sur place. **Sans conteste une de mes plus belles expérience. Qu'on se le dise tout de suite, j'y retournerai.**
 
---
-
-{{< foldergallery src="lfndd" >}}
+{{< foldergallerysquare src="lfndd" >}}

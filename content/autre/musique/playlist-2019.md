@@ -5,8 +5,6 @@ lastmod: 2020-05-23T10:13:32+01:00
 draft: false
 ---
 
-# 2019
-
 ### Janvier
 
 * *Euphoria* - NEU!

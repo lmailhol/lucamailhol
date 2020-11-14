@@ -5,8 +5,6 @@ lastmod: 2020-05-23T10:13:32+01:00
 draft: false
 ---
 
-# 2016
-
 ### Octobre
 
 Un mois bercé de sonoritées plutôt jazzy, dans l'ensemble. Une belle découverte, celle de Charlie Hunter. Je vous invite à aller voir [cette vidéo](https://www.youtube.com/watch?v=0HJQJzUwRMk) qui me fout la banane à chaque fois. Petit détour shœgaze avec Yo La Tengo.

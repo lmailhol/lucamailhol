@@ -11,4 +11,4 @@ En avril 2018, sans doute mon premier "véritable" projet dans le rôle de chef-
 
 --
 
-{{< foldergallery src="rimf" >}}
+{{< foldergallerysquare src="rimf" >}}

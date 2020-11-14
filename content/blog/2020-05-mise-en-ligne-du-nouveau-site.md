@@ -6,6 +6,8 @@ slug: "mise-en-ligne-du-nouveau-site"
 draft: false
 ---
 
+> **Màj 14/11/20** : Finalement, j'ai fini par abandonner Skeleton au profit de [Rocssti](https://rocssti.net). C'est très bien, merci à son auteur. Il reste du travail d'adaptation mais le site se base maintenant sur quelque chose de plus solide. Il est aussi beaucoup plus adapté aux mobiles.
+
 **Le site est mis à jour depuis quelques jours déjà**, mais voici la petite news pour accompagner ce changement.
 
 Pour l'ancienne version du site, j'utilisais le [CMS Kirby](https://getkirby.com)[^1], dont j'aimais bien l'approche et la simplicité d'accès. **Néanmoins, je lorgnais sur [Hugo](https://gohugo.io) depuis un petit moment**. J'ai commencé à travailler sur un nouveau thème l'été dernier puis j'ai commencé à l'intégrer tranquillement au programme[^2]. Le temps a commencé à me manquer et je me suis remis au travail en janvier dernier, après avoir publié [demaindargile.com](https://www.demaindargile.com), qui utilise aussi Hugo. Malgré tout, impossible d'être satisfait ce qui m'a vite gonflé. Puis, la semaine dernière, je me suis réveillé avec une autre idée assez différente, plus simple à mettre en place. **Voilà le travail**.
@@ -16,7 +18,8 @@ Autrement, tout roule. Je suis content d'utiliser Hugo que je trouve très bien 
 
 Pour la blague, je me suis baladé sur [archive.org](https://archive.org) pour récupérer deux captures d'écran de vieilles versions de ma page. Elles datent de 2011 et 2012, respectivement. **Pas mal de changement depuis, tout de même.**
 
-{{< foldergallery src="2020-05-mise-en-ligne-du-nouveau-site" >}}
+{{< image-grid src="2020-05-mise-en-ligne-du-nouveau-site/web-001.png" w="w40" gut="1" >}}
+{{< image-grid src="2020-05-mise-en-ligne-du-nouveau-site/web-002.png" w="w40 ">}}
 
 
 [^1]: Le PHP est le seul langage de programmation dont je me souviens correctement donc je n'étais pas trop perdu. Je ne sais pas où en est ce CMS comme j'ai loupé pas mal de màj, mais c'était quand même un très bon produit.

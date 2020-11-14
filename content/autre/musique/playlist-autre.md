@@ -5,7 +5,7 @@ lastmod: 2020-05-23T10:13:32+01:00
 draft: false
 ---
 
-# Hip-hop
+### Hip-hop
 
 **Vers 2016, je m'étais composé ma seule playlist de hip-hop/rap/fusion.** Je ne suis pas un fin connaisseur mais voici une partie de ce qu'elle contient : surtout des classiques. Mention pour l'album *Deltron 3030*, une bombe, une autre pour les *Jazzmatazz* de Guru et une enfin pour A Tribe Called Quest. Et bien sûr pour tout le travail de DJ Shadow, pour l'album *Illmatic*...
 
@@ -33,9 +33,9 @@ draft: false
 * [(2013) *Hive* - Earl Sweatshirt, Vince Staples, Casey Veggies](https://www.youtube.com/watch?v=0FcDXL5Aw0o)
 * [(2014) *Sinok* - Fuzati, Orgasmic](https://www.youtube.com/watch?v=vdhBQQKiYlg)
 
-# "Musique du soir"
+### "Musique du soir"
 
-Il fut un moment où j'écoutais de la musique pour m'endormir. **Voici une petite liste tirée de la playlist (de 12h30) correspondante**. Beaucoup de sons que j'écoutais gosse (Dire Straits, Police, Deep Purple...) ou adolescent (Neil Young, Clapton, les Floyd...) et qui ont, pour certains, vraiment influencés ma culture musicale. **Quand j'écoute ça, c'est des frissons, des larmes ou une banane jusqu'aux oreilles**. Une liste marquée aussi par ma découverte, à cette période, du Grateful Dead que je considère toujours comme un des meilleurs groupes de tous les temps (rien que ça).
+Il fut un moment où j'écoutais de la musique pour m'endormir. **Voici une petite liste tirée de la playlist (de 12h30) correspondante**. Beaucoup de sons que j'écoutais gosse (Dire Straits, Police, Deep Purple...) ou adolescent (Neil Young, Clapton, les Floyd...) et qui ont, pour beaucoup, vraiment influencés ma culture musicale. **Quand j'écoute ça, c'est des frissons, des larmes ou une banane jusqu'aux oreilles**. Une liste marquée aussi par ma découverte, à cette période, du Grateful Dead que je considère toujours comme un des meilleurs groupes de tous les temps (rien que ça).
 
 * [(1959) *So What* - Miles Davis](https://www.youtube.com/watch?v=zqNTltOGh5c)
 * [(1962) *Les Biches* - Jacques Brel](https://www.youtube.com/watch?v=qD4MVAcfny0)

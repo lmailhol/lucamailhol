@@ -1,17 +1,9 @@
 {{ define "main" }}
 
 
-<article class="articleElement">
-  <header>
-    <h2>{{ partial "date.html" . }}&nbsp;{{ .Title }} &nbsp;<span class="articleElementTags">{{ partial "tags.html" . }}</span></h2>
-  </header>
-  <section class="articleElementContent">
-    {{ if isset .Params "disclaimer" }} 
-      <div class="disclaimer">{{ .Params.disclaimer }}</div>
-    {{ end }}
-    {{ .Content }}
-  </section>
-</article>
-
+    <h1 class="h4 mb0-5">{{ partial "date.html" . }}&nbsp;<span class="color-gray-300">{{ .Title }}</span>&nbsp;{{ partial "blogtags.html" . }}</h1>
+    <article>
+      {{ .Content }}
+    </article>
 
 {{ end }}

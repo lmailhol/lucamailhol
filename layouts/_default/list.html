@@ -2,7 +2,7 @@
 
 {{ range .Pages.ByPublishDate.Reverse }}
 
-    <h3 class="mb0">{{ partial "date.html" . }}&nbsp;<a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;</h3>{{ partial "tags.html" . }}
+<p class="h4 mb0-5">{{ partial "date.html" . }}&nbsp;<a class="color-gray-300" href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;{{ partial "blogtags.html" . }}</p>
 
 {{ end }}
 
