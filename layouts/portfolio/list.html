@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-  {{ range where .RegularPages.ByPublishDate.Reverse "Params.render" "list"}}
+  {{ range where .Pages.ByPublishDate.Reverse "Params.render" "list"}}
 
       <div class="row w100 mb2">
         <div class="col-noalign w20 automobile">
