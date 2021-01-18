@@ -21,3 +21,8 @@ nav.mainMenu ul li {
   /* P
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .border-left { border-left: 1px solid #333; }
+
+.mail {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  text-align: left; }

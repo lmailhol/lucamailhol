@@ -18,6 +18,9 @@
 
 <section>
   {{ .Content }}
+
+  <h3 class="mb0 small">Mentions légales</h3>
+  <p class="p0 m0 small">{{ .Params.legal | markdownify  }}</p>
 </section>
 
 {{ end }}
