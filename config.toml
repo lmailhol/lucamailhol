@@ -6,6 +6,9 @@ sectionPagesMenu = "main"
 [params]
   dateFormat = "Jan 2, 2006"
 
+  [permalinks]
+    blog = "/:year/:month/:slug/"
+
   [menu]
     [[menu.main]]
       name = "Blog"

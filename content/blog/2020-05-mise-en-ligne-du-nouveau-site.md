@@ -2,7 +2,7 @@
 title: "Mise en ligne du nouveau site lucamailhol.com"
 date: 2020-05-23T19:09:32+01:00
 tags: ["actu", "web"]
-slug: "mise-en-ligne-du-nouveau-site"
+slug: "mise-en-ligne-du-nouveau-site-lucamailhol-com"
 draft: false
 ---
 
@@ -18,8 +18,8 @@ Autrement, tout roule. Je suis content d'utiliser Hugo que je trouve très bien 
 
 Pour la blague, je me suis baladé sur [archive.org](https://archive.org) pour récupérer deux captures d'écran de vieilles versions de ma page. Elles datent de 2011 et 2012, respectivement. **Pas mal de changement depuis, tout de même.**
 
-{{< image-grid src="2020-05-mise-en-ligne-du-nouveau-site/web-001.png" w="w40" gut="1" >}}
-{{< image-grid src="2020-05-mise-en-ligne-du-nouveau-site/web-002.png" w="w40 ">}}
+{{< image-grid src="../../blog/2020-05-mise-en-ligne-du-nouveau-site/web-001.png" w="w40" gut="1" >}}
+{{< image-grid src="../../blog/2020-05-mise-en-ligne-du-nouveau-site/web-002.png" w="w40 ">}}
 
 
 [^1]: Le PHP est le seul langage de programmation dont je me souviens correctement donc je n'étais pas trop perdu. Je ne sais pas où en est ce CMS comme j'ai loupé pas mal de màj, mais c'était quand même un très bon produit.

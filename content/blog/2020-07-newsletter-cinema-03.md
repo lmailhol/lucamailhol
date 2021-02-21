@@ -2,7 +2,7 @@
 title: "Newsletter cinéma #3"
 date: 2020-07-10T19:07:32+01:00
 tags: ["newsletter"]
-slug: "newsletter-cinema-03"
+slug: "newsletter-cinema-3"
 draft: false
 ---
 
@@ -14,7 +14,7 @@ Il y a quelques jours, nous nous sommes retrouvés à discuter d'animation avec 
 
 **Tout d'abord, les films d'animation de l'américain [Bill Plympton](https://fr.wikipedia.org/wiki/Bill_Plympton).** Un créateur déjanté, ultra prolifique et figure de la contre-culture américaine. Un gros travail à découvrir (surtout qu'une bonne partie de ses courts-métrages se trouvent assez facilement sur YouTube). **Beaucoup de longs-métrages aussi** (je n'ai encore rien vu, bonne découverte en perspective).
 
-— **Les liens :** [Sex & Violence (1997)](https://www.youtube.com/watch?v=MBBoCyf3eIE) / [Face (1987)](https://www.youtube.com/watch?v=bpej3a7AhGI) / (...)
+* **Les liens :** [Sex & Violence (1997)](https://www.youtube.com/watch?v=MBBoCyf3eIE) / [Face (1987)](https://www.youtube.com/watch?v=bpej3a7AhGI) / (...)
 
 ### Animation et volume :
 
@@ -28,7 +28,7 @@ On pourra aussi citer l'excellent [Tango (1980)](https://www.youtube.com/watch?v
 
 ### Retour au cinéma :
 
-{{< image-grid src="2020-07-newsletter-cinema-03/01.png" >}}
+{{< image-grid src="../../blog/2020-07-newsletter-cinema-03/01.png" >}}
 
 **On retourne aux USA, plus récemment, chez Richard Linklater.** Dans deux de ses films, [Waking Life](https://fr.wikipedia.org/wiki/Waking_Life) et [A Scanner Darkly](https://fr.wikipedia.org/wiki/A_Scanner_Darkly), il utilise la technique de la rotoscopie. Grossièrement, elle consiste à redessiner par-dessus des images vidéos. On rentre dans une forme d'animation à **mi-chemin entre la prise de vue réelle et l'animation pure** qui incite à une réflexion très intéressante sur la représentation au cinéma ([voir ici](https://hal-univ-paris3.archives-ouvertes.fr/hal-01852807/document), par exemple). Linklater explore ces questions en plaçant ses histoires dans des contextes plus ou moins liés aux rêves.
 
@@ -38,15 +38,15 @@ On pourra aussi citer l'excellent [Tango (1980)](https://www.youtube.com/watch?v
 
 Ce choix donne lieu à un film **d'une richesse visuelle incroyable**.
 
-— **L'article :** https://www.debordements.fr/Rotoshop-ou-la-representation-de-la-realite
+* **L'article :** https://www.debordements.fr/Rotoshop-ou-la-representation-de-la-realite
 
 On trouve aussi un exemple de rotoscopie dans [Five Obstuctions (2003)](https://fr.wikipedia.org/wiki/Five_Obstructions), de [Jørgen Leth](https://fr.wikipedia.org/wiki/Jørgen_Leth) et [Lars von Trier](https://fr.wikipedia.org/wiki/Lars_von_Trier) (un film que je trouve assez étrange mais très intéressant à voir).
 
-— **Voir l'extrait :** https://www.youtube.com/watch?v=gB7xh3D2vWg
+* **Voir l'extrait :** https://www.youtube.com/watch?v=gB7xh3D2vWg
 
 ### Détour par l'animation japonaise :
 
-{{< image-grid src="2020-07-newsletter-cinema-03/02.jpg" >}}
+{{< image-grid src="../../blog/2020-07-newsletter-cinema-03/02.jpg" >}}
 
 **Enfin, je vous conseille très fortement un film d'animation japonais qu'on m'a fait découvrir l'an dernier :** [La Belladone de la tristesse (1973)](https://fr.wikipedia.org/wiki/La_Belladone_de_la_tristesse). Il a été un peu oublié avant sa restauration (voir [Arbelos Films](http://arbelosfilms.com/distribution/films/belladonna-of-sadness/), qui par ailleurs possèdent un catalogue assez alléchant). **C'est un monument psychédélique, une expérience dont l'image va puiser son inspiration chez de grands artistes (Klimt, Mucha, Schiele...) et la musique dans une sorte de jazz-progressif sous acide** (c'est dément). L'animation passe par différents stades graphiques, le film est passionnant à regarder. Il se trouve relativement facilement en [VOD](https://vod.cnc.fr/title/591141ff-6834-421b-b8e2-066a7767850e?t=Belladonna) ou sur diverses plateformes de téléchargement.
 
