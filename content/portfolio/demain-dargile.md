@@ -21,3 +21,10 @@ render: "list"
 {{< image-grid src="da/img/004.jpg" w="w30" gut="1" >}}
 {{< image-grid src="da/img/005.jpg" w="w30" gut="1" >}}
 {{< image-grid src="da/img/006.jpg" w="w30" >}}
+{{< image-grid row="1" >}}
+{{< image-grid src="da/img/007.jpg" w="w40" gut="1" >}}
+{{< image-grid src="da/img/008.jpg" w="w40" >}}
+{{< image-grid row="1" >}}
+{{< image-grid src="da/img/009.jpg" w="w100" row="1" >}}
+{{< image-grid src="da/img/010.jpg" w="w40" gut="1" >}}
+{{< image-grid src="da/img/011.jpg" w="w40" >}}
