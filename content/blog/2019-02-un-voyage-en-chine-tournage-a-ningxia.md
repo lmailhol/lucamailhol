@@ -1,13 +1,14 @@
 ---
-title: "Un voyage en Chine : tournage à Ningxia"
-date: 2020-05-20T14:09:32+01:00
-lastmod: 2020-05-20T14:09:32+01:00
+title: "Un voyage en Chine, tournage à Ningxia"
+date: 2018-12-23T10:13:32+01:00
+tags: ["projet"]
+slug: "un-voyage-en-chine-tournage-a-ningxia"
 draft: false
 ---
 
 C'était en été 2018, un voyage en Chine au cœur de la province de Ningxia.
 
-**[Bientôt en ligne] :** Mon dossier de production, deux-trois textes, blablabla.
+**[Un jour en ligne] :** Mon dossier de production, deux-trois textes, blablabla.
 
 ### Considération techniques
 
@@ -19,8 +20,11 @@ Concernant l'image : en extérieur, **diaph' bloqué à f/5.6 et exposition aux 
 
 Au niveau du son, c'était en roue libre. Nous n'étions pas assez bien équipé par rapport au vent sur place. Même en intérieur : le domaine viticole était en construction, un vrai gruyère. Malgré tout, **Olivier a réussi à sauver les meubles et enregistrer quelques très bonnes ambiances.** Les interviews, aussi, passent très bien. **Pour le reste, une bonne partie du travail (surtout FX) a été géré en montage son.**
 
-### Phographies de tournage
+### Photographies de tournage
 
 Quelques photographies de ma belle équipe ! **Paul-Guy Rabiet avec sa caméra sur monopode, Olivier Binder à la prise son et nos traductrices et amies Rongqi Long et Shunan Zhang.** Vous vous doutez bien que j'ai pas mal d'autres photographies que je garde pour moi. À chaque fois que je les regarde, j'ai un petit pincement au cœur de nostalgie qui me rappelle à quel point j'ai aimé ce voyage et le travail que nous avons fait sur place. **Sans conteste une de mes plus belles expérience. Qu'on se le dise tout de suite, j'y retournerai.**
 
-{{< foldergallerysquare src="lfndd" >}}
+{{< image-grid src="../../blog/2019-02-un-voyage-en-chine-tournage-a-ningxia/001.JPG" w="w15" gut="1" >}}
+{{< image-grid src="../../blog/2019-02-un-voyage-en-chine-tournage-a-ningxia/004.JPG" w="w15" gut="1" >}}
+{{< image-grid src="../../blog/2019-02-un-voyage-en-chine-tournage-a-ningxia/003.JPG" w="w15" gut="1" >}}
+{{< image-grid src="../../blog/2019-02-un-voyage-en-chine-tournage-a-ningxia/002.JPG" w="w15" >}}

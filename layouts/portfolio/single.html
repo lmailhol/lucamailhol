@@ -4,13 +4,12 @@
   <div class="col-noalign w20 automobile">
     <a data-fancybox="gallery" href="{{ .Params.cover }}"><img class="mb1" src="{{ .Params.cover }}" alt="Card image"></a>
     <h3 class="mb0 p0"><a class="color-gray-300 uppercase" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-    <h6 class="mb0-5 color-gray-700 p0"><span class="color-gray-500">{{ .Params.realisation }}</span><br />{{ .Params.genre }} • {{ .Params.time }} • {{ partial "year.html" . }}</h6>
+    {{ with .Params.nodesc }}&nbsp;{{else}}<h6 class="mb0-5 color-gray-700 p0"><span class="color-gray-500">{{ .Params.realisation }}</span><br />{{ .Params.genre }} • {{ .Params.time }} • {{ partial "year.html" . }}</h6>{{ end }}
     <p class="mt0 mb1 pl1 border-left">{{ .Params.synopsis }}</p>
   </div>
   <div class="col w2 gut nomobile"> </div>
   <div class="col w80 automobile">
     {{ .Content }}
-
   </div>
 </div>
 

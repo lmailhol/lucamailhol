@@ -14,13 +14,13 @@ draft: false
 
 {{< image-grid src="../../blog/2019-12-fin-de-tournage-pour-demain-dargile/fin-de-tournage-02.jpg" >}}
 
-Après un certain temps de préparation déco et trois jours d'installation en studio, nous avons commencé à filmer du 8 au 11 novembre. Le moment où se concrétise d'un seul coup presque un an d'écriture, d'idées, de questions... Nous aurons l'occasion d'y revenir plus précisement. Nous avons enchainé avec plusieurs jours de préparation qui nous menaient au 18 novembre, premier jour de tournage réel. Il s'est terminé le 22 novembre avec l'enregistrement de la voix-off de notre comédienne principale. Enfin, nous avons enregistré les dernières images du film jeudi dernier. Retour au studio, en équipe de trois cette fois.
+Après un certain temps de préparation déco et trois jours d'installation en studio, nous avons commencé à filmer du 8 au 11 novembre. Le moment où se concrétise d'un seul coup presque un an d'écriture, d'idées, de questions... Nous aurons l'occasion d'y revenir plus précisément. Nous avons enchainé avec plusieurs jours de préparation qui nous menaient au 18 novembre, premier jour de tournage réel. Il s'est terminé le 22 novembre avec l'enregistrement de la voix-off de notre comédienne principale. Enfin, nous avons enregistré les dernières images du film jeudi dernier. Retour au studio, en équipe de trois cette fois.
 
 ### Et maintenant
 
 **Ce qui ressort de tout ça, c'est d'abord un énorme merci à tous ceux qui ont rendu possible la concrétisation de ce projet.**
 Les comédiens, les équipes, nos partenaires, les divers soutiens, les contributeurs Ulule... Beaucoup de personnes ont participé à *Demain d'Argile* à de nombreux niveaux différents. Nous aurons l'occasion de publier bientôt un premier générique.
 
-**À présent, la station de montage est presque opérationnelle et la phase de post-production va pouvoir commencer.** Le film est prévu courant mars 2020. Nous avons mis en place ce site pour partager l'avancée du projet au fur et à mesure. De plus, nous y partagerons à terme quelques annecdotes, des ressources, des informations technique... N'hésitez donc pas à revenir de temps à autre ! Pour commencer, vous pouvez accéder à quelques photographies de plateau réalisées par Thai-Binh Phan-Van.
+**À présent, la station de montage est presque opérationnelle et la phase de post-production va pouvoir commencer.** Le film est prévu courant mars 2020. Nous avons mis en place [un site](https://demaindargile.com) pour partager l'avancée du projet au fur et à mesure. De plus, nous y partagerons à terme quelques annecdotes, des ressources, des informations technique... N'hésitez donc pas à revenir de temps à autre ! Pour commencer, vous pouvez accéder à quelques photographies de plateau réalisées par Thai-Binh Phan-Van.
 
 À bientôt.

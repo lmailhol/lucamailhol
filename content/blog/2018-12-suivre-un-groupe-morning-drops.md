@@ -1,7 +1,8 @@
 ---
 title: "Morning Drops, suivre un groupe de musique pendant un an"
-date: 2020-05-23T10:13:32+01:00
-lastmod: 2020-05-23T10:13:32+01:00
+date: 2018-12-23T10:13:32+01:00
+tags: ["projet","musique"]
+slug: "suivre-un-groupe-morning-drops"
 draft: false
 ---
 
@@ -21,4 +22,22 @@ Pour rester dans la vidéo, j'avais aussi réalisé [un petit clip lors de l'enr
 
 Quelques images pour le plaisir.
 
-{{< foldergallerysquare src="md" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/001.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/002.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/003.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/013.jpg" w="w20" >}}
+{{< image-grid row="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/005.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/018.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/015.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/008.jpg" w="w20" >}}
+{{< image-grid row="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/009.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/010.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/016.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/012.jpg" w="w20" >}}
+{{< image-grid row="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/017.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/007.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/011.jpg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2018-12-suivre-un-groupe-morning-drops/014.jpg" w="w20" >}}
