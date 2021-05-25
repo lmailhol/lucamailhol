@@ -12,13 +12,14 @@ time: "16\""
 render: "list"
 ---
 
----
-
-{{< image-grid src="lcf/img/001.jpeg" w="w100" row="1" >}}
-{{< image-grid src="lcf/img/002.jpeg" w="w40" gut="1" >}}
-{{< image-grid src="lcf/img/003.jpeg" w="w40" >}}
+{{< image-grid src="lcf/img/01.jpg" w="w100" row="1" >}}
+{{< image-grid src="lcf/img/02.jpg" w="w30" gut="1" >}}
+{{< image-grid src="lcf/img/07.jpg" w="w30" gut="1" >}}
+{{< image-grid src="lcf/img/06.jpg" w="w30" >}}
 {{< image-grid row="1" >}}
-{{< image-grid src="lcf/img/004.jpeg" w="w30" gut="1" >}}
-{{< image-grid src="lcf/img/005.jpeg" w="w30" gut="1" >}}
-{{< image-grid src="lcf/img/006.jpeg" w="w30" >}}
-{{< image-grid src="lcf/img/007.jpeg" w="w100" row="1" >}}
+{{< image-grid src="lcf/img/04.jpg" w="w40" gut="1" >}}
+{{< image-grid src="lcf/img/05.jpg" w="w40" >}}
+{{< image-grid src="lcf/img/08.jpg" w="w100" row="1" >}}
+{{< image-grid src="lcf/img/09.jpg" w="w40" gut="1" >}}
+{{< image-grid src="lcf/img/10.jpg" w="w40" >}}
+{{< image-grid src="lcf/img/11.jpg" w="w100" row="1" >}}
