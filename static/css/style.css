@@ -26,3 +26,7 @@ nav.mainMenu ul li {
   unicode-bidi: bidi-override;
   direction: rtl;
   text-align: left; }
+
+.footnotes ol li {
+  padding-bottom: 15px;
+}
