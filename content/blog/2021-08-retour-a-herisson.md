@@ -19,7 +19,7 @@ Cet été, j'ai officié comme chef-opérateur sur un premier long-métrage, éc
 
 **De mon côté, sur la base du travail préparatoire de Léo, j'ai réfléchi à ma vision du découpage et préparé les intentions de cadre, de lumière, de couleur...** En fonction des personnages, des décors et des séquences. Plusieurs fois, nous nous sommes vus pour discuter et confronter nos idées. Dans les faits, plus que des rendez-vous studieux, nos rencontres se sont souvent soldées par des beuveries en règle durant lesquelles on évoquait nos envies les plus folles. **Mais la relation de travail était très fluide et nous avons essayé d'être le plus précis possible sur beaucoup points, tout en restant conscients que certaines volontés allaient vite se confronter à la réalité du tournage.**
 
-Sur place, étaient prévus trois jours de préparation pour retourner sur les décors déjà repérés, pour continuer les essais caméra et pour valider certains aspects du découpage.
+Sur place étaient prévus trois jours de préparation pour retourner sur les décors déjà repérés, pour continuer les essais caméra et pour valider certains aspects du découpage.
 
 {{< image-grid src="../../blog/2021-08-retour-a-herisson/11.jpg" w="w30" gut="1" >}}
 {{< image-grid src="../../blog/2021-08-retour-a-herisson/13.jpg" w="w30" gut="1" >}}
@@ -28,7 +28,7 @@ Sur place, étaient prévus trois jours de préparation pour retourner sur les d
 
 Un projet ambitieux à bas budget implique souvent un plan de travail tiré au cordeau. **Passé une période de rodage, nous avons trouvé un bon équilibre entre petites séquences et scènes techniquement demandeuses.** En bout de course, nous avons essuyé quelques très longues journées mais dans une bonne ambiance. Difficile de couper à quelques moments de stress, aux instants où on se demande si ça va passer. **Mais c'est aussi la beauté des projets comme celui-là : une équipe très impliqués, ce qui a toujours permis de trouver des astuces et de se débrouiller.** Même à 4h du matin sous la pluie et l'orage alors qu'il reste une séquence clé à tourner.
 
-**Si je m'en doutais un peu, c'est en arrivant à Hérisson que j'ai compris dans quelle mesure nous allions vivre le film pendant deux semaines, sans arrêt ni véritable repos.** Parce que nous étions au beau milieu du décor, que nous croisions continuellement les comédiens dans leur vie, que nos moments de pause étaient sans cesse bien arrosés... Une fois pris le pli, le retour à un train de vie normal m'a semblé très étrange. **En définitive, un tournage qui me restera longtemps en mémoire.** Et une certaine hâte de voir les premières images montées.
+**Si je m'en doutais un peu, c'est en arrivant à Hérisson que j'ai compris dans quelle mesure nous allions vivre le film pendant deux semaines, sans arrêt ni véritable repos.** Parce que nous étions au beau milieu du décor, que nous croisions continuellement les comédiens dans leur vie, que nos moments de pause étaient sans cesse bien arrosés... Une fois pris le pli, le retour à un train de vie normal m'a semblé très étrange. **En définitive, une belle ballade entre ami.e.s et un tournage qui me restera longtemps en mémoire.** Et une certaine hâte de voir les premières images montées.
 
 ### Un point sur les configurations caméra
 
