@@ -70,4 +70,4 @@ Malgré mes quelques piques concernant le matériel, les problèmes arrivent et 
 
 [^2]: Le kit consiste en un sac contenant des petits bras magiques et des platines avec spigot, qu'on vient velcroter derrière des miroirs. Je m'en suis bricolé de 15cm2, de 25cm2 et de 45cm2. Pour diffuser la réflexion, j'ai opté pour de l'hampshire qu'on pinçait directement sur le miroir.
 
-[^3]: ![earl-thumbs-up](https://media.giphy.com/media/me5iXFpvyubIs/giphy.gif?cid=790b7611e78310eddcabb4298199fd6885dfccbe31dbdb86&rid=giphy.gif&ct=g)
+[^3]: ![earl-thumbs-up](../../../blog/2021-08-retour-a-herisson/earl.gif)
