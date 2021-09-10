@@ -1,13 +1,13 @@
 ---
-title: "Autres playlists"
-date: 2020-05-23T10:13:32+01:00
-lastmod: 2020-05-23T10:13:32+01:00
+title: "2015 - Playlists en vrac"
+date: 2020-04-06T18:00:00+02:00
+tags: ["musique", "playlist"]
+slug: "2015-playlists-en-vrac"
 draft: false
 ---
-
 ### Hip-hop
 
-**Vers 2016, je m'étais composé ma seule playlist de hip-hop/rap/fusion.** Je ne suis pas un fin connaisseur mais voici une partie de ce qu'elle contient : surtout des classiques. Mention pour l'album *Deltron 3030*, une bombe, une autre pour les *Jazzmatazz* de Guru et une enfin pour A Tribe Called Quest. Et bien sûr pour tout le travail de DJ Shadow, pour l'album *Illmatic*...
+**Courant 2015, je m'étais composé ma seule playlist de hip-hop/rap/fusion.** Je ne suis pas un fin connaisseur mais voici une partie de ce qu'elle contient : surtout des classiques. Mention pour l'album *Deltron 3030*, une bombe, une autre pour les *Jazzmatazz* de Guru et une enfin pour A Tribe Called Quest. Et bien sûr pour tout le travail de DJ Shadow, pour l'album *Illmatic*...
 
 * [(1991) *Buggin' Out* - A Tribe Called Quest](https://www.youtube.com/watch?v=cxN4nKk2cfk)
 * [(1991) *Bouge de là* - Mc Solaar](https://www.youtube.com/watch?v=rhvj9nTiSnM)
@@ -70,6 +70,7 @@ Pink Floyd ou sans doute le groupe que j'ai le plus écouté il y a quelques ann
 * [(1970) *And It Stoned Me* - Van Morrison](https://www.youtube.com/watch?v=AYqJtqyeilE)
 * [(1970) *After the Gold Rush* - Neil Young](https://www.youtube.com/watch?v=d6Zf4D1tHdw)
 * [(1970) *Southern Man* - Neil Young](https://www.youtube.com/watch?v=m5FCcDEA6mY)  
+Et encore tant d'autres de Young, que je ne me lasse jamais d'écouter.
 * [(1970) *Ripple* - Grateful Dead](https://www.youtube.com/watch?v=671AgW9xSiA)  
 J'en profite pour placer l'excellente série [Freaks and Geeks](https://fr.wikipedia.org/wiki/Freaks_and_Geeks) que je me suis mis à aimer encore plus, une fois qu'elle s'est mise à citer [American Beauty](https://fr.wikipedia.org/wiki/American_Beauty_%28album%29).
 * [(1970) *Box of Rain - Live at the Civic Center (March 90)* - Grateful Dead](https://archive.org/details/gd90-03-19.prefm-sbd.sacks.1526.sbeok.shnf/gd90-03-19d2t02.shn)  

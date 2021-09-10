@@ -12,6 +12,13 @@ nav.mainMenu ul li {
       border-bottom: 1px solid #91477b;
       padding-bottom: 9px;}
 
+article h3 {
+  display: block;
+  font-weight: 300;
+  font-size: 1.28571em; /* equiv 18px */
+  line-height: 1.16667;
+}
+
 /* INLINE MENU
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
