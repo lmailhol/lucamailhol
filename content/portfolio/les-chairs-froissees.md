@@ -5,6 +5,9 @@ date: 2021-01-02T14:15:59+02:00
 genre: "Fiction"
 realisation: "De Paul-Guy Rabiet"
 synopsis: "Deux jeunes décident d'oublier la mort en s'exilant au cœur de la nature. Ensemble, ils découvriront les premiers émois avant de s'éteindre à l'aube."
+tech: "Arri Alexa Mini / Cooke Varotal 20-100"
+ratio: "1.33 / 1.85"
+crew: "https://www.imdb.com/title/tt14709782/fullcredits/?ref_=tt_cl_sm"
 thumbnail: "lcf/lcf-thumb.jpg"
 cover: "../lcf/lcf-cover.jpg"
 tags: ["chef-opérateur"]

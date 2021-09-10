@@ -6,6 +6,11 @@
     <h3 class="mb0 p0"><a class="color-gray-300 uppercase" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
     {{ with .Params.nodesc }}&nbsp;{{else}}<h6 class="mb0-5 color-gray-700 p0"><span class="color-gray-500">{{ .Params.realisation }}</span><br />{{ .Params.genre }} • {{ .Params.time }} • {{ partial "year.html" . }}</h6>{{ end }}
     <p class="mt0 mb1 pl1 border-left">{{ .Params.synopsis }}</p>
+    <p class="color-gray-700">
+      <span class="color-gray-500">&gt; Ratio :</span> {{ .Params.ratio }}<br />
+      <span class="color-gray-500">&gt; Tech :</span> {{ .Params.tech }}<br />
+      <span class="color-gray-500">&gt; Équipe : </span><a href="{{ .Params.crew }}">IMDB</a>
+    </p>
   </div>
   <div class="col w2 gut nomobile"> </div>
   <div class="col w80 automobile">

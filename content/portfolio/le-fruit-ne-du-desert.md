@@ -5,6 +5,9 @@ date: 2019-12-12T14:15:59+02:00
 genre: "Documentaire"
 realisation: "De Luca Mailhol"
 synopsis: "Dans la province chinoise du Ningxia, un vigneron monte au cœur du désert un domaine à la hauteur de ses grandes ambitions créatrices."
+tech: "Canon XC10"
+ratio: "2.00"
+crew: "https://www.imdb.com/title/tt11489138/fullcredits/?ref_=tt_ql_cl"
 thumbnail: "lfndd/lfndd-thumb.jpg"
 cover: "../lfndd/lfndd-cover.jpg"
 tags: ["réalisateur", "chef-opérateur"]

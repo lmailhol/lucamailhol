@@ -5,6 +5,9 @@ date: 2019-12-26T14:15:59+02:00
 genre: "Fiction"
 realisation: "De Xavier Inbona"
 synopsis: "Victor Gaté, pianiste depuis des années, s'apprête à passer le plus grand concours de piano du monde. Alors qu'il s'exerce, il est victime d'un AVC."
+tech: "Sony FS5 mkII / Série Rokinon"
+ratio: "2.39"
+crew: "https://www.imdb.com/title/tt11470302/fullcredits/?ref_=tt_ql_cl"
 thumbnail: "riap/riap-thumb.jpg"
 cover: "../riap/riap-cover.jpg"
 tags: ["chef-opérateur"]
