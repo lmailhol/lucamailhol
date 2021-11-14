@@ -1,7 +1,7 @@
 ---
 title: "Les Chairs Froissées, tournage en extérieur dans le Morvan"
 date: 2020-09-01T10:13:32+01:00
-tags: ["projet"]
+tags: ["projet", "chef-op"]
 slug: "les-chairs-froissees-tournage-en-exterieur-dans-le-morvan"
 draft: false
 ---

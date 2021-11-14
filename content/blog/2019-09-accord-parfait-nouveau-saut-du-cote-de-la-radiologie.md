@@ -1,7 +1,7 @@
 ---
 title: "Accord Parfait, nouveau saut du côté de la radiologie"
 date: 2019-09-21T08:09:32+01:00
-tags: ["projet"]
+tags: ["projet", "chef-op"]
 slug: "accord-parfait-nouveau-saut-du-cote-de-la-radiologie"
 draft: false
 ---

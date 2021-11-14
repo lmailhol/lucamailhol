@@ -1,7 +1,7 @@
 ---
 title: "Tournage de Quand Reviendra le Loriot"
 date: 2021-03-31T09:00:00+02:00
-tags: ["projet"]
+tags: ["projet", "chef-op"]
 slug: "tournage-de-quand-reviendra-le-loriot"
 draft: false
 ---
@@ -22,6 +22,6 @@ J'ai profité de ce tournage pour tenter quelques nouvelles choses. En premier l
 {{< image-grid src="../../blog/2021-03-quand-reviendra-le-loriot/06.jpeg" w="w30" gut="1" >}}
 {{< image-grid src="../../blog/2021-03-quand-reviendra-le-loriot/07.jpeg" w="w30" >}}
 
-À l'image, nous avons utilisé une Z-Cam E2-S6 accompagnée d'optiques Zeiss GO et d'un vieil Angénieux 25-250 T3.7. J'ai un avis en demi teinte concernant cette caméra. Pour son gabarit (et son prix), la qualité d'image est assez impressionnante (malgré un workflow assez bizarre et des LUT constructeur peu convaincantes). C'est en terme d'ergonomie que la caméra déçoit un peu. Il faut tricher lors de l'accessoirisation pour obtenir quelque chose de correct. L'absence d'une sortie HD-SDI est le manque le plus dommageable. L'unique sortie HDMI possède une latence qui se ressent dans l'EVF et sur le moniteur de point (un comble d'avoir du retard aux écrans quand ils sont câblés). Connecter un smartphone à la caméra donne une image plus juste... Mais qui freeze assez souvent. Concernant les filtres, le choix était restreint mais m'a amené à utiliser un set de Glimmer dont j'aime beaucoup le rendu.
+À l'image, nous avons utilisé une Z-Cam E2-S6 accompagnée d'optiques Zeiss GO et d'un vieil Angénieux 25-250 T3.7. J'ai un avis en demi teinte concernant cette caméra. Pour son gabarit (et son prix), la qualité d'image est assez impressionnante (malgré un workflow assez bizarre et des LUT constructeur peu convaincantes). C'est en terme d'ergonomie que la caméra déçoit un peu. Il faut tricher lors de l'accessoirisation pour obtenir quelque chose de correct. L'absence d'une sortie HD-SDI est le manque le plus dommageable. L'unique sortie HDMI possède une latence qui se ressent dans l'EVF et sur le moniteur de point (un comble d'avoir du retard aux écrans quand ils sont câblés). Connecter un smartphone à la caméra donne une image plus juste... Mais qui freeze trop souvent. Concernant les filtres, le choix était restreint mais m'a amené à utiliser un set de Glimmer dont j'aime beaucoup le rendu.
 
 Sans s'étendre plus, pour le moment, sur les différents choix opérés au cadre et à la lumière, je suis content de cette semaine et j'ai hâte de voir le film monté !

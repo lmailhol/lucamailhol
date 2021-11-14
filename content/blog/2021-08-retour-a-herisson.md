@@ -1,7 +1,7 @@
 ---
 title: "Un long-métrage en deux semaines : Retour à Hérisson"
 date: 2021-08-18T09:00:00+02:00
-tags: ["projet"]
+tags: ["projet", "chef-op"]
 slug: "un-long-metrage-en-deux-semaines-retour-a-herisson"
 draft: false
 ---
