@@ -11,7 +11,7 @@ crew: "https://www.imdb.com/title/tt11470302/fullcredits/?ref_=tt_ql_cl"
 thumbnail: "riap/riap-thumb.jpg"
 cover: "../riap/riap-cover.jpg"
 tags: ["chef-opérateur"]
-time: "15\""
+time: "15'"
 render: "list"
 ---
 

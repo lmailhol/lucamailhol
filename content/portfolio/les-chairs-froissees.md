@@ -11,9 +11,11 @@ crew: "https://www.imdb.com/title/tt14709782/fullcredits/?ref_=tt_cl_sm"
 thumbnail: "lcf/lcf-thumb.jpg"
 cover: "../lcf/lcf-cover.jpg"
 tags: ["chef-opérateur"]
-time: "16\""
+time: "19'"
 render: "list"
 ---
+
+{{< vimeo 726156449 >}}
 
 {{< image-grid src="lcf/img/01.jpg" w="w100" row="1" >}}
 {{< image-grid src="lcf/img/02.jpg" w="w30" gut="1" >}}

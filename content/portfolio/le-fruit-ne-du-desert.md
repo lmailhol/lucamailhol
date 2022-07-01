@@ -11,7 +11,7 @@ crew: "https://www.imdb.com/title/tt11489138/fullcredits/?ref_=tt_ql_cl"
 thumbnail: "lfndd/lfndd-thumb.jpg"
 cover: "../lfndd/lfndd-cover.jpg"
 tags: ["réalisateur", "chef-opérateur"]
-time: "19\""
+time: "19'"
 render: "list"
 ---
 

@@ -3,7 +3,7 @@ title: "Quand reviendra le Loriot"
 draft: false
 date: 2021-04-01T14:15:59+02:00
 genre: "Fiction"
-realisation: "De Naoile Jouira"
+realisation: "De Naoile Ji'"
 synopsis: "Mickaëlla cherche à retrouver sa place dans la vie entre instinct morbide et volonté d’avancer sans ses démons."
 tech: "ZCam E2-S6 / Zeiss GO, Angenieux 25-250"
 ratio: "1.66 / 2.35"
@@ -11,9 +11,11 @@ crew: "https://www.imdb.com/title/tt15399710/fullcredits/?ref_=tt_cl_sm"
 thumbnail: "qrl/qrl-thumb.jpg"
 cover: "../qrl/qrl-cover.jpg"
 tags: ["chef-opérateur"]
-time: "22\""
+time: "26'"
 render: "list"
 ---
+
+{{< vimeo 726176763 >}}
 
 {{< image-grid src="qrl/img/08.jpg" w="w100" row="1" >}}
 {{< image-grid src="qrl/img/13.jpg" w="w40" gut="1" >}}
