@@ -4,10 +4,11 @@ draft: false
 date: 2022-06-26T14:15:59+02:00
 genre: "Fiction longue"
 realisation: "De Léo Nèti"
-synopsis: "En cours de rédaction."
+synopsis: "Il est 6h du matin quand un vieil homme appelle Pascal, journaliste sans grande envergure, pour lui demander de venir au plus vite à Hérisson. Il aurait aperçu une météorite s’écraser non loin de chez lui. C'est le début d'une journée rocambolesque pour notre reporter flegmatique."
 tech: "Red Gemini / Cooke Varotal 18-100, Cooke Varo-Panchro 20-60, Angénieux 25-250, Zeiss Go"
 ratio: "1.85"
 thumbnail: "rah/rah-thumb.jpg"
+crew: "https://www.imdb.com/title/tt22258058/fullcredits/?ref_=tt_cl_sm"
 cover: "../rah/rah-cover.jpg"
 tags: ["chef-opérateur"]
 time: "73'"
