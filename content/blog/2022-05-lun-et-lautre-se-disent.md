@@ -66,7 +66,7 @@ Pour ce tournage ambitieux mais dont la bonne préparation nous aura permis de l
 *Ci-dessous, quelques extraits de documents de préparation...*
 
 {{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/13.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/14.png" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/15.png" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/16.png" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/17.png" w="w20" >}}
+{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/14.jpeg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/15.jpeg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/16.jpeg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/17.jpeg" w="w20" >}}
