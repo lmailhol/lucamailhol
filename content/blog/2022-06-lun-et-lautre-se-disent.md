@@ -12,10 +12,10 @@ Un projet court, mais dont l’ambition a demandé la mobilisation de nombreuses
 
 Le film a donc demandé un certain temps de préparation pour traduire au mieux les envies de Yuntian. Et une fois à la page par rapport à certaines idées précises, elle nous a donné une grande marge de manœuvre pour interpréter ses intentions.
 
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/01.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/02.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/12.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/04-2.JPG" w="w20" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/01.JPG" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/02.JPG" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/12.JPG" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/04-2.JPG" w="w20" >}}
 
 *L’Un et l’Autre se disent* **m’est directement apparu comme mué d’une double identité.** D'un côté très symbolique dans ses tirades philosophiques, de l’autre plus organique dans ses longs passages dansés. **C’est néanmoins un film assez conceptuel assumant un côté cérébral qui traverse même les moments les plus lâchés.** Le challenge était de donner au film une image solide. **Une image qui réponde à cet aspect pensé, sans l’alourdir aux yeux des spectateurs.** Tout le découpage a été fixé à l’avance et j’ai même pris le temps de story-boarder le film. L’idée était de suivre au plus proche l’évolution abstraite du scénario dans le ressenti au cadre et à la lumière.
 
@@ -25,10 +25,10 @@ De la caméra fixe accompagnée de légers mouvements au début, **une rupture d
 
 **En parallèle du cadre, j’ai essayé d’inscrire dans le film une évolution de la couleur,** chaque séquence étant traitée de manière isolée. Seul le côté assez dense et contrasté de l'image les relies toutes. Sans pousser non plus dans la dramatisation de l’esthétique, le rendu est sombre et je souhaitais vraiment **faire transparaitre une légère forme d’étrangeté dans l’aspect global du film.**
 
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/04.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/05.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/06-2.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/03.JPG" w="w20" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/04.JPG" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/05.JPG" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/06-2.JPG" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/03.JPG" w="w20" >}}
 
 ### Un point sur la caméra
 
@@ -40,9 +40,9 @@ De la caméra fixe accompagnée de légers mouvements au début, **une rupture d
 
 Une configuration image très efficace et facile à gérer. Je remercie bien sûr Tom Dubreil et Romance Ricaud pour leur super travail et leur efficacité !
 
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/07.JPG" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/08.JPG" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/09.JPG" w="w30" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/07.JPG" w="w30" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/08.JPG" w="w30" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/09.JPG" w="w30" >}}
 
 ### Et un autre sur la lumière et la machinerie
 
@@ -54,9 +54,9 @@ Nous nous sommes aussi bien amusé en machinerie. J’ai déjà parlé du travel
 
 J’ai déjà mentionné [Léo Nèti](https://lucamailhol.com/2021/08/un-long-metrage-en-deux-semaines-retour-a-herisson/) à la machinerie et Maeldan Eudo à la lumière, je citerai aussi le reste de l’équipe, Étienne Suzac (machinerie) et Benjamin Jouve (lumière) ! Un très grand merci à eux, comme d'habitude, pour leur excellent boulot.
 
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/10.JPG" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/11.JPG" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/06.JPG" w="w30" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/10.JPG" w="w30" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/11.JPG" w="w30" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/06.JPG" w="w30" >}}
 
 Pour ce tournage ambitieux mais dont la bonne préparation nous aura permis de le voir se dérouler sans accros, il s’agit de remercier les prestataires matériels : [Pleine Image Location](https://www.pleineimage-loc.com), [Constance Production](http://www.constanceprod.com) et [Perfect Live](https://perfect-live.com). Merci aussi au [théâtre Piccolo](https://www.espace-des-arts.com/theatre-piccolo) de Chalon et à la [Lanterne Magique](https://www.beaune.fr/culture-et-loisirs/la-lanterne-magique-salle-de-spectacles/) de Beaune pour leur accueil. Enfin et toujours un grand merci aux [Ateliers du Cinéma](https://ateliersducinema.org), tant pour le matériel, les studios mais surtout le soutien sans faille autour de tous ces projets.
 
@@ -65,8 +65,8 @@ Pour ce tournage ambitieux mais dont la bonne préparation nous aura permis de l
 *Toutes les photographies sont de Roxane Bergerot et de Romance Ricaud. Merci beaucoup !*  
 *Ci-dessous, quelques extraits de documents de préparation...*
 
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/13.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/14.jpeg" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/15.jpeg" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/16.jpeg" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/17.jpeg" w="w20" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/13.JPG" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/14.jpeg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/15.jpeg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/16.jpeg" w="w20" gut="1" >}}
+{{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/17.jpeg" w="w20" >}}
