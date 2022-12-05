@@ -58,9 +58,9 @@ J’ai déjà mentionné [Léo Nèti](https://lucamailhol.com/2021/08/un-long-me
 {{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/11.JPG" w="w30" gut="1" >}}
 {{< image-grid src="../../blog/2022-05-lun-et-lautre-se-disent/06.JPG" w="w30" >}}
 
-Pour ce tournage ambitieux mais dont la bonne préparation nous aura permis de le voir se dérouler sans accros, il s’agit de remercier aussi les prestataires matériels : [Pleine Image Location](https://www.pleineimage-loc.com), [Constance Production](http://www.constanceprod.com) et [Perfect Live](https://perfect-live.com). Enfin et toujours un grand merci aux [Ateliers du Cinéma](https://ateliersducinema.org), tant pour le matériel, les studios mais aussi le soutien sans faille autour de tous ces projets.
+Pour ce tournage ambitieux mais dont la bonne préparation nous aura permis de le voir se dérouler sans accros, il s’agit de remercier les prestataires matériels : [Pleine Image Location](https://www.pleineimage-loc.com), [Constance Production](http://www.constanceprod.com) et [Perfect Live](https://perfect-live.com). Merci aussi au [théâtre Piccolo](https://www.espace-des-arts.com/theatre-piccolo) de Chalon et à la [Lanterne Magique](https://www.beaune.fr/culture-et-loisirs/la-lanterne-magique-salle-de-spectacles/) de Beaune pour leur accueil. Enfin et toujours un grand merci aux [Ateliers du Cinéma](https://ateliersducinema.org), tant pour le matériel, les studios mais surtout le soutien sans faille autour de tous ces projets.
 
-**Merci à Yuntian de m’avoir fait confiance pour ce chouette projet !** Et merci à tout le reste de l'équipe, constituée de plein de gens que j'étais heureux de revoir ou rencontrer. On a encore bien rigolé.
+**Merci à Yuntian de m’avoir fait confiance !** Et merci à tout le reste de l'équipe, constituée de plein de gens que j'étais heureux de revoir ou rencontrer. On a encore bien rigolé.
 
 *Toutes les photographies sont de Roxane Bergerot et de Romance Ricaud. Merci beaucoup !*  
 *Ci-dessous, quelques extraits de documents de préparation...*
