@@ -2,8 +2,6 @@
 title: Autre
 ---
 
-### Photographies
-
 *Ningxia, nouvelles vignes chinoises*
 
 {{< image-grid src="autre/photos-ningxia/01.jpg" w="w30" gut="1" >}}

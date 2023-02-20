@@ -23,7 +23,7 @@ De la caméra fixe accompagnée de légers mouvements au début, **une rupture d
 
 **Outre ce moment, nous nous sommes aussi amusés sur un long plan séquence particulièrement millimétré.** Un passage clé du film que nous aurions pu tourner en plusieurs fois mais qui était nettement plus intéressant à traiter d’un seul coup en terme de mise en scène. **Une sympathique chorégraphie à mettre en place entre le déplacement du comédien et ses changements de costumes, le mouvement de la caméra et les allumages de projecteurs.**
 
-**En parallèle du cadre, j’ai essayé d’inscrire dans le film une évolution de la couleur,** chaque séquence étant traitée de manière isolée. Seul le côté assez dense et contrasté de l'image les relies toutes. Sans pousser non plus dans la dramatisation de l’esthétique, le rendu est sombre et je souhaitais vraiment **faire transparaitre une légère forme d’étrangeté dans l’aspect global du film.**
+**En parallèle du cadre, j’ai essayé d’inscrire dans le film une évolution de la couleur,** chaque séquence étant traitée de manière isolée. Seul le côté assez dense et contrasté de l'image les relies toutes. Sans pousser non plus dans la dramatisation de l’esthétique, le rendu est sombre et Yuntian souhaitais **faire transparaitre une légère forme d’étrangeté dans l’aspect global du film.**
 
 {{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/04.JPG" w="w20" gut="1" >}}
 {{< image-grid src="../../blog/2022-06-lun-et-lautre-se-disent/05.JPG" w="w20" gut="1" >}}
