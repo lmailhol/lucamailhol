@@ -4,11 +4,11 @@ draft: false
 date: 2023-02-18T14:15:59+02:00
 genre: "Fiction"
 realisation: "De Yuntian Guan"
-synopsis: "En cours de rédaction."
+synopsis: "Cyprien, un réalisateur crée un personnage pour accomplir son suicide imaginaire."
 tech: "Arri Alexa Classic XT / Cooke Varo-Panchro 20-60, Zeiss Go"
 ratio: "2.00"
 thumbnail: "uasd/uasd-thumb.jpg"
-crew: ""
+crew: "https://www.imdb.com/title/tt27512459/?ref_=nm_flmg_t_1_cin"
 cover: "../uasd/uasd-cover.jpg"
 tags: ["chef-opérateur"]
 time: "20'"
