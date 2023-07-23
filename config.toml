@@ -21,9 +21,9 @@ sectionPagesMenu = "main"
       identifier = "portfolio"
       weight = 2
     [[menu.main]]
-      name = "Autre"
-      url = "/autre/"
-      identifier = "autre"
+      name = "Photo"
+      url = "/photo/"
+      identifier = "photo"
       weight = 3
     [[menu.main]]
       name = "Contact"

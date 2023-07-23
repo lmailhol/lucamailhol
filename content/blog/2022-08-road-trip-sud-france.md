@@ -3,7 +3,7 @@ title: "Road trip dans le sud de la France et randonnée dans les pyrenées"
 date: 2022-08-15T09:00:00+02:00
 tags: ["moto"]
 slug: "road-trip-dans-le-sud-de-la-france-et-randonnee-dans-les-pyrenees"
-draft: true
+draft: false
 ---
 
 Début avril, j'ai acheté une Varadero 125. Après l'avoir trainée quelques fois entre Paris et Beaune, ainsi qu'en Sologne, je cherchais à partir un peu plus loin durant l'été. Comme les choses sont bien faites, je me suis retrouvé à aller à Beaune pour l'étalonnage de "L'un et l'autre se disent" et pour des repérages. Suite à cela, je n'avais plus grand chose à faire excepté la préparation d'un très chouette projet à l'image. Plutôt que de rentrer à Paris pour m'en occuper, j'ai décidé de partir dans le sud. Direction Foix, tout d'abord, pour passer quelques jours chez ma grand-mère. Puis le Pays Basque pour rendre visite à une amie. Il y a plus désagréable, comme programme, pour se détendre un peu et travailler. Me voilà donc parti pour mon premier long trajet à moto.
