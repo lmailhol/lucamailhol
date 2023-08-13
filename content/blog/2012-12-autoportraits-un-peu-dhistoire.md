@@ -3,7 +3,7 @@ title: "Autoportraits, un peu d'histoire"
 date: 2012-12-11T14:09:32+01:00
 tags: ["art"]
 slug: "autoportraits-un-peu-dhistoire"
-draft: false
+draft: true
 ---
 
 *(Ceci est une archive d'article datant d'un de mes premiers blog.)*

@@ -3,7 +3,7 @@ title: "Un voyage en Chine, tournage à Ningxia"
 date: 2018-12-23T10:13:32+01:00
 tags: ["projet"]
 slug: "un-voyage-en-chine-tournage-a-ningxia"
-draft: false
+draft: true
 ---
 
 C'était en été 2018, un voyage en Chine au cœur de la province de Ningxia.
