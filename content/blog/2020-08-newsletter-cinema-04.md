@@ -1,7 +1,7 @@
 ---
 title: "Newsletter cinéma #4"
 date: 2020-08-10T19:07:32+01:00
-tags: ["newsletter"]
+tags: ["cinéma"]
 slug: "newsletter-cinema-4"
 draft: false
 ---

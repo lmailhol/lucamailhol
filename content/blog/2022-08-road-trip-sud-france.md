@@ -1,9 +1,9 @@
 ---
 title: "Road trip dans le sud de la France et randonnée dans les pyrenées"
 date: 2022-08-15T09:00:00+02:00
-tags: ["moto"]
+tags: ["moto", "photographie", "randonnée"]
 slug: "road-trip-dans-le-sud-de-la-france-et-randonnee-dans-les-pyrenees"
-draft: true
+draft: false
 ---
 
 Début avril, j'ai acheté [une Varadero 125](https://lucamailhol.com/2022/05/ma-premiere-moto-une-honda-varadero-125/). Après l'avoir traînée quelques fois entre Paris et Beaune, ainsi qu'en Sologne, je cherchais à partir un peu plus loin durant l'été. Comme les choses sont bien faites, je me suis retrouvé à descendre aux Ateliers du Cinéma pour l'étalonnage de *[L'un et l'autre se disent](https://lucamailhol.com/2022/06/lun-et-lautre-se-disent-un-court-metrage-entre-danse-et-philosophie/)* et pour des repérages. Suite à cela, je n'avais plus grand-chose à faire excepté la préparation d'un très chouette projet à l'image. Plutôt que de rentrer à Paris pour m'en occuper, j'ai décidé de partir dans le sud. Direction Foix, tout d'abord, pour passer quelques jours chez ma grand-mère. Puis le Pays Basque pour rendre visite à une amie. Il y a plus désagréable comme programme, pour se détendre un peu et travailler. Me voilà donc parti pour mon premier long trajet à moto.
@@ -50,7 +50,7 @@ La première partie consistait à se rendre à l’étang d’Izourt, où un maj
 
 Arrivé au barrage, beaucoup de questions face au balisage quasi-inexistant. La trace me dit de traverser l’ouvrage mais une barrière m’empêche de passer. Après un temps de réflexion, ma décision est prise, je vais braver tous les interdits et les dangers pour me lancer dans l’aventure de ma vie : je passe par dessus. Je rallie un chemin escarpé tout en redoutant une grande montée qui s'approche au loin. Le temps de traverser un cours d’eau et de me gauger les savates que j'arrive à ses pieds.
 
-Bon. J’ai rechargé mes gourdes un peu plus tôt. C’est parti. Et bien j’en ai chié des ronds de chapeaux. Je pense que j’ai complètement sous estimé le poids de mon sac avec une tente, un matelas et un duvet, même si j’ai assez peu de fringues. Très vite, ce n’est pas mon cardio le problème, je ne suis pas si essoufflé, mais mes hanches et mon bas du dos qui me font un mal de chien. Peut-être que j’aurais moins ramassé avec des bâtons ? En attendant je galère et m’arrête souvent pour lâcher mon barda. Bref. Peu agréable (j’accuse le sac mais il ne faut pas oublier que je suis musclé comme un sandwich SNCF). Et je n’ai plus d’eau évidemment. Après l'abrupte montée, j’aperçois le refuge. Je rentre comme un fantôme, je me commande une bière puis j’évite toute la société pour aller planter ma tente plus loin.
+Bon. J’ai rechargé mes gourdes un peu plus tôt. C’est parti. Et bien j’en ai chié des ronds de chapeaux. Très vite, ce n’est pas la fatigue le problème, je ne suis pas si essoufflé, mais mes hanches et mon bas du dos qui me font un mal de chien. Peut-être que j’aurais moins ramassé avec des bâtons ? En attendant je galère et m’arrête souvent pour lâcher mon barda au sol. Bref. Peu agréable. Après l'abrupte montée, j’aperçois le refuge. Je rentre comme un fantôme, je me commande une bière puis j’évite toute la société pour aller planter ma tente plus loin.
 
 {{< image-grid src="../../blog/2022-08-road-trip-sud-france/04.jpg" w="w40" gut="1" >}}
 {{< image-grid src="../../blog/2022-08-road-trip-sud-france/05.jpg" w="w40" >}}
@@ -86,7 +86,7 @@ Pour en revenir au départ. La journée s’annonce lourde et je ne sais pas où
 
 Pour arriver en Gironde, j’ai quasiment longé l’autoroute, tout du long sur une petite voie départementale. Un soleil de plomb, des arbres secs et quasiment personne. Je suis passé à côté de quelques bouts de forêts calcinés. Certains aussi où juste les feuilles brûlées donnaient un côté surréaliste aux bords de route. Des rangées de bois orange électrique, comme si on avait changé les couleurs de la végétation avec un outil informatique. J’aurais aimé prendre ça en photo. Mais je roule.
 
-C’est en Charente que le ton change. Je ne connais pas ce département mais c’est magnifique. Verdoyant, légèrement vallonné, beaucoup de forêts... Les villages que je passe ne semblent par contre pas très vivants. Arrivé à Mazières à 19h où 19h30, je m’installe dans une petite chambre dans une très belle maison en pierre tenue par un couple de retraités extrêmement sympathiques. La femme m’installe très gentiment et m’indique où trouver de quoi manger pour le soir – je jetterai mon dévolu sur une pizzeria qui m’en a servi une horriblement ratée. 
+C’est en Charente que le ton change. Je ne connais pas ce département mais c’est magnifique. Verdoyant, légèrement vallonné, beaucoup de forêts... Les villages que je passe ne semblent par contre pas très vivants. Arrivé à Mazières à 19h où 19h30, je m’installe dans une petite chambre dans une très belle maison en pierre tenue par un couple de retraités extrêmement sympathiques.
 
 Je dors bien, content d’être seul dans un endroit beau et calme. J’aimerais rester plus longtemps et découvrir le coin.
 
@@ -95,8 +95,6 @@ Je dors bien, content d’être seul dans un endroit beau et calme. J’aimerais
 Réveil agréable, petit déjeuner et départ avant 9h30. Je quitte mes hôtes après une petite discussion sur leur parcours, ce qui les a amenés ici.
 
 Le temps est bon, la route très agréable et encore une fois, les alentours très charmants. Je passe dans beaucoup de communes qui ne semblent pas très peuplées. Ou en tout cas peu entretenues. Puis je traverse la Sologne où je me suis déjà rendu. Là bas, si l’environnement me semble beaucoup moins atypique, les villages sont souvent assez beau et fleuris, peuplés de charmantes maisons en briques rouges.
-
-Je me suis peu arrêté, si ce n’est pour l’essence et un fast-food à Le Blanc. C’est assez naïf à dire mais... c’est fou tous ces endroits, communes, villages, villes plus ou moins grandes... Où partout, il y a des gens. Même les endroits qui se meurent. Pourquoi ? Comment ? Et comment tout cela perdure ? Ces individus n’ont jamais pensés à bouger ? Vers une plus grande ville ? Un endroit qu’on « connaît » ? Sans jugement, tout cela me questionne.
 
 Une fois Orléans traversé, c’est une sacré ligne droite dans un paysage désolé qui m’attends. J'ai déjà passé cette route : des étendus de terres et de travaux sur les bords d’une deux fois deux voies, un paysage de désert rendu morne par le soleil caché par les nuages. Puis c’est la région parisienne en arrivant par Montléry, un petit bout de périphérique, le parking, la rue, les marchés, l’appartement. Et c’est sympa de rentrer, aussi.
 
