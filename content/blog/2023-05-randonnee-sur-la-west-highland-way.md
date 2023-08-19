@@ -6,6 +6,8 @@ slug: "randonnee-sur-la-west-highland-way"
 draft: false
 ---
 
+{{< image-float src="../../blog/2023-05-randonnee-sur-la-west-highland-way/whw.jpg" grid="1" float="left" w="w30" margin="mr1" >}}
+
 L’idée de partir en Écosse avait fleurit par hasard dans mon esprit alors que je préparais [mon voyage en Islande](https://lucamailhol.com/2023/03/dix-jours-en-islande/). Sans rien connaître de l’endroit, j’avais l’impression que c’était un lieu parfait pour partir marcher en tente. Quelques mois plus tard, profitant d’un petit creux pré-tournage très bien tombé, me voici à Glasgow, prêt à en découdre avec la West Highland Way.
 
 ### Jour 01 — Arrivée à Glasgow
