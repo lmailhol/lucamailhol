@@ -1,16 +1,17 @@
 ---
-title: "Road trip dans le sud de la France et randonnée dans les pyrenées"
+title: "⛰️ Road trip dans le sud de la France et randonnée dans les pyrenées"
 date: 2022-08-15T09:00:00+02:00
-tags: ["moto", "photographie", "randonnée"]
+categories: ["Voyages"]
+tags: ["moto", "roadtrip", "photographie", "randonnée"]
 slug: "road-trip-dans-le-sud-de-la-france-et-randonnee-dans-les-pyrenees"
 draft: false
 ---
 
-Début avril, j'ai acheté [une Varadero 125](https://lucamailhol.com/2022/05/ma-premiere-moto-une-honda-varadero-125/). Après l'avoir traînée quelques fois entre Paris et Beaune, ainsi qu'en Sologne, je cherchais à partir un peu plus loin durant l'été. Comme les choses sont bien faites, je me suis retrouvé à descendre aux Ateliers du Cinéma pour l'étalonnage de *[L'un et l'autre se disent](https://lucamailhol.com/2022/06/lun-et-lautre-se-disent-un-court-metrage-entre-danse-et-philosophie/)* et pour des repérages. Suite à cela, je n'avais plus grand-chose à faire excepté la préparation d'un très chouette projet à l'image. Plutôt que de rentrer à Paris pour m'en occuper, j'ai décidé de partir dans le sud. Direction Foix, tout d'abord, pour passer quelques jours chez ma grand-mère. Puis le Pays Basque pour rendre visite à une amie. Il y a plus désagréable comme programme, pour se détendre un peu et travailler. Me voilà donc parti pour mon premier long trajet à moto.
+Début avril, j'ai acheté [une Varadero 125](https://lucamailhol.com/2022/05/ma-premiere-moto-une-honda-varadero-125/). Après l'avoir traînée quelques fois entre Paris et Beaune, ainsi qu'en Sologne, je cherchais à partir un peu plus loin durant l'été. Comme les choses sont bien faites, je me suis retrouvé à descendre aux Ateliers du Cinéma pour l'étalonnage de *[L'un et l'autre se disent](https://lucamailhol.com/2022/06/lun-et-lautre-se-disent-un-court-metrage-entre-danse-et-philosophie/)* et pour des repérages.<!--more--> Suite à cela, je n'avais plus grand-chose à faire excepté la préparation d'un très chouette projet à l'image. Plutôt que de rentrer à Paris pour m'en occuper, j'ai décidé de partir dans le sud. Direction Foix, tout d'abord, pour passer quelques jours chez ma grand-mère. Puis le Pays Basque pour rendre visite à une amie. Il y a plus désagréable comme programme, pour se détendre un peu et travailler. Me voilà donc parti pour mon premier long trajet à moto.
 
 ### De Chalon à Jussac
 
-{{< image-float src="../../blog/2022-08-road-trip-sud-france/13.jpg" grid="1" float="left" w="w30" margin="mr1" >}}
+{{< image-float src="../../../blog/2022-08-road-trip-sud-france/13.jpg" grid="1" float="left" w="w-25" margin="mr-3 mb-2" >}}
 
 Tout commence après une bonne nuit à Châlon et un passage au Décathlon pour m'acheter un matelas et un duvet. Vers 11h moins le quart, je prends la route pour Jussac, après avoir vérifié la disponibilité d’un emplacement pour ma tente au camping municipal.
 
@@ -20,9 +21,11 @@ Alors que j’arrive vers le Puy-de-Dôme, le chemin prend des couleurs encore p
 
 Alors que j’arrive sur une portion de route neuve et sans marquage, je remarque des graviers sur tout le bord de la route. Quelques centaines de mètres plus loin, un beau paysage s’offre à moi... pour tous les moments où je ne me suis pas arrêté, il serait dommage de ne pas le faire au moins une fois. C’est sur cette réflexion que me voilà, visant un chemin sur le bas côté, piégé par ces fameux cailloux. Je bloque l'avant et j'embrasse le sol, pied coincé sous l'échappement. Je ne bronche pas, je n’ai rien. Une voiture s’arrête et une femme m’offre son aide pour relever la bécane. Une ancienne motarde, très aimable, Brigitte. Je la remercie beaucoup car sur le coup, je ne me rends pas compte de la fébrilité dans laquelle va me mettre cet accident bénin : la présence d’une aide était fort sympathique. Bilan : surtout de l’esthétique mais ma roue avant est désaxée. Je m’en rend compte au bout d'une dizaine de mètres après mon départ. Heureusement, je parviens à régler le problème sur le bas-côté, sous le cagnard. Pendant l'exercice, j'explose ma principale clé plate en cherchant à serrer au maximum un des boulons de la fourche.
 
-{{< image-grid src="../../blog/2022-08-road-trip-sud-france/14.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2022-08-road-trip-sud-france/16.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2022-08-road-trip-sud-france/15.jpg" w="w30" >}}
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2022-08-road-trip-sud-france/14.jpg" >}}
+  {{< img src="../../../blog/2022-08-road-trip-sud-france/15.jpg" >}}
+  {{< img src="../../../blog/2022-08-road-trip-sud-france/16.jpg" >}}
+{{< /gallery >}}
 
 Encore une bonne heure quarante de route à passer. Je suis tendu et je sens que j’ai perdu une certaine confiance. C’est bizarre de se retrouver confronté à une première chute. Je devais rouler à 10 ou 20 quand la moto a basculé. Difficile de ne pas imaginer la même chose plus rapidement. Je retrouve ce sentiment un peu lourd éprouvé quand j’ai, par exemple, embourbé ma voiture dans le verglas des Vosges ou quand je me suis retrouvé bloqué par la descente de pierres de la porte d’Orlu. Un peu de jugement, un peu de peur... un peu comme un état festif qu’on stoppe d’un coup.
 
@@ -30,7 +33,7 @@ Néanmoins, malgré mon balai dans le cul, la route se finit sans trop d’histo
 
 ### De Jussac à Foix
 
-{{< image-float src="../../blog/2022-08-road-trip-sud-france/02.jpg" grid="1" float="left" w="w40" margin="mr1" >}}
+{{< image-float src="../../../blog/2022-08-road-trip-sud-france/02.jpg" grid="1" float="left" w="w-50" margin="mr-3 mb-2" >}}
 
 Départ tardif, vers 10h15 ou 30 avec une prévision d’un peu plus de cinq heures de route pour rallier Foix. Je quitte le camping avec un léger mal de pied, résultat de la chute de la veille. Ça tire un peu assis sur la moto, sans m'empêcher de rouler. J’avance d’un trait jusqu’à Figeac, ville que je connais un peu, pour me prendre un café en terrasse et une collation, n’ayant mangé qu’un fruit le matin même. La route d’arrivée est très belle, à flanc de falaise.
 
@@ -42,7 +45,7 @@ Très heureux d’être arrivé à bon port et de voir ma grand-mère, la maison
 
 ### Randonnée vers l'étang Fourcat
 
-{{< image-float src="../../blog/2022-08-road-trip-sud-france/03.jpg" grid="1" float="left" w="w25" margin="mr1" >}}
+{{< image-float src="../../../blog/2022-08-road-trip-sud-france/03.jpg" grid="1" float="left" w="w-25" margin="mr-3 mb-2" >}}
 
 Encore une randonnée bien préparée, tient ! Après une brève recherche sur le net, je récupère une trace qui m’indique 10h30 de marche « difficile ». Tranquille ! Dans les faits, un peu moins...
 
@@ -52,12 +55,14 @@ Arrivé au barrage, beaucoup de questions face au balisage quasi-inexistant. La 
 
 Bon. J’ai rechargé mes gourdes un peu plus tôt. C’est parti. Et bien j’en ai chié des ronds de chapeaux. Très vite, ce n’est pas la fatigue le problème, je ne suis pas si essoufflé, mais mes hanches et mon bas du dos qui me font un mal de chien. Peut-être que j’aurais moins ramassé avec des bâtons ? En attendant je galère et m’arrête souvent pour lâcher mon barda au sol. Bref. Peu agréable. Après l'abrupte montée, j’aperçois le refuge. Je rentre comme un fantôme, je me commande une bière puis j’évite toute la société pour aller planter ma tente plus loin.
 
-{{< image-grid src="../../blog/2022-08-road-trip-sud-france/04.jpg" w="w40" gut="1" >}}
-{{< image-grid src="../../blog/2022-08-road-trip-sud-france/05.jpg" w="w40" >}}
+{{< gallery columns="2" >}}
+  {{< img src="../../../blog/2022-08-road-trip-sud-france/04.jpg" >}}
+  {{< img src="../../../blog/2022-08-road-trip-sud-france/05.jpg" >}}
+{{< /gallery >}}
 
 ### Retour au parking
 
-{{< image-float src="../../blog/2022-08-road-trip-sud-france/06.jpg" grid="1" float="right" w="w30" margin="ml1" >}}
+{{< image-float src="../../../blog/2022-08-road-trip-sud-france/06.jpg" grid="1" float="left" w="w-25" margin="mr-3 mb-2" >}}
 
 J’ai peu, pourtant bien dormi. Je me réveille tranquillement vers sept heure moins le quart et profite un petit peu de la vue avant de commencer à plier le camp. À 7h30, j’ai rechargé ma gourde et je me met en route.
 
@@ -65,16 +70,17 @@ Le balisage GR est existant, c’est déjà ça. Par contre, pas de chemin ! 8h 
 
 Néanmoins, je sens que j’ai assez hâte de descendre. C’est étonnant, peut-être n’étais-je pas dans le meilleur état d’esprit pour partir marcher ? J’ai du mal à trouver cet état dans lequel je me perds dans mes pensées. Pourtant, alors que je fini de contourner un col qui découvre l’étang d’Izourt, je me pose quelques instants et j’apprécie le calme qui m’entoure.
 
-{{< image-grid src="../../blog/2022-08-road-trip-sud-france/07.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2022-08-road-trip-sud-france/08.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2022-08-road-trip-sud-france/09.jpg" w="w30" >}}
-
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2022-08-road-trip-sud-france/07.jpg" >}}
+  {{< img src="../../../blog/2022-08-road-trip-sud-france/08.jpg" >}}
+  {{< img src="../../../blog/2022-08-road-trip-sud-france/09.jpg" >}}
+{{< /gallery >}}
 
 Le reste de la descente s’effectue sans encombre mais s’avère moins agréable. Le soleil tape fort, le mercure grimpe aussi vite que les réserves d’eau faiblissent. Un point ennuyeux, aussi : mes chaussures. En descendant, je sens qu’elles ne tiennent plus grand-chose, je m’écrase les orteils et la peau frotte fort. Sur les derniers mètres, c’est vraiment le point qui m’aura le plus ennuyé. Je suis bon pour investir dans du nouvel équipement.
 
-{{< image-float src="../../blog/2022-08-road-trip-sud-france/01.jpg" grid="1" float="left" w="w25" margin="mr1" >}}
-
 ### Foix vers Montégut-Arros puis Guéthary
+
+{{< image-float src="../../../blog/2022-08-road-trip-sud-france/01.jpg" grid="1" float="left" w="w-25" margin="mr-3 mb-2" >}}
 
 Dernier jour à Foix. La semaine est passée terriblement vite. Après le repas, me voilà donc parti rendre visite à des amis de Beaune en tournage dans la région. Coup de fatigue lié à la digestion, la route est un peu rude mais rapide. Me voilà à m’incruster à une soirée de fin de tournage. On boit un peu beaucoup et à 3h je sombre dans un sommeil profond mais bien trop court. Le lendemain je repars en fin de matinée. Les trois heures de route sont vite passées, mais rudes pour cause... de gueule de bois. Une arrivée à Guéthary sous le soleil, assez fier des kilomètres parcourus. Content de rendre visite à mon amie Fanny.
 
@@ -98,9 +104,10 @@ Le temps est bon, la route très agréable et encore une fois, les alentours tr�
 
 Une fois Orléans traversé, c’est une sacré ligne droite dans un paysage désolé qui m’attends. J'ai déjà passé cette route : des étendus de terres et de travaux sur les bords d’une deux fois deux voies, un paysage de désert rendu morne par le soleil caché par les nuages. Puis c’est la région parisienne en arrivant par Montléry, un petit bout de périphérique, le parking, la rue, les marchés, l’appartement. Et c’est sympa de rentrer, aussi.
 
-{{< image-grid src="../../blog/2022-08-road-trip-sud-france/carte-moto.jpg" w="w40" gut="1" >}}
-{{< image-grid src="../../blog/2022-08-road-trip-sud-france/11.jpg" w="w40" >}}
-
+{{< gallery columns="2" >}}
+  {{< img src="../../../blog/2022-08-road-trip-sud-france/carte-moto.jpg" >}}
+  {{< img src="../../../blog/2022-08-road-trip-sud-france/11.jpg" >}}
+{{< /gallery >}}
 
 
 

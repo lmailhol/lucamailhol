@@ -1,7 +1,8 @@
 ---
 title: "Un voyage en Chine, tournage à Ningxia"
 date: 2018-12-23T10:13:32+01:00
-tags: ["projet"]
+categories: ["Projets"]
+tags: ["chef-opérateur","réalisateur","documentaire"]
 slug: "un-voyage-en-chine-tournage-a-ningxia"
 draft: true
 ---

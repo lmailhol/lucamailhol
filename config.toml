@@ -6,30 +6,43 @@ sectionPagesMenu = "main"
 [params]
   dateFormat = "Jan 2, 2006"
 
-  [permalinks]
-    blog = "/:year/:month/:slug/"
+[permalinks]
+  blog = "/:year/:month/:slug/"
 
-  [menu]
-    [[menu.main]]
-      name = "Blog"
-      url = "/blog/"
-      identifier = "blog"
-      weight = 1
-    [[menu.main]]
-      name = "Portfolio"
-      url = "/portfolio/"
-      identifier = "portfolio"
-      weight = 2
-    [[menu.main]]
-      name = "Photo"
-      url = "/photo/"
-      identifier = "photo"
-      weight = 3
-    [[menu.main]]
-      name = "Contact"
-      url = "/contact/"
-      identifier = "contact"
-      weight = 4
+[menu]
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "cinema"
+    name = "Cinéma"
+    url = "/portfolio/cinema"
+    parent = "portfolio"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "photo"
+    name = "Photo"
+    url = "/portfolio/photo"
+    parent = "portfolio"
+    weight = 2
+  
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
+    weight = 2
+
+ [[menu.main]]
+    identifier = "a-propos"
+    name = "À propos"
+    url = "/a-propos"
+    weight = 3
+
 
 [taxonomies]
   tag = "tags"
+  category = "categories"

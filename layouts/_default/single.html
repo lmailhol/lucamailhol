@@ -1,9 +1,95 @@
 {{ define "main" }}
 
+<div class="container blog single-post m-t-140 m-t-sm-90 mb-5">
+    
+  <div class="row">        
+    
+    <div class="col-lg-9 col-sm-12 p-r-lg-60 p-r-md-15">
+    
+      <article class="post format-standard">
+                    
+        <div class="post-wrap">    
+                        
+          <div class="post-content">
+                        
+            <header class="entry-header mb-3">
+    
+              <div class="entry-meta">
+                <span class="posted-on">                                        
+                  {{ partial "date.html" . }}
+                </span>
+                  
+                <span class="cat-links">                                        
+                  {{ partial "categories.html" . }}
+                </span>
+              </div><!-- .entry-meta -->
+    
+              <h1 class="entry-title">{{ .Title }}</h1>
+    
+            </header><!-- .entry-header -->
+                        
+            <div class="entry-content">
 
-    <h1 class="h4 mb0-5">{{ partial "date.html" . }}&nbsp;<span class="color-gray-300">{{ .Title }}</span>&nbsp;{{ partial "blogtags.html" . }}</h1>
-    <article>
-      {{ .Content }}
-    </article>
+                          {{ .Content }}
+    
+            </div><!-- .entry-content -->
+                        
+            <footer class="entry-footer">
+              <div class="footer-links">
+                <div class="tags-links">                                           
+                  <i class="fa-solid fa-tags"></i>
+                  <a href="#" rel="tag">Art</a>
+                  <a href="#" rel="tag">Fashion</a>
+                </div>
+                                            
+                <div class="socials-share-links">                                           
+                  <h6>Partagez cet article</h6>
+                  <ul class="post-share">
+                    <li>
+                      <a href="#" data-network="fab fa-mastodon" data-shareurl="#" title="Share post on Facebook">
+                        <i class="fab fa-mastodon"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#" data-network="fab fa-twitter" data-shareurl="#" title="Share post on Facebook">
+                        <i class="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </footer> <!-- .entry-footer -->
+          </div>
+        </div>        
+                    
+      </article>
+
+      {{ $pages := where .Site.RegularPages.ByWeight "Section" "blog" }}
+
+      <nav class="navigation post-navigation" role="navigation" aria-label="Posts">                  
+        <div class="nav-links clearfix">
+          {{ with $pages.Prev . }}
+          <div class="nav-previous">
+            <a href="{{ .RelPermalink }}" rel="prev">                                
+              <span aria-hidden="true" class="nav-subtitle"><i class="fa-solid fa-arrow-left"></i> Précédent</span>
+            </a>
+          </div>
+          {{ end }}
+          {{ with $pages.Next . }}
+          <div class="nav-next">
+            <a href="{{ .RelPermalink }}" rel="next">                               
+              <span aria-hidden="true" class="nav-subtitle">Suivant <i class="fa-solid fa-arrow-right"></i></span>
+            </a>
+          </div>
+          {{ end }}
+        </div>
+      </nav>
+      </div>
+                
+    {{ partial "defaultsidebar.html" . }}
+    
+  </div>           
+    
+</div>
 
 {{ end }}

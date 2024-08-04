@@ -1,0 +1,26 @@
+
+{{- $src := .Get "src" -}}
+{{- with .Parent -}}
+
+<div class="cbp-item">
+  <a class="cbp-caption cbp-lightbox" href="{{ $src }}">
+    <div class="cbp-caption-defaultWrap">
+      <img src="{{ $src }}" alt="Gallery Image 1">
+    </div>
+    <div class="cbp-caption-activeWrap">
+      <div class="cbp-l-caption-alignCenter">
+        <div class="cbp-l-caption-body">
+          <div class="cbp-l-caption-title">
+            <i class="fa-solid fa-magnifying-glass"></i>        
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+{{- else -}}
+{{- end -}}
+
+
+       

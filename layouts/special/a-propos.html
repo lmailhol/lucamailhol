@@ -1,0 +1,85 @@
+{{ define "main" }}
+
+<article class="page">                                
+  <div class="entry-content">
+    
+    <div class="container m-t-140 m-t-sm-90">
+    
+      <div class="row m-t-70 m-b-85">
+        <div class="col-lg-6 col-md-12">
+
+          <div class="single-image mb-3">                       
+            <img src="img/me.jpg" alt="About Me" />                  
+          </div>
+
+          <div id="portfolio-container-media-1" class="cbp mb-3" data-layoutmode="grid" data-displaytype="default"
+            data-gaphorizontal="20" data-gapvertical="20" data-large-desktop="3" data-tablet-landscape="3"
+            data-tablet-portrait="3" data-mobile="3">
+        
+            <div class="cbp-item">
+              <a class="cbp-caption cbp-lightbox" href="img/01.jpg">
+                <div class="cbp-caption-defaultWrap">
+                  <img src="img/01.jpg" alt="Gallery Image 2">
+                </div>
+              </a>
+            </div>
+
+            <div class="cbp-item">
+              <a class="cbp-caption cbp-lightbox" href="img/02.jpg">
+                <div class="cbp-caption-defaultWrap">
+                  <img src="img/02.jpg" alt="Gallery Image 2">
+                </div>
+              </a>
+            </div>
+
+            <div class="cbp-item">
+              <a class="cbp-caption cbp-lightbox" href="img/03.jpg">
+                <div class="cbp-caption-defaultWrap">
+                  <img src="img/03.jpg" alt="Gallery Image 2">
+                </div>
+              </a>
+            </div>
+
+          </div>
+
+          <div class="cta">
+            <a class="mail" href="#" title="Écrivez moi">
+              {{ .Params.mail }}
+            </a>            
+          </div>  
+
+        </div>
+
+        <div class="col-lg-5 offset-lg-1 col-md-12 m-l-lg-30 m-l-md-0"> 
+          <div class="heading-block">                
+            <h2 class="widget-title">
+              {{ .Title }}                  
+            </h2>                
+          </div>
+  
+          <div class="text-block">
+              {{ .Content }}           
+          </div>  
+    
+          <div class="btn-container btn-link m-t-40">
+            <a href="img/CV.pdf" title="View Portfolio">CV</a>
+          </div>
+                            
+        </div>
+      </div> 
+
+      <div class="row">
+        <div class="col-md-12 m-b-60">
+
+          <div class="legal">
+            {{ .Params.legal | markdownify  }}
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</article>
+
+{{ end }}

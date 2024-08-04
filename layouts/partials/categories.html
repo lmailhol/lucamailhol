@@ -1,0 +1,6 @@
+{{ with .Params.categories }}
+  {{ range . }}
+  {{ $href := print (absURL "categories/") (urlize .) }}
+    <a class="category" href="{{ $href }}">{{ . }}</a>&nbsp;
+  {{ end }}
+{{ end }}

@@ -1,8 +1,55 @@
+<div class="wrap">
+        
+    <div id="site-branding">
+  
+        {{ $logo := resources.Get "img/logo.png" }}
 
-  <ul class="pl0 pb0 mb3">
-  {{ $currentPage := . }}
-    <li><a href="{{ $.Site.BaseURL }}" class="color-gray-300 uppercase">Luca Mailhol</a></li>
-  {{ range .Site.Menus.main }}
-    <li><a href="{{ .URL }}" class="color-gray-500 {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}">{{ .Name }}</a></li>
-  {{ end }}
-  </ul>
+        <a class="logo-brand" href="{{ $.Site.BaseURL }}">
+            <img class="logo" src="{{ $logo.RelPermalink }}" alt="Logo" />
+            <img class="retina-logo" src="{{ $logo.RelPermalink }}" alt="Retina Logo" />
+        </a>
+        
+    </div><!-- .site-branding -->
+        
+    <span id="ham-trigger-wrap"><span class="ham-trigger"><span></span></span></span>
+                        
+    <nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Top Menu">
+        <ul id="top-menu" class="menu">
+            <li class="">
+                <a href="{{ $.Site.BaseURL }}" class="{{ if .IsHome }}current-menu-parent{{ end }}" >Accueil</a>                    
+            </li>  
+
+            {{ $current := . }}
+
+            {{ range .Site.Menus.main }}
+
+                {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
+                {{ $active = or $active (eq .Name $current.Title) }}
+                {{ $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog")) }}
+                {{ $active = or $active (and (eq .Name "Blog") (eq $current.Section "tags")) }}
+                {{ $active = or $active (and (eq .Name "Portfolio") (eq $current.Section "portfolio")) }}
+
+                {{ if .HasChildren }}
+                    <li class='has-children {{ if $active }}current-menu-parent{{ end }}'>
+                        <a href="{{ .URL }}/cinema">{{ .Name }}</a>
+                        <ul class="sub-menu">
+                            {{ range .Children }}
+                                <li class="current-menu-item">
+                                    <a href="{{ .URL }}" >{{ .Name }}</a>
+                                </li>
+                            {{ end }}
+                        </ul>
+                    </li>
+                {{ else }}
+                    <li class='{{ if $active }}current-menu-parent{{ end }}'>
+                        <a href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                {{ end }}
+            {{ end }}
+
+            
+        </ul>
+                
+    </nav><!-- #site-navigation -->
+
+</div><!-- .wrap -->

@@ -1,7 +1,8 @@
 ---
-title: "Newsletter cinéma #2"
+title: "📬 Newsletter cinéma #2"
 date: 2020-06-10T19:07:32+01:00
-tags: ["cinéma"]
+categories: ["Articles"]
+tags: ["cinéma", "newsletter"]
 slug: "newsletter-cinema-2"
 draft: false
 ---

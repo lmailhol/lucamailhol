@@ -1,12 +1,13 @@
 ---
-title: "Accord Parfait, nouveau saut du côté de la radiologie"
+title: "🏥 Accord Parfait, nouveau saut du côté de la radiologie"
 date: 2019-09-21T08:09:32+01:00
-tags: ["projet", "chef-op"]
+categories: ["Projets"]
+tags: ["chef-opérateur"]
 slug: "accord-parfait-nouveau-saut-du-cote-de-la-radiologie"
 draft: false
 ---
 
-En été 2019. Après le court-métrage *Mon Frère*, un an auparavant, **retour dans les contrées de la radiologie interventionnelle au côté de Xavier Inbona**.
+En été 2019. Après le court-métrage *Mon Frère*, un an auparavant, **retour dans les contrées de la radiologie interventionnelle au côté de Xavier Inbona**.<!--more-->
 
 ### Considérations techniques
 
@@ -20,18 +21,21 @@ Nous nous sommes bien amusé niveau machinerie : **j'ai pu louer une Magnum chez
 
 Quelques petites photographies du tournage, de l'ami Thew Lemaitre.
 
-{{< image-grid src="../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/001.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/003.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/007.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/006.JPG" w="w20" >}}
-{{< image-grid row="1" >}}
-{{< image-grid src="../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/004.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/005.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/010.JPG" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/009.JPG" w="w20" >}}
+{{< gallery columns="4" >}}
+  {{< img src="../../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/001.JPG" >}}
+  {{< img src="../../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/003.JPG" >}}
+  {{< img src="../../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/007.JPG" >}}
+  {{< img src="../../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/006.JPG" >}}
+  {{< img src="../../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/004.JPG" >}}
+  {{< img src="../../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/005.JPG" >}}
+  {{< img src="../../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/010.JPG" >}}
+  {{< img src="../../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/009.JPG" >}}
+{{< /gallery >}}
 
 ### Infographie
 
 Dans le film, on voit une fausse affiche du concours Tchaikovsky que j'ai réalisé ! La voici.
 
-{{< image-grid src="../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/riap-deco.jpg" w="w50" >}}
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2019-09-accord-parfait-nouveau-saut-du-cote-de-la-radiologie/riap-deco.jpg" >}}
+{{< /gallery >}}

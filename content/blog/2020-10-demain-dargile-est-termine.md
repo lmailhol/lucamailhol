@@ -1,12 +1,15 @@
 ---
-title: "Demain d'Argile est terminé"
+title: "🙌 Demain d'Argile est terminé"
 date: 2020-10-02T16:00:00+02:00
-tags: ["actu","projet","da"]
+categories: ["Projets"]
+tags: ["réalisateur","chef-opérateur"]
 slug: "demain-dargile-est-termine"
 draft: false
 ---
 
-{{< image-grid src="../../blog/2020-10-demain-dargile-est-termine/01.jpg" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2020-10-demain-dargile-est-termine/01.jpg" >}}
+{{< /gallery >}}
 
 *Après avoir dynamité en bonne et due forme notre planning de post-production initial...*  
 **Nous sommes, Charline et moi, très heureux d'annoncer la fin de Demain d'Argile.**

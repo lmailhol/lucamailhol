@@ -1,39 +1,63 @@
 {{ define "main" }}
 
-  {{ range where .Pages.ByPublishDate.Reverse "Params.render" "list"}}
-
-      <div class="row w100 mb2">
-        <div class="col-noalign w20 automobile">
-          <a href="{{ .RelPermalink }}"><img class="onmobile-mb1" src="{{ .Params.thumbnail }}" alt="Card image"></a>
+<article class="page">                                
+  <div class="entry-content">
+    <div class="container m-t-140 m-t-sm-90"> 
+    
+      <!--<div class="row">
+        <div class="col-md-12 m-t-55 m-t-sm-70 m-b-20">
+          <div class="heading-block">                
+            <h1 class="block-size-1">
+              Portfolio
+            </h1>                
+          </div>
         </div>
-        <div class="col w2 gut nomobile"> </div>
-        <div class="col w80 automobile">
-          <h3 class="mb0 p0"><a class="color-gray-300 uppercase" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-          {{ with .Params.nodesc }}{{else}}<h6 class="mb0-5 color-gray-700 p0"><span class="color-gray-500">{{ .Params.realisation }}</span> • {{ .Params.genre }} • {{ .Params.time }} • {{ partial "year.html" . }}</h6>{{ end }}
-          <p class="mt0-5 mb1 pl1 border-left">{{ .Params.synopsis }}</p>
-          <p class="mt0 mb0-5">
-          {{ with .Params.tags }}
-            {{ range . }}
-              {{ $href := print (absURL "tags/") (urlize .) }}
-              <a class="tag small uppercase color-gray-500" href="{{ $href }}">{{ . }}</a>
-            {{ end }}
-          {{ end }}
-          <a class="button small uppercase color-gray-300" href="{{ .RelPermalink }}">Lire plus</a>
-          </p>
+      </div>-->     
+    
+      <div class="row">
+        <div class="col-md-12 m-b-90">
+    
+          <div class="caster-portfolio-wrap">                
+            <div id="filters-container" class="cbp-l-filters-text text-left" data-defaultfilter="*">
+              <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All</div>
+              <div data-filter=".fiction" class="cbp-filter-item">Fiction</div>
+              <div data-filter=".documentaire" class="cbp-filter-item">Documentaire</div>
+              <div data-filter=".autre" class="cbp-filter-item">Autre</div>
+            </div>
+    
+            <div id="widget-portfolio-container-grid" class="cbp  cbp-caption-custom-effect" data-loadnoofitems="1"
+              data-layoutmode="grid" data-captionanimation="shrink" data-animationtype="sequentially" data-gapvertical="25"
+              data-gaphorizontal="25" data-displaytype="default" data-large-desktop="3" data-tablet-landscape="2"
+              data-tablet-portrait="1" data-mobile="1">
+
+                {{ range where .Pages.ByPublishDate.Reverse "Params.render" "list"}}
+                            
+                  <div class="cbp-item {{ .Params.classement }}">
+                    <a class="cbp-caption" href="{{ .RelPermalink }}">
+                      <div class="cbp-caption">
+                        <div class="cbp-caption-defaultWrap">
+
+                          <video class="video" loop preload="yes" muted width="100%" >
+                            <source src="{{ .Params.thumbnail }}" type="video/mp4">
+                          </video>
+
+                        </div>
+                      </div>
+                      <div class="cbp-l-grid-agency-title alignLeft"><span class="label-cm-small">{{ .Params.genre }}</span>&nbsp;{{ .Title }}</div>
+                      <div class="cbp-l-grid-agency-desc alignLeft"><span class="accent-color">{{ partial "year.html" . }}</span> / Réalisé par {{ .Params.realisation }} • {{ .Params.time }}</div>
+                      <div class="view-project">Voir le film</div>
+                    </a>
+                  </div>
+
+                {{ end }}  
+
+            </div>
+          <!--End #grid-container-->                    
+          </div>
         </div>
-      </div>
-
-  {{ end }}
-
-  <div class="row w100 mb2">
-
-  {{ range where .Pages.ByPublishDate.Reverse "Params.render" "grid" }}
-      <div class="col-noalign w25 pr0-5 automobile">
-        <a href="{{ .RelPermalink }}"><img class="onmobile-mb1" src="{{ .Params.thumbnail }}" alt="Card image"></a>
-      </div>
-  {{ end }}
-
+      </div>      
+    </div>  
   </div>
-
+</article>
 
 {{ end }}

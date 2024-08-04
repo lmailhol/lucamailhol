@@ -1,9 +1,65 @@
 {{ define "main" }}
 
-<section class="content">
+{{ $isIndex  := true }}
 
-<img src="img/nin.jpg" />
+<article class="page">                                
+	<div class="entry-content">
+    
+    	<div class="container-fluid px-0">
+                    
+        	<div class="row no-gutters">
+            	<div class="col-md-12">      
+    
+                	<div id="widget-portfolio-swiper-slider"
+                   		class="caster-swiper-container portfolio-slider fullscreen-projects light-controls" data-loop="true"
+                        data-pagination-type="fraction" data-autoplay-delay="5000" data-disable-on-interaction="true">                        
+                        
+						<div class="swiper-wrapper">
 
-</section>
+
+						{{ range (where .Site.Pages "Section" "portfolio") }}
+							{{ range .Pages }}
+								{{if .Params.indeximage}}
+
+                            
+		                        	<div class="swiper-slide">
+		                            	<a class="swiper-caption-wrap" href="{{ .RelPermalink }}">
+		                                	<div class="swiper-slide-item swiper-lazy" data-background='{{ .Params.indeximage }}'>
+		                                    	<div class="swiper-lazy-preloader"></div>
+		                                       	<div class="swiper-title-wrap">
+		                                           	<p><!--<span class="label">Prochainement</span>--><span class="label-cm">{{ .Params.genrelong }}</span></p>
+		                                            <h1>{{ .Title }}</h1>
+		                                            <p><span class="accent-color">{{ partial "year.html" . }}</span> / Réalisé par {{ .Params.realisation }} • {{ .Params.time }}</p>
+		                                    	</div>
+		                                    </div>
+		                                </a>
+		                            </div>
+		                                    
+
+								{{end}}
+							{{ end }}
+						{{ end }}
+
+						</div>
+
+                                                    
+						<div class="swiper-pagination"></div>
+                            
+						<div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+							<i class="fas fa-chevron-left"></i>
+						</div>
+						
+						<div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+							<i class="fas fa-chevron-right"></i>
+						</div>                       
+                            
+					</div>                      
+    
+				</div>
+			</div>           
+                    
+		</div>    
+	</div>
+</article>
 
 {{ end }}

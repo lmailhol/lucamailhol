@@ -1,12 +1,13 @@
 ---
-title: "Newsletter cinéma #1"
+title: "📬 Newsletter cinéma #1"
 date: 2020-05-26T19:07:32+01:00
-tags: ["cinéma"]
+categories: ["Articles"]
+tags: ["cinéma", "newsletter"]
 slug: "newsletter-cinema-1"
 draft: false
 ---
 
-J'envoie depuis peu des petites newsletter sur le thème du cinéma au résidents actuels et ancien des Ateliers du Cinéma de Beaune. À défaut d'avoir un endroit dédié pour le moment, je vais les publier ici, en différé. Peut-être que certains liens pourront intéresser !
+J'envoie depuis peu des petites newsletter sur le thème du cinéma au résidents actuels et ancien des Ateliers du Cinéma de Beaune. À défaut d'avoir un endroit dédié pour le moment, je vais les publier ici, en différé. Peut-être que certains liens pourront intéresser !  
 
 ### Étalonnage
 

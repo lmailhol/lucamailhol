@@ -1,1 +1,53 @@
+   <!--  Scripts -->
 
+	{{ $jquery := resources.Get "vendors/jquery.min.js" }}
+	{{ $jqueryeasing := resources.Get "vendors/jquery.easing.min.1.3.js" }}
+	{{ $imagesloaded := resources.Get "vendors/imagesloaded.pkgd.min.js" }}
+	{{ $headsup := resources.Get "vendors/headsup.min.js" }}
+	{{ $stickykit := resources.Get "vendors/sticky-kit.min.js" }}
+	{{ $lazysizes := resources.Get "vendors/lazysizes.min.js" }}
+	{{ $socialshare := resources.Get "vendors/social-share.min.js" }}
+	{{ $parallax := resources.Get "vendors/parallax.min.js" }}
+	{{ $castertooltip := resources.Get "vendors/caster-tooltip.js" }}
+	{{ $jquerywaypoints := resources.Get "vendors/jquery.waypoints.min.js" }}
+
+	{{ $gsap := resources.Get "vendors/gsap/gsap.min.js" }}
+	{{ $scrollmagic := resources.Get "vendors/scrollmagic/ScrollMagic.min.js" }}
+	{{ $animation := resources.Get "vendors/scrollmagic/animation.gsap.min.js" }}
+
+	{{ $cubeportfolio := resources.Get "vendors/cubeportfolio/js/jquery.cubeportfolio.min.js" }}
+
+	{{ $swiper := resources.Get "vendors/swiper/js/swiper.min.js" }}
+
+	{{ $magnificpopup := resources.Get "vendors/magnific-popup/jquery.magnific-popup.min.js" }}
+
+	{{ $mainjs := resources.Get "js/main.js" }}
+	{{ $videoloop := resources.Get "js/video-loop.js" }}
+
+
+    <script type='text/javascript' src='{{ $jquery.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $jqueryeasing.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $imagesloaded.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $headsup.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $stickykit.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $lazysizes.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $socialshare.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $parallax.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $castertooltip.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $jquerywaypoints.RelPermalink }}'></script>
+                
+    <script type='text/javascript' src='{{ $gsap.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $scrollmagic.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $animation.RelPermalink }}'></script>
+      
+    <script type='text/javascript' src='{{ $cubeportfolio.RelPermalink }}'></script>
+    
+    <script type='text/javascript' src='{{ $swiper.RelPermalink }}'></script>
+      
+    <script type='text/javascript' src='{{ $magnificpopup.RelPermalink }}'></script>
+        
+    <script type='text/javascript' src='{{ $mainjs.RelPermalink }}'></script>
+    <script type='text/javascript' src='{{ $videoloop.RelPermalink }}'></script>
+ 
+          
+<!--  Scripts Ends -->

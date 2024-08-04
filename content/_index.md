@@ -1,3 +1,4 @@
 ---
 title: Accueil
+accueil: "yes"
 ---

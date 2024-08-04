@@ -1,5 +1,5 @@
 ---
-title: "Nouvelles histoires de fantômes de Georges Didi-Huberman et Arno Gisinger"
+title: "👻 Nouvelles histoires de fantômes de Georges Didi-Huberman et Arno Gisinger"
 date: 2014-11-01T14:09:32+01:00
 tags: ["article", "art"]
 slug: "nouvelles-histoires-de-fantomes"
@@ -8,7 +8,9 @@ draft: false
 
 > *L'objectif de cette nouvelle chronique, c'est le désir d'ouverture à toutes les formes de culture et à toutes les pratiques culturelles d'aujourd'hui. Pour tenter, entre autres, à travers elles, les arts, le cinéma, la photographie, l'informatique, de mieux comprendre le monde dans lequel nous vivons, d'y trouver des repères pour mieux l'apprécier.*
 
-{{< image-grid src="../../blog/2015-01-touristica-international/nouvelle-histoire-de-fantome-01.jpg" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2015-01-touristica-international/nouvelle-histoire-de-fantome-01.jpg" >}}
+{{< /gallery >}}
 
 **La spectaculaire installation photo-vidéo, Nouvelles histoires de fantômes de Georges Didi-Huberman et Arno Gisinger au Palais de Tokyo à Paris présente la mise en relation de leurs travaux, d'un côté vidéo et de l'autre photographique.**
 
@@ -16,7 +18,9 @@ draft: false
 
 **Apparaît alors une grande fresque d'images collée au mur comme une pellicule, plus énigmatique.** Il s'agit d'un travail élaboré par Arno Gisinger lors d'une précédente exposition de Georges Didi-Huberman, du montage au démontage de cette dernière. Le spectateur s'avance dans la salle, descend et observe. Les vidéos se trouvent alors à ses pieds, leurs mouvements devenant littéralement fantomatiques, visibles du seul coin de l'oeil dans une perspective exagérée. On tire de ce dialogue entre images fixes et en mouvement une première vision de cette exposition magistrale.
 
-{{< image-grid src="../../blog/2015-01-touristica-international/nouvelle-histoire-de-fantome-02.jpg" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2015-01-touristica-international/nouvelle-histoire-de-fantome-02.jpg" >}}
+{{< /gallery >}}
 
 **Au delà de cette impression, l'exposition apporte un véritable questionnement sur le statut de l’art et de l’image.** Les deux travaux mis en relation s'articulent en deux temporalités. D'un côté les vidéos embrassent un large champ culturel tandis que les images ne montrent qu'un ponctuel dispositif humain d'exposition, de son montage jusqu'à son démantèlement, le tout présenté en même temps pour accentuer le statut éphémère de l’acte. On comprend alors le cœur de la réflexion. De plusieurs visions individuelles d'artistes et de leurs créations naît toute une culture, toute une histoire. L'acte d'exposer se rapporte alors à une sorte de quête de sens, à une volonté de partage de connaissance et de culture, non exhaustive, non absolue mais néanmoins d’une grande importance psychique et éthique.
 

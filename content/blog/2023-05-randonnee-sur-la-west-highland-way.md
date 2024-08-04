@@ -1,14 +1,13 @@
 ---
-title: "Randonnée sur la West Highland Way"
+title: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Randonnée sur la West Highland Way"
 date: 2023-05-25T09:00:00+02:00
+categories: ["Voyages"]
 tags: ["photographie", "randonnée"]
 slug: "randonnee-sur-la-west-highland-way"
 draft: false
 ---
 
-{{< image-float src="../../blog/2023-05-randonnee-sur-la-west-highland-way/whw.jpg" grid="1" float="left" w="w30" margin="mr1" >}}
-
-L’idée de partir en Écosse avait fleurit par hasard dans mon esprit alors que je préparais [mon voyage en Islande](https://lucamailhol.com/2023/03/dix-jours-en-islande/). Sans rien connaître de l’endroit, j’avais l’impression que c’était un lieu parfait pour partir marcher en tente. Quelques mois plus tard, profitant d’un petit creux pré-tournage très bien tombé, me voici à Glasgow, prêt à en découdre avec la West Highland Way.
+L’idée de partir en Écosse avait fleurit par hasard dans mon esprit alors que je préparais [mon voyage en Islande](https://lucamailhol.com/2023/03/dix-jours-en-islande/). Sans rien connaître de l’endroit, j’avais l’impression que c’était un lieu parfait pour partir marcher en tente. Quelques mois plus tard, profitant d’un petit creux pré-tournage très bien tombé, me voici à Glasgow, prêt à en découdre avec la West Highland Way.<!--more-->
 
 ### Jour 01 — Arrivée à Glasgow
 
@@ -22,9 +21,11 @@ Réveil difficile ce matin ! J'accuse un peu la fatigue accumulée depuis quelqu
 
 Le temps est un peu gris mais pas de pluie à l’horizon. Le chemin est assez simple, beaucoup de route et assez peu de dénivelé. J’avance à bon pas de 9h30 à 12h et m’arrête près d’une échoppe. Pour ne pas commencer à puiser dans mes rations, j’y commande un grilled cheese que j’avale rapidement puis je me prépare un café avant de repartir. Le soleil commence à sortir et la température augmente. C’est très agréable, l’atmosphère est juste assez humide pour que l’odeur environnante soit délicieuse. Le paysage commence à revêtir un certain caractère. Au bout de quelques miles, je fais la connaissance d’une Québécoise, Mathilde, avec qui je passe un bout de chemin en discutant. Elle me rappelle une amie. Ce brin de causette est très agréable, elle marche en autonomie sans s’être trop préparée et sans date de retour. On se quitte au bout d'un moment et j’avance à bon train tout en gardant en tête que j’arrive bientôt... et d’un coup je suis devant le camping que j’ai réservé pour le soir. Il est 14h et je suis encore en pleine forme.
 
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/01.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/02.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/03.jpg" w="w30" >}}
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/01.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/02.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/03.jpg" >}}
+{{< /gallery >}}
 
 Un peu déçu d’être déjà à bon port, je réfléchis à mes options. Après un moment de recherche, je décide d’appeler un camping beaucoup plus loin pour voir s’il reste de la place. Tant pis si ça décale tout ce que j’avais prévu. Je me mets en marche mais en arrivant à Drymen, je n’ai pas le réflexe de sortir ma carte pour vérifier le chemin... et évidemment, je me trompe. Lorsque je dépasse la ville, je me rends compte de mon erreur et décide de continuer pour couper vers un chemin repéré sur une carte, qui rejoint l’itinéraire classique. Malheureusement, une propriété fermée se trouve en plein milieu. Je continue de faire des détours dans un petit chemin de forêt tout en réfléchissant de plus en plus à mon choix. Je suis assez loin d’arriver et nous ne sommes que le premier jour, pourquoi vouloir se presser ? De plus, je commence à sentir un peu le poids de mon sac. Sentant venir l’ânerie, je décide de retourner sur mes pas après deux bonnes heures à tourner un peu inutilement. J’en garderai pour leçon de toujours regarder la carte avant d’avancer trop loin...
 
@@ -32,23 +33,25 @@ Ne sachant que faire, je me pose vite fait dans un petit pub pour goûter une bi
 
 ### Jour 03 - De Drymen à Sallochy
 
-{{< image-float src="../../blog/2023-05-randonnee-sur-la-west-highland-way/07.jpg" grid="1" float="left" w="w20" margin="mr1" >}}
+{{< image-float src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/07.jpg" grid="1" float="left" w="w-25" margin="mr-3 mb-2" >}}
 
 Réveil assez matinal. Je sens que j’ai peu dormi mais je suis assez en forme. Je range mon matériel et me pose tranquillement pour me préparer un café. Je traîne un peu et vers 9h15, me voici prêt à prendre la route. Je retourne donc vers Drymen et comprends comment je me suis planté la veille. En suivant des randonneurs vers le village, je n’ai pas vu l’intersection menant au sentier.
 
 Le temps est assez gris et lumineux. Je remonte la file devant plusieurs randonneurs pour me retrouver aux portes d’un grand champ vallonné, jaune et magnifique. C’est le début d’une première montée, Corn Hill. Le paysage, gorgé d’un large et profond brouillard revêt une ambiance assez mystique. À la lisière du sommet, j’aperçois au loin une jeune femme qui se prend en selfie devant l'horizon. Alors que je m’approche, je la vois m’observer en souriant. Devinant son intention, je m’arrête pour la prendre en photo. C'est Myriam ou Myrie, allemande étudiante en médecine à Newcastle pour 6 mois. Nous discutons un moment tout en nous approchant de la descente vers le village de Balmaha.
 
-{{< image-grid row="1" m="mb1" >}}
-
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/05.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/06.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/04.jpg" w="w30" >}}
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/05.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/06.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/04.jpg" >}}
+{{< /gallery >}}
 
 Je boucle toute la descente en compagnie de Myrie et nous nous arrêtons au village pour casser la croûte. Un grilled-cheese et un café plus tard, nous reprenons naturellement la route ensemble. Nous échangeons quelques mots par moment et très consciencieusement, nous avançons, concentrés, à bon rythme. C’est très agréable de marcher comme cela et chouette de partager ce moment à deux. Nous avalons les miles sans nous arrêter. Le temps a radicalement changé et le soleil se fait de plus en plus présent. Nous évoluons maintenant dans un chemin de forêt typique très sinueux, l’ombre des feuilles dessine des formes abstraites sur le sol. Après avoir longé une longue route, traversé une nouvelle forêt, nous arrivons à mon lieu de campement pour le soir. 15h30. Je suis à nouveau un peu frustré, toujours assez en forme pour continuer. Pas la peine de reproduire la même erreur que la veille et le coin est magnifique. Mon emplacement de tente donne directement sur la plage de galets. Le soleil tape à contre, fort et réveille tous les magnifiques reflets du loch. Devant ce spectacle, Myriam propose d’aller à l’eau, une excellente idée.
 
 Elle est glacée à donner le souffle court et nous ne nagerons pas mais cette trempette est agréable, j'en sors léger et propre comme un sous neuf. Puis on lézarde au soleil pendant un moment avant que Myriam ne décide de reprendre la demi-heure de marche qu’il lui reste vers son campement.
 
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/pano_01.jpg" w="w100" row="1" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/pano_01.jpg" >}}
+{{< /gallery >}}
 
 De mon côté, je vais planter ma tente puis m’affaire à une rapide toilette dans le lac, doublée d’une lessive. Une fois tout étendu, je retourne au soleil pour continuer ma lecture de *Martin Eden*. Je suis enchanté. Le lieu transpire d’un calme reposant, les vallons du loch se perdent en face, au lointain de la perspective atmosphérique. Puis tout à coup j’entends quelqu’un me saluer. Il s’agit de Mathilde, la québécoise du premier jour. Arrêtée par hasard et sans réservation, nous discutons content de se retrouver. Elle me demande si elle peut planter sa tente sur mon emplacement ce qui n’est évidemment pas un problème. On partage la soirée ensemble, à discuter de voyage, de nos vies, du Québec, des Français...
 
@@ -56,13 +59,13 @@ Comme quoi, j’ai bien fait de me tromper de chemin hier. C’était une belle 
 
 ### Jour 04 - De Sallochy à Beinglass
 
-{{< image-float src="../../blog/2023-05-randonnee-sur-la-west-highland-way/08.jpg" grid="1" float="left" w="w40" margin="mr1" >}}
+{{< image-float src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/08.jpg" grid="1" float="left" w="w-50" margin="mr-3 mb-2" >}}
 
 Ce matin est particulièrement rude. Le froid m’a tenu éveillé une partie de la nuit et je n’ai somnolé que par intermittence. Un réveil à 4h du matin m’aura néanmoins permis d’apprécier l’ambiance bleu électrique de la lumière sur le lac, mais j’étais trop déboussolé pour vraiment pouvoir faire quelque chose de cette information.
 
 Vers 8h, un peu hagard et décidant que ce n’est plus un horaire pour m’endormir à nouveau, je passe ma tête dehors et commence à plier machinalement le camp. Puis Mathilde, déjà debout, me rejoint. On se raconte des histoires liées à nos familles, on rigole, on parle, nous ne regardons pas le temps passer. Dans un même temps, je récupère une belle liste d'endroits à visiter au Québec. Le camp est définitivement levé vers 10h15. Et je réalise que mon étape de la journée n’a rien de courte.
 
-{{< image-float src="../../blog/2023-05-randonnee-sur-la-west-highland-way/09.jpg" grid="1" float="right" w="w30" margin="ml1" >}}
+{{< image-float src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/09.jpg" grid="1" float="right" w="w-25" margin="ml-3 mb-2" >}}
 
 Nous commençons à nous diriger vers Rowardennan, à deux. Quelques montées achèvent de me réveiller, il fait déjà assez chaud et sec, j’enlève toute mes couches supérieures. Une fois, là-bas, Mathilde décide de rester boire un nouveau café de son côté. Mon objectif est de tracer au maximum pour éviter d’arriver trop tard à Beinglass. Toute la première partie, un sentier forestier classique assez large est simple et agréable. Elle me fait sortir du village et passer à côté d’une « honesty box » dans laquel je me sers un sandwich et une boisson pour le midi. Au fur et à mesure, le chemin se rapproche du loch, se rétrécit et s’escarpe. Pour se transformer en petit sentier de basse montagne, avec quelques passages techniques un peu fatigant. Je suis seul, j’essaie de garder un maximum de motivation malgré la fatigue et le temps de trajet que j’entrevois au fond de mon crâne. J’avance à très bon rythme et ne m’arrête qu’une dizaine de minutes, vers 13h, pour avaler mon sandwich. Puis je reprends la course, ça monte, ça descend... le sentier a beau être agréable et la présence de l’eau apaisante, je commence à ne pas en voir le bout et me force à continuer absolument jusqu’à Invernaid.
 
@@ -70,9 +73,11 @@ Enfin, j’y arrive. Au passage, je discute cinq minutes avec un couple d’Éco
 
 Toujours presque personne, à part un type peu loquace et surchargé que je double pour la seconde fois. Toujours le sentier, encore plus technique cette fois. Ça monte, ça descend, tout mon corps commence à tirer sévèrement et j’avance beaucoup plus lentement. J’essaie de garder un train correct, de ne pas m’arrêter. Par intermittence, je double un ou deux marcheurs. Puis le paysage change un peu. Les arbres se distancent, laissent place aux herbes hautes, à des champs très vallonnés. Le soleil se tarit derrière une forte couche de nuage, la lumière perd sa couleur dorée et le lac disparaît avec toutes les réflexions qu’il produisait. L’ambiance change, mais toujours agréablement et ce nuage n’est pas à maudire, m'offrant une protection du soleil assez providentielle. Malgré tout, je peine à m’extasier totalement, concentré sur la marche et de plus en plus cassé.
 
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/10.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/11.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/12.jpg" w="w30" >}}
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/10.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/11.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/12.jpg" >}}
+{{< /gallery >}}
 
 Enfin, je vois le bout. Il est 19h30 quand j’arrive au camping. Après un rapide passage à l’accueil, je monte ma tente en un temps records et saute sous la douche. Puis je m’accorde de bonne grâce une bière et une pizza. Je m’étonne de ne voir et de n’avoir vu à aucun moment, Myriam. Moi qui aime pourtant la solitude, un peu de compagnie me manquerait presque. En même temps, le lieu est très rempli ce qui m’a un peu perturbé au début... mais je suis honnêtement trop fourbu pour vraiment y penser. Attablés dehors, deux marcheurs du Pays de Galle entament un brin de discussion avec moi. J’ai honte d’être obligé de leur dire que je comprends très mal leur accent — ce qui est aussi le cas des Écossais, me disent-ils en rigolant. Nous échangeons quelques mots et ils me recommandent les montagnes de leur contrée. Après eux, c’est avec un Irlandais que je discute. Après m’avoir posé quelques questions, il m’explique être venu ici, car son chien, en fin de vie, est de race écossaise. Il voulait le ramener sur ses terres avant la fin. Une bien touchante histoire. Le contact est vraiment facile avec beaucoup de gens que je croise, c’est très appréciable.
 
@@ -80,7 +85,7 @@ Enfin, je scrute un peu la carte pour ne pas partir complètement à l’aveugle
 
 ### Jour 05 - De Beinglass à Bridge of Orchy
 
-{{< image-float src="../../blog/2023-05-randonnee-sur-la-west-highland-way/13.jpg" grid="1" float="right" w="w40" margin="ml1" >}}
+{{< image-float src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/13.jpg" grid="1" float="right" w="w-50" margin="ml-3 mb-2" >}}
 
 Je me suis réveillé au camping après, enfin, une nuit correcte. Sous la pluie. J’attends une légère accalmie avant de partir et décide de marcher jusqu’au prochain village pour me poser la question de la suite.
 
@@ -88,7 +93,7 @@ Le début est un peu compliqué. Quelques montées, pas méchantes, mais je ne s
 
 Un moment passe et j’arrive à un croisement : à gauche la suite, à droite le village. Je regarde l’heure, étonné. La fluidité de la marche m’a fait prendre un très bon rythme et j’en suis déjà à la moitié de l’étape prévue... Je décide de continuer jusqu’à Tyndrum ou je m’arrêterai manger et déciderai de la suite. Je m’enfonce alors dans une grande forêt. La pluie commence à cesser.
 
-{{< image-float src="../../blog/2023-05-randonnee-sur-la-west-highland-way/14.jpg" grid="1" float="left" w="w40" margin="mr1" >}}
+{{< image-float src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/14.jpg" grid="1" float="left" w="w-50" margin="mr-3 mb-2" >}}
 
 Il y a de moins en moins de monde. Je croise un Américain du Midwest, Chick. En discutant, il m’explique qu’il apprécie beaucoup la France : il maîtrise très bien la langue. Nous passons un bout de trajet à parler de Normandie, des Vosges, du Jura... il se trouve aussi qu’il connaît la ville de Foix, très intéressé par la place de cette région lors de la seconde guerre mondiale. Son fils habite dans le sud de la France. Je lui dis que la forêt que nous traversons me rappelle beaucoup l’ambiance Vosgienne ce qui l’interpelle beaucoup. Une bien sympathique rencontre. On se dit au revoir et je reprends un rythme rapide dans la descente.
 
@@ -104,23 +109,29 @@ Enfin, retour à la tente, pâtes lyophilisées, attaque de midges et dodo.
 
 ### Jour 06 - De Bridge of Orchy à Kinlochleven
 
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/pano_02.jpg" w="w100" row="1" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/pano_02.jpg" >}}
+{{< /gallery >}}
 
 Je me réveille au milieu des fameuses midges et en avale sans doute quelques-unes alors que je sirote mon café du matin. Toutes mes affaires sont rapidement rangées et je m'engage dans une belle forêt dans laquelle s'engouffre le chemin. Un morceau assez tranquille pour m'échauffer avant de déboucher sur une plaine splendide. Un vaste paysage s'étend à des kilomètres à la ronde. Il y a si peu d'aspérité qu'on voit de très loin les quelques marcheurs. Depuis le début de la journée, le temps extrêmement changeant me donne l'impression de vivre plusieurs journées différentes. Des moments d'ensoleillement intenses succèdent à des épisodes de pluie marqués, la grisaille va et vient tandis que j'avance, irrémédiablement.
 
 J'arrive assez vite vers Kingshouse et prends le temps de la descente vers King House pour discuter avec un couple de retraités habitant Washington. Je raconte en quelques mots mon travail dans le cinéma tandis qu'ils me parlent de leur vie dans le monde du bâtiment aux États-Unis. Nous nous quittons au bout et je m'octrois une pause pour statuer sur la suite des événements. La météo, elle, se stabilise : il se met à pleuvoir longtemps et la brume apparaît à nouveau.
 
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/15.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/16.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/17.jpg" w="w30" >}}
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/15.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/16.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/17.jpg" >}}
+{{< /gallery >}}
 
 Je me dirige donc vers le "Devil's Staircase" en suivant un passage qui longe la route de la vallée de Glen Coe. Un bout de montée relativement tranquille et très agréable. De temps à autre, je me retourne pour admirer la vue alors que les nuages se dégagent à nouveau, peu à peu. Au sommet, le point de vue sur toute cette étendue vide et brute, pourtant si radieuse, est saisissant. Je profite de ce moment puis échange quelques mots avec Jenny et Matt, un couple d'Anglais posés en haut.
 
 C'est l'esprit léger que j'entreprends le début de la longue descente qui m'attend jusqu'à Kinlochleven. Si léger que je me mets à courir pendant un moment, sautillant entre les cailloux, jusqu'à ce que le petit sentier sinueux s'aplanisse un peu plus bas. De ce côté aussi, le paysage est à couper le souffle. 
 
 
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/18.jpg" w="w40" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/19.jpg" w="w40" >}}
+{{< gallery columns="2" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/18.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/19.jpg" >}}
+{{< /gallery >}}
 
 
 Je continue encore un bon moment jusqu'à entrevoir le début de la civilisation. En effet, le chemin s'élargit beaucoup et des tuyaux, appartenant à une station hydro-électrique, apparaissent un peu partout. Toute cette dernière partie n'est pas spécialement agréable, consistant en une loooongue descente abrupte jusqu'au village. À l'arrivée, se dresse le petit terrain sur lequel je vais pouvoir dormir ce soir. Un minuscule camping, proposant tout de même quelques douches. Une fois ma tente en place, je me dirige vers le centre, assez désert, en quête d'une boisson et de quelque chose d'un peu différent à manger. Je trouve un troquet qui me sert une blonde bien fraîche, que je déguste en lisant. Puis, après deux passages dans des restaurants aux cuisines fermées, je passe une tête dans la petite épicerie locale... où je trouve Marcus et Danny. Nous décidons donc d'aller boire un coup ensemble... un coup qui s'est assez vite transformé en plusieurs. Bref. Nous avons bien discuté et bien rigolé, de nos vies personnelles, de marche, mais aussi de différents clichés Anglais-Français et d'un certain nombre de bêtises ! C'est au camping que nous terminons cette petite sauterie improvisée, autour d'un petit whisky qui soyons honnête, va m'achever.
@@ -134,15 +145,17 @@ Réveil... compliqué. J’ai le cerveau en compote à cause des excès de la ve
 
 À 9h30, je pars du camping et me lance, après un rapide crochet café, en direction de Fort William. Le début est douloureux. J’ai l’impression d’avoir laissé derrière moi toutes mes capacités physiques et le début forestier, en montée, m’essouffle rapidement. La pluie se fait de plus en plus forte et j’essaie néanmoins de garder le rythme. Je double Matt et Jenny, non sans les saluer et commence, au fur et à mesure, à me sentir un peu mieux.
 
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/20.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/21.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/22.jpg" w="w30" >}}
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/20.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/21.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/22.jpg" >}}
+{{< /gallery >}}
 
 Puis le sentier continue. Toujours en forêt puis en haut d’une grande colline, où s’étendent à perte de vue des monts perdus dans les nuages. La route part au loin et le paysage n'est perturbé que par les points fluos des protections de pluie des sacs des marcheurs. L’eau balaie tout, mon équipement résiste bien. Le temps reste un moment comme cela : pluie, vent, accalmie ; pluie, vent, accalmie.
 
 On quitte les collines pour un chemin en fourrée, proche d’une grande forêt. J’ai retrouvé mon rythme habituel et passe devant quelques personnes, souvent en discutant quelques instants. Je veux continuer un maximum sans m’arrêter, va savoir pourquoi. Du reste, le chemin se termine sur une montée qui donne sur une voie beaucoup plus large : je sens qu’on se rapproche.
 
-{{< image-float src="../../blog/2023-05-randonnee-sur-la-west-highland-way/23.jpg" grid="1" float="left" w="w40" margin="mr1" >}}
+{{< image-float src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/23.jpg" grid="1" float="left" w="w-50" margin="mr-3 mb-2" >}}
 
 La cime masquée par un grand voile nuageux, se tient devant nous tous le Ben Nevi, plus haut sommet d’Écosse que j’essaierai de gravir demain matin. C’est très beau et étonnant, encore une fois, de constater ces formations montagneuses aussi nues. La descente s’annonce assez redondante, comme la veille. Si ce n’est qu’au loin, j’aperçois les deux anglais. On rigole bien du fait que je les ai rattrapés et on se donne rendez-vous, pour boire un pot ce soir.
 
@@ -152,11 +165,13 @@ Enfin, je retrouve mes deux amis autour d'une bière méritée. Nous trinquons �
 
 ### Jour 08 - Ben Nevis et retour à Glasgow
 
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/pano_04.jpg" w="w100" row="1" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/pano_04.jpg" >}}
+{{< /gallery >}}
 
 Ce matin, je me réveille de bonne heure en excellente forme. Dormir dans un lit était très plaisant. Mais je ne compte pas m’éterniser si je veux arriver rapidement au sommet du Ben Nevi. Le temps d’un rapide café et je me mets en route. Le temps est magnifique. Après la très ennuyeuse partie de marche longeant la route qui mène au pied de la montagne, je me trouve face au chemin, prêt à attaquer vers 8h30.
 
-{{< image-float src="../../blog/2023-05-randonnee-sur-la-west-highland-way/25.jpg" grid="1" float="left" w="w40" margin="mr1" >}}
+{{< image-float src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/25.jpg" grid="1" float="left" w="w-50" margin="mr-3 mb-2" >}}
 
 Le soleil tape assez fort aujourd'hui. Je suis très motivé, le début du sentier ne grimpe que tranquillement et j’avance à rythme léger pour me préserver un peu. Nous sommes déjà une poignée à grimper. Je remarque, et ce sera une quasi-constante, que je suis le seul à trimballer mon gros sac de randonnée. Soit. Cela me fait de l’entraînement !
 
@@ -166,16 +181,20 @@ Toute la dernière moitié de chemin, en lacet dans les pierres, est plus ardue.
 
 Après d’interminables lacets, le chemin s’enfonce dans la brume, le vent souffle fort et apparaissent au loin les premières traces de neige éternelle. J’avais oublié, c’est une belle surprise. Le chemin alterne passage sur neige et sur pierre jusqu’au bout. De plus en plus de gens, derrière, arrivent et c’est un vrai rassemblement au sommet.
 
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/27.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/28.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/29.jpg" w="w30" >}}
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/27.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/28.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/29.jpg" >}}
+{{< /gallery >}}
 
 Je suis assez heureux d’être arrivé au bout en un peu plus de 3h. Je suis totalement dans les temps concernant mon train du soir. Néanmoins, je ne traîne pas d’autant plus qu’il fait un froid polaire tout là-haut et que je ne sens déjà plus mes doigts. Sur l’autre versant, les nuages se dégagent quelques instants. J’entre aperçois un point de vue qui me semble magnifique. Alors que je m’approche, c’est déjà la fin de cet instant éphémère, la purée de pois s’épaissit d’un coup. Et au passage, j’assiste aussi à une demande en mariage, rien que ça.
 
 La descente... va un peu plus vite. Elle me permet certes de contempler autrement la vue qui s’éclaircit plus je sors de la couche de nuage. Je dégringole la moitié en vitesse avant de me forcer à faire une petite pause vers le fameux lac. Puis la fin m’ennuie un peu, ce n’est pas compliqué, j’ai juste envie d’être en bas. Je sens aussi que tout mon corps a compris que c’était la fin du séjour et relâche un peu.
 
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/26.jpg" w="w40" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/30.jpg" w="w40" >}}
+{{< gallery columns="2" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/26.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/30.jpg" >}}
+{{< /gallery >}}
 
 Je retourne enfin sur le plancher des vaches pour reprendre une dernière fois le trottoir jusqu’à Fort William. Le soleil a disparu au profit de la grisaille et de la pluie. J’ai le temps de faire quelques courses pour manger dans le train et d’aller boire un verre.
 
@@ -191,11 +210,12 @@ Une fois sortie du GoMA, je prends le métro (dans lequel je n'ai presque pas la
 
 Puis je flanne en ville avant de retourner à l'aéroport où j'arrive avec un peu d'avance. Pour me rendre compte que j'ai oublié d'aller déposer ma cartouche de gaz à moitié vide au magasin... Fort heureusement, j'interpèle un peu au hasard un couple de randonneurs qui acceptent de la récupérer, merci à eux. Puis c'est le vol retour et Paris. Et même s'il est toujours agréable de rentrer chez soi, j'avoue sentir une petite deception de ne pas avoir pu rester plus longtemps... C'était une belle aventure !
 
-
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/33.jpg" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/31.jpg" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/24.jpg" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2023-05-randonnee-sur-la-west-highland-way/32.jpg" w="w20" >}}
+{{< gallery columns="4" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/33.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/31.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/24.jpg" >}}
+  {{< img src="../../../blog/2023-05-randonnee-sur-la-west-highland-way/32.jpg" >}}
+{{< /gallery >}}
 
 [^1]: Cette fois-ci et à d'autres reprises pendant le séjour, je vais écouter en boucle ma redécouverte du moment, l'exceptionnel [Polnareff's](https://fr.wikipedia.org/wiki/Polnareff%27s) et ses magnifiques envollées musicales, notamment sur le titre *[Voyages](https://www.youtube.com/watch?v=kyhziT3X1cc)*, un chef d'œuvre. Ma marche fut aussi rythmée par la prodigieuse voix de [Minnie Riperton](https://fr.wikipedia.org/wiki/Minnie_Riperton) chantant *[Les Fleurs](https://www.youtube.com/watch?v=g1kDd6yBQZ4)* ou *[Loving You](https://www.youtube.com/watch?v=9I3UTG1dSTc&pp=ygUabG92aW5nIHlvdSBtaW5uaWUgcmlwZXJ0b24%3D)*. Aussi, une belle découverte avec le [Didn't I](https://www.youtube.com/watch?v=PZqQT5904_U) de [Darondo](https://fr.wikipedia.org/wiki/Darondo), un retour aux sources avec le dément [*Don't Put Me On*](https://www.youtube.com/watch?v=8jfRZdm_7ZA) des [Flamin' Groovies](https://fr.wikipedia.org/wiki/The_Flamin%27_Groovies), un moment d'extase sur [*Brain*](https://www.youtube.com/watch?v=XljJSwqZSGI) de [The Action](https://en.wikipedia.org/wiki/The_Action)... entre autres bien sûr.
 

@@ -1,12 +1,15 @@
 ---
-title: "Enregistrement de la BO de Demain d'Argile avec La Ruche"
+title: "🎙️ Enregistrement de la BO de Demain d'Argile avec La Ruche"
 date: 2020-03-10T16:00:00+02:00
-tags: ["actu","projet","musique","da"]
+categories: ["Articles"]
+tags: ["musique","réalisateur"]
 slug: "enregistrement-de-la-bo-de-demain-dargile-avec-la-ruche"
 draft: false
 ---
 
-{{< image-grid src="../../blog/2020-03-enregistrement-de-la-bande-originale-avec-la-ruche/bo-01.jpg" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2020-03-enregistrement-de-la-bande-originale-avec-la-ruche/bo-01.jpg" >}}
+{{< /gallery >}}
 
 *Quelques nouvelles de la post-production de *Demain d'Argile*.*
 
@@ -18,7 +21,7 @@ Le groupe réunit Geoffrey à la guitare, Tom à la basse, Kevin aux claviers et
 
 Nous avons programmé une session d'enregistrement aux Ateliers du Cinéma à Beaune où nous avons enregistré une partie des compositions en direct sur les images du film. **Une belle expérience ponctuée de moments d'improvisation providentiels.**
 
-{{< image-grid src="../../blog/2020-03-enregistrement-de-la-bande-originale-avec-la-ruche/bo-02.jpg" >}}
+{{< img src="../../../blog/2020-03-enregistrement-de-la-bande-originale-avec-la-ruche/bo-02.jpg" >}}
 
 **Nous sommes ravis du résultat et du travail fournit par le groupe.** Profitons en pour les remercier encore, ainsi que Sam qui s'est occupé de l'enregistrement et qui nous a livré des pistes sons de grande qualité.
 

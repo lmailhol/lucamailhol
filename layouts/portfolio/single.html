@@ -1,21 +1,57 @@
 {{ define "main" }}
 
-<div class="row w100 mb2">
-  <div class="col-noalign w20 automobile">
-    <a data-fancybox="gallery" href="{{ .Params.cover }}"><img class="mb1" src="{{ .Params.cover }}" alt="Card image"></a>
-    <h3 class="mb0 p0"><a class="color-gray-300 uppercase" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-    {{ with .Params.nodesc }}&nbsp;{{else}}<h6 class="mb0-5 color-gray-700 p0"><span class="color-gray-500">{{ .Params.realisation }}</span><br />{{ .Params.genre }} • {{ .Params.time }} • {{ partial "year.html" . }}</h6>{{ end }}
-    <p class="mt0 mb1 pl1 border-left">{{ .Params.synopsis }}</p>
-    <p class="color-gray-700">
-      <span class="color-gray-500">&gt; Ratio :</span> {{ .Params.ratio }}<br />
-      <span class="color-gray-500">&gt; Tech :</span> {{ .Params.tech }}<br />
-      <span class="color-gray-500">&gt; Équipe : </span><a href="{{ .Params.crew }}">IMDB</a>
-    </p>
-  </div>
-  <div class="col w2 gut nomobile"> </div>
-  <div class="col w80 automobile">
-    {{ .Content }}
-  </div>
-</div>
+<article class="page">                                
+  <div class="entry-content">
+    <div class="container m-t-140 m-t-sm-90 single-portfolio"> 
+    
+      <div class="row">
+        <div class="col-md-12 m-b-20">
+          <div class="heading-block">                
+            <h2 class="entry-title"><span class="label-cm-round">{{ .Params.genre }}</span> {{ .Title }}</h2>
+            <div class="description"><span class="accent-color">{{ partial "year.html" . }}</span> / Réalisé par {{ .Params.realisation }} • {{ .Params.time }}</div>              
+          </div>
+        </div>
+      </div>         
+    
+      <div class="row">
+        <div class="col-md-9 m-b-90">
+    
+          {{ .Content }}
+
+        </div>
+        <div class="col-md-3 m-b-90">
+          <div class="entry-meta">
+
+            <div class="entry-meta-poster mb-3">
+              <img src="{{ .Params.cover }}" />
+            </div>
+
+            <div class="entry-meta-title">
+              <h4>Synopsis</h4>
+            </div>
+                
+            <div class="meta-desc">
+              <p>{{ .Params.synopsis }}</p>
+            </div>
+
+            <!--<div class="entry-meta-title">
+              <h4>Équipe</h4>
+            </div>
+          
+            <div class="meta-entries">
+              <ul class="portfolio-crew">
+                <li><span>Caméra : </span>{{ .Params.camera }}</li>
+                <li><span>Électricité : </span>{{ .Params.light }}</li>
+                <li><span>Machinerie : </span>{{ .Params.grip }}</li>
+                <li><span>Détail : </span><a href="{{ .Params.crew }}">IMDB</a></li>
+              </ul>
+            </div>-->
+          </div>
+        </div>
+      </div>
+
+    </div>      
+  </div>  
+</article>
 
 {{ end }}

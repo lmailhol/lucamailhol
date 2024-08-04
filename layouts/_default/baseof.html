@@ -1,17 +1,58 @@
-<!doctype html>
-<html lang="fr">
-  {{ partial "head.html" . }}
-  <body>
-    <div class="container w66 onmobile-w90 ontablet-w85 center" role="main">
-      <nav class="mainMenu aligncenter">
-        {{ partial "mainMenu.html" . }}
-      </nav>
+<!DOCTYPE html>
+<html lang="en">
 
-      {{ block "main" . }}{{ end }}
+  <head>
+    {{ partial "head.html" . }}
+  </head>
 
-      <footer class="bl aligncenter alignbottom">
-        {{ partial "mainFooter.html" . }}
-      </footer>
+  <body class="dark has-fullscreen-hamburger-menu">
+      
+    <!-- Page Wrapper -->
+          
+    <div id="page" class="site">
+          
+      <header id="masthead" class="site-header standard full-width transparent" role="banner">
+
+          {{ partial "mainMenu.html" . }}
+
+      </header>
+          
+      <div class="site-content-contain">
+
+        <div id="content" class="site-content">    
+            <div id="primary" class="content-area">
+              <main id="main" class="site-main" role="main"> 
+
+                {{ block "main" . }}{{ end }}
+
+              </main>
+            </div> <!-- .content-area -->        
+        </div> <!-- .site-content -->                  
+          
+        {{ if .IsHome }}
+
+        {{ else }}
+
+          <footer id="footer" class="site-footer standard" role="contentinfo">
+
+            {{ partial "mainFooter.html" . }}
+
+          </footer>     
+
+        {{ end }}
+
+      </div> <!-- .site-content-contain -->
+          
+    </div> <!-- .site -->
+          
+          <!-- Page Wrapper Ends -->
+            
+    <div class="background-circle">
+      <div></div>
     </div>
+          
+    {{ partial "footer.html" . }}      
+ 
   </body>
+    
 </html>

@@ -1,18 +1,21 @@
 ---
-title: "Demain d'Argile en montage son"
+title: "🎛️ Demain d'Argile en montage son"
 date: 2020-05-09T18:00:00+02:00
-tags: ["actu","montage","projet","da"]
+categories: ["Projets"]
+tags: ["réalisateur","montage","chef-opérateur"]
 slug: "demain-dargile-en-montage-son"
 draft: false
 ---
 
-> **En ce temps de confinement, voici quelques nouvelles du projet qui souffre d'un petit retard.**
+**En ce temps de confinement, voici quelques nouvelles du projet qui souffre d'un petit retard.**
 
 Avant de commencer, j'espère que vous allez bien, où que vous soyez et que cette drôle de période n'aura pas été trop rude pour vous et vos proches.
 
 **Alors, où on est-on avec Demain d'Argile ?** Depuis [l'enregistrement de la musique originale](https://lucamailhol.com/blog/2020/03/enregistrement-de-la-bo-de-demain-dargile-avec-la-ruche/), **le montage image est bouclé**. Et après un temps plus étendu que prévu, **la phase montage son sera bientôt terminée.**
 
-{{< image-grid src="../../blog/2020-05-le-montage-son/le-montage-son-01.png" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2020-05-le-montage-son/le-montage-son-01.png" >}}
+{{< /gallery >}}
 
 ### Petite introduction au montage son
 

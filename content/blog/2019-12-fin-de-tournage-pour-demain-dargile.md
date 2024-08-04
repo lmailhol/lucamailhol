@@ -1,18 +1,23 @@
 ---
-title: "Fin de tournage pour Demain d'Argile"
+title: "🎬 Fin de tournage pour Demain d'Argile"
 date: 2019-12-07T16:00:00+02:00
+categories: ["Projets"]
 tags: ["actu","projet","da", "chef-op"]
 slug: "fin-de-tournage-pour-demain-d-argile"
 draft: false
 ---
 
-> **Fin de tournage pour *Demain d'Argile*, le projet que nous portons avec Charline depuis presque un an maintenant.**
+**Fin de tournage pour *Demain d'Argile*, le projet que nous portons avec Charline depuis presque un an maintenant.**
 
-{{< image-grid src="../../blog/2019-12-fin-de-tournage-pour-demain-dargile/fin-de-tournage-01.jpg" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2019-12-fin-de-tournage-pour-demain-dargile/fin-de-tournage-01.jpg" >}}
+{{< /gallery >}}
 
 **Une partie du film se déroulant dans un univers de fable et l'autre dans le réel, la majorité du film s'est tournée en deux temps sur une période de trois semaines.** Nous avions décidé de séparer ces moments pour les traiter comme deux tournages à part entières. Cela nous a permis d'avoir quelques jours de préparation supplémentaires avant d'aborder le réel et d'effectuer un roulement d'équipe.
 
-{{< image-grid src="../../blog/2019-12-fin-de-tournage-pour-demain-dargile/fin-de-tournage-02.jpg" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2019-12-fin-de-tournage-pour-demain-dargile/fin-de-tournage-02.jpg" >}}
+{{< /gallery >}}
 
 Après un certain temps de préparation déco et trois jours d'installation en studio, nous avons commencé à filmer du 8 au 11 novembre. Le moment où se concrétise d'un seul coup presque un an d'écriture, d'idées, de questions... Nous aurons l'occasion d'y revenir plus précisément. Nous avons enchainé avec plusieurs jours de préparation qui nous menaient au 18 novembre, premier jour de tournage réel. Il s'est terminé le 22 novembre avec l'enregistrement de la voix-off de notre comédienne principale. Enfin, nous avons enregistré les dernières images du film jeudi dernier. Retour au studio, en équipe de trois cette fois.
 

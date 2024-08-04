@@ -1,19 +1,22 @@
 ---
-title: "Un long-métrage en deux semaines : Retour à Hérisson"
+title: "🦔 Un long-métrage en deux semaines : Retour à Hérisson"
 date: 2021-08-18T09:00:00+02:00
-tags: ["projet", "chef-op"]
+categories: ["Projets"]
+tags: ["chef-opérateur"]
 slug: "un-long-metrage-en-deux-semaines-retour-a-herisson"
 draft: false
 ---
 
-Cet été, j'ai officié comme chef-opérateur sur un premier long-métrage, écrit et réalisé par mon ami Léo, *Retour à Hérisson* (titre provisoire). Quelle expérience. Après deux semaines de tournage intense, j'avais du mal à intégrer que nous avions tout rentré.
+Cet été, j'ai officié comme chef-opérateur sur un premier long-métrage, écrit et réalisé par mon ami Léo, *Retour à Hérisson* (titre provisoire). Quelle expérience. Après deux semaines de tournage intense, j'avais du mal à intégrer que nous avions tout rentré. **Le postulat de départ : une fiction longue, tournée en 13 jours dans [le village d'Hérisson](https://www.openstreetmap.org/#map=16/46.5087/2.7104&layers=N).** Un scénario qui m'a accroché d'un coup. Une chorale d'une journée, de nombreux personnages et une majorité de seconds rôles joués par des habitants du coin. Une flopée de décors, des nuits, des aubes...<!--more-->  
 
-**Le postulat de départ : une fiction longue, tournée en 13 jours dans [le village d'Hérisson](https://www.openstreetmap.org/#map=16/46.5087/2.7104&layers=N).** Un scénario qui m'a accroché d'un coup. Une chorale d'une journée, de nombreux personnages et une majorité de seconds rôles joués par des habitants du coin. Une flopée de décors, des nuits, des aubes... À la lecture et en accord avec les envies de Léo, il était évident que le film appelait à une certaine force esthétique, à du mouvement : il n'y a eu aucun débat quant à la location d'une dolly. De plus, étant fasciné par l'utilisation conjointe du rail et du zoom, je savais que nous allions travailler avec des configurations lourdes. **13 jours en petite équipe. Quelques paramètres à prendre en compte, donc.**
+À la lecture et en accord avec les envies de Léo, il était évident que le film appelait à une certaine force esthétique, à du mouvement : il n'y a eu aucun débat quant à la location d'une dolly. De plus, étant fasciné par l'utilisation conjointe du rail et du zoom, je savais que nous allions travailler avec des configurations lourdes. **13 jours en petite équipe. Quelques paramètres à prendre en compte, donc.**
 
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/01.jpg" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/02.jpg" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/03.jpg" w="w20" gut="1" >}}
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/04.jpg" w="w20" >}}
+{{< gallery columns="4" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/01.jpg" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/02.jpg" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/03.jpg" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/04.jpg" >}}
+{{< /gallery >}}
 
 *Retour à Hérisson* s'est mis assez vite sur pied. Courant mars Léo a présenté le projet en indiquant déjà une zone précise de tournage. Du fait des emplois du temps de chacun, nous avons pu caler un unique week-end de repérage sur place un bon mois et demi avant le début du tournage.
 
@@ -21,10 +24,11 @@ Cet été, j'ai officié comme chef-opérateur sur un premier long-métrage, éc
 
 Sur place étaient prévus trois jours de préparation pour retourner sur les décors déjà repérés, pour continuer les essais caméra et pour valider certains aspects du découpage.
 
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/11.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/13.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/12.jpg" w="w30" >}}
-
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/11.jpg" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/13.jpg" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/12.jpg" >}}
+{{< /gallery >}}
 
 Un projet ambitieux à bas budget implique souvent un plan de travail tiré au cordeau. **Passé une période de rodage, nous avons trouvé un bon équilibre entre petites séquences et scènes techniquement demandeuses.** En bout de course, nous avons essuyé quelques très longues journées mais dans une bonne ambiance. Difficile de couper à quelques moments de stress, aux instants où on se demande si ça va passer. **Mais c'est aussi la beauté des projets comme celui-là : une équipe très impliqués, ce qui a toujours permis de trouver des astuces et de se débrouiller.** Même à 4h du matin sous la pluie et l'orage alors qu'il reste une séquence clé à tourner.
 
@@ -42,9 +46,11 @@ Que dire de plus ? **J'étais très content de notre configuration si on oublie 
 
 Au milieu de tout ce merdier, on retrouve Egan, premier assistant rencontré pour l'occasion et dont le professionnalisme et l'humour m'auront impressionné. Pendant ces deux semaines, il a été brillamment secondé par Yuntian. **Une très belle équipe caméra que je remercie beaucoup !**
 
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/05.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/07.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/06.jpg" w="w30" >}}
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/05.jpg" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/07.jpg" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/06.jpg" >}}
+{{< /gallery >}}
 
 ### Un point sur la lumière
 
@@ -56,9 +62,11 @@ Comme pour beaucoup de projets, le regret est toujours de ne pas s'attarder pour
 
 Dans tous les cas, rien n'aurait été possible sans la dévotion de Claire et Étienne, aidés par Thibaut la deuxième semaine. Je les remercie énormément : nous n'étions pas sorti du cul des ronces et ils m'ont suivi dans mes délires avec efficacité, propositions et force blagues douteuses[^3]... **Autant dire que sans ça, tenir la distance aurait été beaucoup plus compliqué.** À noter aussi, l'aide précieuse de [Émile](https://www.zacargroup.com/) venu quelques jours faire des plans de coupe et qui s'est retrouvé à installer des projecteurs, par la force des choses.
 
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/08.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/09.jpg" w="w30" gut="1" >}}
-{{< image-grid src="../../blog/2021-08-retour-a-herisson/10.jpg" w="w30" >}}
+{{< gallery columns="3" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/08.jpg" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/09.jpg" >}}
+  {{< img src="../../../blog/2021-08-retour-a-herisson/10.jpg" >}}
+{{< /gallery >}}
 
 Malgré mes quelques piques concernant le matériel, les problèmes arrivent et nous étions tout de même très bien dotés. Un grand merci donc, à [Buffaloc](http://www.buffaloc.fr), [Les Ateliers du Cinéma](https://ateliersducinema.org), [Constance Production](http://www.constanceprod.com) et [Honest Production](https://www.thisishonest.fr).
 

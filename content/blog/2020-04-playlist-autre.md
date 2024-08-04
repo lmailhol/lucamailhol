@@ -1,10 +1,12 @@
 ---
-title: "2015 - Playlists en vrac"
+title: "🎧 2015 - Playlists en vrac"
 date: 2020-04-06T18:00:00+02:00
-tags: ["musique", "playlist"]
+categories: ["Autre"]
+tags: ["musique"]
 slug: "2015-playlists-en-vrac"
 draft: false
 ---
+
 ### Hip-hop
 
 **Courant 2015, je m'étais composé ma seule playlist de hip-hop/rap/fusion.** Je ne suis pas un fin connaisseur mais voici une partie de ce qu'elle contient : surtout des classiques. Mention pour l'album *Deltron 3030*, une bombe, une autre pour les *Jazzmatazz* de Guru et une enfin pour A Tribe Called Quest. Et bien sûr pour tout le travail de DJ Shadow, pour l'album *Illmatic*...

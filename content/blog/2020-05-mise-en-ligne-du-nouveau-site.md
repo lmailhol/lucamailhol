@@ -1,12 +1,11 @@
 ---
-title: "Mise en ligne du nouveau site lucamailhol.com"
+title: "💻 Mise en ligne du nouveau site lucamailhol.com"
 date: 2020-05-23T19:09:32+01:00
-tags: ["actu", "web"]
+categories: ["Autre"]
+tags: ["site web"]
 slug: "mise-en-ligne-du-nouveau-site-lucamailhol-com"
 draft: false
 ---
-
-> **Màj 14/11/20** : Finalement, j'ai fini par abandonner Skeleton au profit de [Rocssti](https://rocssti.net). C'est très bien, merci à son auteur. Il reste du travail d'adaptation mais le site se base maintenant sur quelque chose de plus solide. Il est aussi beaucoup plus adapté aux mobiles.
 
 **Le site est mis à jour depuis quelques jours déjà**, mais voici la petite news pour accompagner ce changement.
 
@@ -18,9 +17,12 @@ Autrement, tout roule. Je suis content d'utiliser Hugo que je trouve très bien 
 
 Pour la blague, je me suis baladé sur [archive.org](https://archive.org) pour récupérer deux captures d'écran de vieilles versions de ma page. Elles datent de 2011 et 2012, respectivement. **Pas mal de changement depuis, tout de même.**
 
-{{< image-grid src="../../blog/2020-05-mise-en-ligne-du-nouveau-site/web-001.png" w="w40" gut="1" >}}
-{{< image-grid src="../../blog/2020-05-mise-en-ligne-du-nouveau-site/web-002.png" w="w40 ">}}
+{{< gallery columns="2" >}}
+  {{< img src="../../../blog/2020-05-mise-en-ligne-du-nouveau-site/web-001.png" >}}
+  {{< img src="../../../blog/2020-05-mise-en-ligne-du-nouveau-site/web-002.png" >}}
+{{< /gallery >}}
 
+**Màj 14/11/20** : *Finalement, j'ai fini par abandonner Skeleton au profit de [Rocssti](https://rocssti.net). C'est très bien, merci à son auteur. Il reste du travail d'adaptation mais le site se base maintenant sur quelque chose de plus solide. Il est aussi beaucoup plus adapté aux mobiles.*
 
 [^1]: Le PHP est le seul langage de programmation dont je me souviens correctement donc je n'étais pas trop perdu. Je ne sais pas où en est ce CMS comme j'ai loupé pas mal de màj, mais c'était quand même un très bon produit.
 

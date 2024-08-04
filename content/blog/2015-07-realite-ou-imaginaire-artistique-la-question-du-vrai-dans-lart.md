@@ -1,5 +1,5 @@
 ---
-title: "Réalité ou imaginaire artistique ? La question du vrai dans l'art"
+title: "🧩 Réalité ou imaginaire artistique ? La question du vrai dans l'art"
 date: 2015-06-01T14:09:32+01:00
 tags: ["article", "art", "cinéma"]
 slug: "realite-ou-imaginaire-artistique-la-question-du-vrai-dans-lart"
@@ -8,11 +8,15 @@ draft: false
 
 **Le rapport entre la fiction et la réalité a toujours été au cœur du débat artistique. Celui-ci est lié à la notion de perception qui peut grossièrement se diviser en deux catégories : la perception du sujet par l’artiste et la perception de l’œuvre par le spectateur. Mais le lien entre l’idée de vrai et de faux est une affaire complexe. S’il est établi que l’art n’est pas sensé être une représentation objective de la réalité, nombreux sont les exemples qui amènent, dans un premier temps, à relativiser cette affirmation.**
 
-{{< image-grid src="../../blog/2015-01-touristica-international/realite-ou-imaginaire-01.jpg" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2015-01-touristica-international/realite-ou-imaginaire-01.jpg" >}}
+{{< /gallery >}}
 
 **En 1877, Auguste Rodin se retrouve au cœur d’une polémique, accusé d’avoir eu recours au moulage d’un corps pour *L’âge d’airain*, considéré bien trop réaliste. Dans un même temps, l’apparition de la photographie déclenche de nombreux débats, portés notamment par Baudelaire en 1859 dans *Le public moderne et la photographie*.** Quand ses contemporains voient la photographie comme un art sous prétexte qu’elle capture parfaitement la réalité, le poète riposte fermement. Selon lui, l’apparition d’une telle machine apparaît comme un déclin en amenant les artistes à se concentrer sur ce qu’ils voient et non ce dont ils rêvent. On retrouve une idée similaire dans la pensée d’Hegel dans l’*Introduction à l’esthétique*, pour qui *"certains portraits sont ressemblants jusqu’à la nausée"*. **Pour le philosophe, la joie procurée par la volonté d’imiter la nature doit être toute relative.** Quelques décennies plus tard, l’essor des nouvelles technologies éclaire le débat sous un jour nouveau.
 
-{{< image-grid src="../../blog/2015-01-touristica-international/realite-ou-imaginaire-02.jpg" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2015-01-touristica-international/realite-ou-imaginaire-02.jpg" >}}
+{{< /gallery >}}
 
 **À la base d’une œuvre, il y a la volonté d’un artiste d’exprimer sa perception individuelle sur un sujet choisi.** Prenons l’exemple du moyen-métrage *Disneyland, mon vieux pays natal* du cinéaste français Arnaud Des Pallières, sorti à la télévision en 2000. Dans ce film expérimental, le réalisateur se base sur le réel, le parc d’attractions, pour le traiter d’une manière complètement hallucinée. En découle un portrait complètement hors norme du lieu, tant dans le fond que dans la forme.
 

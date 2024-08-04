@@ -1,0 +1,59 @@
+<div class="col-lg-3 col-sm-12 p-lg-0 m-l-lg-n-10 m-l-md-n-0">
+	    
+	<aside id="secondary" class="widget-area" role="complementary" aria-label="Blog Sidebar">
+	    
+		<!--<section class="widget widget_text">
+			<h2 class="widget-title">
+				<span>Qu'est-ce ?</span>
+			</h2>
+					
+			<div class="textwidget">
+				<p>Vous trouverez dans ce blog quelques petits récits de voyages ou autres randonnées, des articles racontant les films sur lesquels je travaille ainsi que d'autres notes diverses.</p>
+					</div>
+		</section>-->
+
+		<section class="widget widget_categories">
+			<h2 class="widget-title">
+				<span>Catégories</span>
+			</h2>
+			<ul>
+				{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+					{{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+						<li class="cat-item"><a href="{{ .Permalink }}">{{ $name | humanize }}</a></li>
+					{{ end }}
+				{{ end }}
+			</ul>
+		</section>
+
+		<section class="widget widget_text">
+			<h2 class="widget-title">
+				<span>Articles aléatoires</span>
+			</h2>
+					
+			<div class="randomarticles">
+				<ul class="random-articles">
+					{{ range first 5 ( (where .Site.Pages "Type" "blog") | shuffle ) }}
+						<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+					{{ end }}
+				</ul>
+			</div>
+		</section>
+
+		<section class="widget widget_tag_cloud">
+			<h2 class="widget-title">
+				<span>Tags</span>
+			</h2>
+	                 
+			<div class="tagcloud">
+				<ul class="tag-cloud" role="list">
+					{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+				        {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+				            <li><a href="{{ .Permalink }}">#{{ $name }}&nbsp;</a></li>
+				        {{ end }}
+				    {{ end }}
+				</ul>
+			</div>
+		</section>
+	    
+	</aside>
+</div>

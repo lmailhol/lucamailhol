@@ -1,5 +1,5 @@
 ---
-title: "Le Grateful Dead, geeks avant l'heure"
+title: "🎶 Le Grateful Dead, geeks avant l'heure"
 date: 2015-09-01T14:09:32+01:00
 tags: ["article", "musique"]
 slug: "le-grateful-dead-geeks-avant-l-heure"
@@ -10,13 +10,17 @@ draft: false
 
 **L’acte de copier n’a bien sûr pas attendu l’arrivée d’Internet.** En 1770, Mozart transcrivait à l’oreille le Miserere d’Allegri dont la partition originale était jalousement gardée dans l’enceinte de la chapelle Sixtine et dont la copie ou la diffusion étaient prohibées. Les cas de copies, au sens général du terme, qui ont contribué à l’histoire de l’art, sont légion.
 
-{{< image-grid src="../../blog/2015-01-touristica-international/grateful-dead-01.jpg" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2015-01-touristica-international/grateful-dead-01.jpg" >}}
+{{< /gallery >}}
 
 Prenons un exemple plus contemporain, le Grateful Dead. Groupe iconique fondé en 1965, ayant durablement et profondément marqué l’histoire de la musique comme l’un des premiers "jam band", interprètes de plus de 2000 concerts à travers le monde. **Le Grateful Dead est aussi un précurseur dans son rapport aux fans, à contre-courant de la norme établie. En effet, entre autres choses, le groupe permettait à ses spectateurs d’enregistrer les concerts, les fameux bootlegs, et de les partager.** En 1984, ils auront même un espace aménagé près de la table de mixage, afin d’y brancher leur matériel. Il va sans dire que ces choix inédits ont contribué à l’immense reconnaissance du groupe ainsi qu’à une fréquentation exceptionnelle de ses rassemblements. Une reconnaissance hors du temps. Par ailleurs : cette année, le groupe s’est reformé pour une dernière série de shows à Chicago, occasionnant un record de vente absolu.
 
 **En outre, le Grateful Dead est lié aux geeks par le biais d’une personne, John Perry Barlow.** Ancien parolier du groupe, il est un des cofondateurs de l’Electronic Frontier Foundation et connu aussi pour sa [déclaration d’indépendance du cyberespace](https://fr.wikipedia.org/wiki/Déclaration_d%27indépendance_du_cyberespace), publiée en 1996 et très largement diffusée. Un des premiers hacktivistes, en somme.
 
-{{< image-grid src="../../blog/2015-01-touristica-international/grateful-dead-02.jpg" >}}
+{{< gallery columns="1" >}}
+  {{< img src="../../../blog/2015-01-touristica-international/grateful-dead-02.jpg" >}}
+{{< /gallery >}}
 
 Militant pour la liberté du net, il est convié en 2011 à l’eG8 au côté de nombreuses personnalités liées au monde de la “propriété intellectuelle”. Seul présent à gagner effectivement sa vie dans la création, il plaide pour une véritable réflexion autour de cette notion de propriété intellectuelle dont la seule appellation lui semble illégitime. Pour Barlow, l’arrivée d’Internet est une aubaine pour l’avenir de la création. *"Essayer de continuer d’imposer un ordre ancien et de préserver des modèles économiques éculés sans reconnaître la relation qui existe entre la création et son public"* est voué à l’échec.
 

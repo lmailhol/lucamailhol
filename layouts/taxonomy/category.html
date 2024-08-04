@@ -1,0 +1,71 @@
+{{ define "main" }}
+
+<div class="container blog m-t-140 m-t-sm-90 mb-5">  
+    
+<header class="blog-banner">		
+
+	<div class="blog-banner-content-wrap">
+		<div class="blog-banner-content">
+    									
+			<h1 class="banner-title">
+            	Catégorie : <span class="accent-color">{{ .Title }}</span>
+            </h1>						
+    				    
+		</div>
+	</div>
+</header>
+            
+	<div class="row">        
+		<div class="col-lg-9 col-sm-12 p-r-lg-60 p-r-md-15">
+
+	        {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
+			{{ range $paginator.Pages }}
+
+				<article class="post format-standard">
+		    
+					<div class="post-wrap">            
+		                    
+						<div class="post-content">
+		                    
+							<header class="entry-header">
+		    
+								<div class="entry-meta">
+									<span class="posted-on">                                        
+										{{ partial "date.html" . }}
+									</span>
+									
+									<span class="cat-links">                                        
+										{{ partial "categories.html" . }}
+									</span>
+								</div><!-- .entry-meta -->
+		    
+								<h2 class="entry-title">
+									<a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+								</h2>
+		    
+							</header><!-- .entry-header -->
+		                    
+							<div class="entry-content">
+								<p>{{ .Summary }}</p>
+								
+								<p class="link-more">
+									<a href="{{ .RelPermalink }}" class="more-link">Lire la suite</a>
+								</p>
+							</div><!-- .entry-content -->        
+		                    
+						</div>      
+					</div>
+				</article><!-- #post-## -->
+
+			{{ end }}
+
+			{{ template "_internal/pagination.html" . }}
+
+		</div>
+		
+		{{ partial "blogsidebar.html" . }}
+
+	</div>
+</div> 
+
+{{ end }}
